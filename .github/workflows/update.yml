@@ -27,3 +27,4 @@ jobs:
           python query_api.py
           python plot.py
           cat current_count.txt
+          git status
