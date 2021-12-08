@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2021 Stephan Druskat <mail@sdruskat.net>
+# SPDX-License-Identifier: MIT
+
 import pandas as pd
 import matplotlib.pyplot as plt
 

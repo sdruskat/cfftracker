@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2021 Stephan Druskat <mail@sdruskat.net>
+# SPDX-License-Identifier: MIT
+
 import requests
 from datetime import date
 import csv
