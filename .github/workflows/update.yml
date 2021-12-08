@@ -1,4 +1,4 @@
-name: update
+name: Update data
     
 on:
   schedule:
@@ -10,19 +10,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout repo content
+      - name: Checkout
         uses: actions/checkout@v2
-      - name: setup python
+      - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
-      - name: execute py script # run the run.py to get the latest data
+      - name: Install Python requirements
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: update_count
+      - name: Update the file count
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # if run.py requires passwords..etc, set it as secrets
         run: |
           python query_api.py
           python plot.py
+          cat current_count.txt
