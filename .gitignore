@@ -1,5 +1,6 @@
 # SPDX-FileCopyrightText: 2021 Stephan Druskat <mail@sdruskat.net>
 # SPDX-License-Identifier: CC0-1.0
 
-**/venv/
-**/__pycache__/
+data/
+venv/
+__pycache__/
