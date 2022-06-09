@@ -22,7 +22,7 @@ The tracker uses a [GitHub Action workflow](.github/workflows/update.yml) to [qu
 
 The total count is then extracted from the API response, added with the current date to a [CSV file](cff_counts.csv), written to a [text file](current_count.txt) (for easy extraction), and put in `README.md` using regex replacement for the `## Current count: nnnn` line.
 
-[Another script](plot.py) using [pandas](https://pandas.pydata.org/) and [matplotlib](https://matplotlib.org/) creates the graph you see above.
+[Another script](clean_plot.py) using [pandas](https://pandas.pydata.org/) and [matplotlib](https://matplotlib.org/) creates the graph you see above.
 
 And finally, all updated files are committed and pushed back into this repository.
 
