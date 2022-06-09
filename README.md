@@ -9,7 +9,12 @@ Tracks `CITATION.cff` files across public repositories on GitHub.
 
 ## Current count: 8851
 
-![A graph showing a timeline of file counts for CITATION.cff files across GitHub retrieved via GitHub search API.](cff_counts.png)
+![A graph showing a timeline of file counts for CITATION.cff files across GitHub retrieved via GitHub search API.](cff_counts_clean.png)
+
+Note: This plot has been produced on cleaned up data that disregards drops in counts of > 100.
+These steep drops are due to temporal unreliabilities in results from the GitHub Search API, 
+caused by backend work on GitHub at the time of the query (source: personal communication with GitHub staff).
+For a plot of the uncleaned data, see [cff_counts.png](cff_counts.png).
 
 ## Documentation
 

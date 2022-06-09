@@ -42,7 +42,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # if run.py requires passwords..etc, set it as secrets
         run: |
           python query_api.py
-          python plot.py
+          python clean_plot.py
           cat current_count.txt
 
       - name: Commit updated files
