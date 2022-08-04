@@ -7,7 +7,7 @@ SPDX-License-Identifier: CC-BY-4.0
 
 Tracks `CITATION.cff` files across public repositories on GitHub.
 
-## Current count: 10323
+## Current count: 10360
 
 ![A graph showing a timeline of file counts for CITATION.cff files across GitHub retrieved via GitHub search API.](cff_counts_clean.png)
 
