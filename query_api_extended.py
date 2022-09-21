@@ -3,8 +3,6 @@
 
 from urllib.parse import urlparse
 from urllib.parse import parse_qs
-from os import listdir
-from os.path import isfile, join
 import requests
 from datetime import datetime, date
 import csv
@@ -12,7 +10,6 @@ import re
 import os
 import time
 import json
-from ratelimit import limits, sleep_and_retry
 import calendar
 import typing as t
 import urllib
@@ -99,14 +96,6 @@ def write_stats(response_json):
     # Write the file out again
     with open(readme, 'w') as fo:
         fo.write(readme_data)
-
-
-def write_response(response: requests.Response):
-    with open('responses.json', 'r') as response_file:
-        data = json.load(response_file)
-    data['responses'].append(response.json())
-    with open(f'responses.json', 'w') as response_file2:
-        response_file2.write(json.dumps(data))
 
 
 def save_cff_file(dir_name, subdir_name, full_html_url: str, url):
@@ -205,7 +194,6 @@ def traverse_results(next_page_url, last_page_url, headers):
         else:
             next_page_url = response.links['next']['url']
             last_page_url = response.links['last']['url']
-            write_response(response)
             add_response_to_dataset(response)
             if next_page_url != last_page_url:
                 traverse_results(next_page_url, last_page_url, headers)
@@ -234,7 +222,6 @@ def query():
         time.sleep(10)
         query()
 
-    write_response(initial_response)
     add_response_to_dataset(initial_response)
 
     # Page through results, using pagination and relative links
