@@ -25,14 +25,6 @@ def get_search_result(g):
     pass
 
 
-# @sleep_and_retry
-# @limits(calls=30, period=60)
-# def get_response_json(query_url):
-#     print(f'Querying page number {query_url[89:]}')
-#     response = requests.get(query_url, headers={'Authorization': 'token ' + token})
-#     return response.json()
-
-
 def respect_rate_limits(headers):
     rate_limit_response = requests.get('https://api.github.com/rate_limit', headers=headers)
     data = rate_limit_response.json()
