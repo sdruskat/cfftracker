@@ -209,26 +209,30 @@ def query():
         'UserAgent': 'sdruskat'
         }
 
-    # Retrieve the total count of CITATION.cff files on GitHub via the GitHub API
-    query_url = 'https://api.github.com/search/code?q=filename:CITATION.cff+cff-version&per_page=100'
-    initial_response = get_query_response(query_url, headers)
-    response_headers = initial_response.headers
-    initial_response_json = initial_response.json()
-    try:
-        write_stats(initial_response_json)
-    except KeyError:
-        # Wait 10 seconds then retry
-        print('Could not retrieve total count from initial response, retrying in 10 secs.')
-        time.sleep(10)
-        query()
+    basic_query_url = 'https://api.github.com/search/code?q=filename:CITATION.cff+cff-version&per_page=100&accept=application/vnd.github+json'
+    indexed_desc_query_url = basic_query_url + '&sort=indexed&order=desc'
+    indexed_asc_query_url = basic_query_url + '&sort=indexed&order=asc'
+    queries = [basic_query_url, indexed_desc_query_url, indexed_asc_query_url]
 
-    add_response_to_dataset(initial_response)
+    for query_url in queries:
+        # Retrieve the total count of CITATION.cff files on GitHub via the GitHub API
+        initial_response = get_query_response(query_url, headers)
+        response_headers = initial_response.headers
+        initial_response_json = initial_response.json()
+        try:
+            write_stats(initial_response_json)
+        except KeyError:
+            # Wait 10 seconds then retry
+            print('Could not retrieve total count from initial response, retrying in 10 secs.')
+            time.sleep(10)
+            query()
 
-    # Page through results, using pagination and relative links
-    next_page_url = initial_response.links['next']['url']
-    last_page_url = initial_response.links['last']['url']
-    traverse_results(next_page_url, last_page_url, headers)
-# TODO Fix pagination, add rate limit checking, SAVE FILE DIRECTLY FROM 'html_url'
+        add_response_to_dataset(initial_response)
+
+        # Page through results, using pagination and relative links
+        next_page_url = initial_response.links['next']['url']
+        last_page_url = initial_response.links['last']['url']
+        traverse_results(next_page_url, last_page_url, headers)
 
 
 if __name__ == "__main__":
