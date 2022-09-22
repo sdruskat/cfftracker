@@ -113,7 +113,6 @@ def save_cff_file(dir_name, subdir_name, full_html_url: str, url):
                 _dir_info = _dir_info[1:]
             if _dir_info.endswith('/'):
                 _dir_info = _dir_info[:-1]
-            _dir_info = _dir_info.replace('/', '-')
         else:
             _dir_info = ''
 
