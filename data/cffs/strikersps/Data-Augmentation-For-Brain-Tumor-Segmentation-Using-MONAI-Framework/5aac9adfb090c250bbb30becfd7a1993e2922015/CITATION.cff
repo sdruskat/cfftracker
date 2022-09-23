@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sharma"
+  given-names: "Suraj"
+title: "Data-Augmentation-For-Brain-Tumor-Segmentation-Using-MONAI-Framework"
+version: 1.0.0
+date-released: 2022-08-18
+doi: 10.1109/CONIT55038.2022.9847822
+url: "https://github.com/strikersps/Data-Augmentation-For-Brain-Tumor-Segmentation-Using-MONAI-Framework"

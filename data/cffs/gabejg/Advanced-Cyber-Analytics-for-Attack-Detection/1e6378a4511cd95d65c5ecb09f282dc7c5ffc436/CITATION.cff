@@ -1,0 +1,25 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "University of Bristol"
+    family-names: Caian
+    given-names: Alex
+  -
+    affiliation: "University of Bristol"
+    family-names: Corrie
+    given-names: Matthew
+  -
+    affiliation: "University of Bristol"
+    family-names: Grant
+    given-names: Gabriel
+  -
+    affiliation: "University of Bristol"
+    family-names: Hawley
+    given-names: Luke
+cff-version: "1.1.0"
+date-released: 2021-04-05
+message: "If you use any of the code in this repository please cite it as below. In addition it may be worth checking our references found throughout the files to see what we used to help with our development."
+title: "Advanced Cyber Analytics for Attack Detection"
+version: "1.2"
+...

@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Modelica library Credibility"
+type: software
+license: BSD-3-Clause
+repository-code: "https://github.com/DLR-SR/Credibility"
+authors:
+  - family-names: Otter
+    given-names: Martin
+  - family-names: Reiner
+    given-names: Matthias
+  - family-names: Tobolar
+    given-names: Jakub
+preferred-citation:
+  type: article
+  title: "Towards Modelica Models with Credibility Information"
+  authors:
+    - family-names: Otter
+      given-names: Martin
+      orcid: "https://orcid.org/0000-0001-6348-9569"
+    - family-names: Reiner
+      given-names: Matthias
+    - family-names: Tobolář
+      given-names: Jakub
+      orcid: "https://orcid.org/0000-0002-4888-4664"
+    - family-names: Gall
+      given-names: Leo
+    - family-names: Schäfer
+      given-names: Matthias
+  journal: "Electronics"
+  volume: 11
+  issue: 17
+  year: 2022
+  doi: 10.3390/electronics11172728 

@@ -1,0 +1,8 @@
+authors:
+  - family-names: Holcomb
+    given-names: Mark
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Sudoku Difficulty Scale"
+date-released: 2022-05-05
+url: "https://github.com/github/linguist"

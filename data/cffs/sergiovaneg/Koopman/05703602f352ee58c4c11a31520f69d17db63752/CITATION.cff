@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use the algorithms implemented in this repository, please cite them as below."
+authors:
+  - family-names: Vanegas Arias
+    given-names: Sergio Mauricio
+title: "Koopman operator for Kalman-informed MPC"
+version: 1.0.0
+date-released: 2022-05-14

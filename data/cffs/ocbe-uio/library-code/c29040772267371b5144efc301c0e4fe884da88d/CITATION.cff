@@ -1,0 +1,12 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Leoncio
+    given-names: Waldir
+    name-suffix: Netto
+cff-version: "1.1.0"
+license: "GPL-3.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/ocbe-uio/rse-tools/"
+...

@@ -1,0 +1,17 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "PPGI/UFRJ"
+    family-names: Zavaleta
+    given-names: Jorge
+    orcid: "https://orcid.org/0000-0002-4747-8613"
+cff-version: "1.1.0"
+date-released: 2021-04-05
+doi: "10.5281/zenodo.4663365"
+license: "CC-BY-NC-4.0"
+message: "Data Management Plan. Data Science. Machine Learning. Fake News. Jupyter Notebook. Python."
+repository-code: "https://github.com/zavaleta/Machine-Learning-and-Fake-News"
+title: "Machine Learning and Fake News"
+version: "1.1.0"
+...

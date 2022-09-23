@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Massimiliano
+    given-names: Furlan
+title: "Algorithmic pricing. Replication of Calvano et al. (2020) in Julia."
+date-released: 2022-07

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software or the results, please cite it as below."
+authors:
+- family-names: "Dey"
+  given-names: "Tapajit"
+  orcid: "https://orcid.org/0000-0002-1379-8539"
+title: "InnerSource Survey 2020"
+version: 1.0.0
+date-released: 2020-12-08
+url: "https://github.com/tapjdey/InnerSource_Survey_2020"

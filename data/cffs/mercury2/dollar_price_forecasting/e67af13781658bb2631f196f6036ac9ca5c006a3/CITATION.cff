@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Asch
+    given-names: Christian
+  - family-names: Mejías
+    given-names: José Andrés
+
+title: "Dollar price forecasting"

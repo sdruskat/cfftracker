@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sens"
+  given-names: "Diogo Filipe"
+  orcid: "https://orcid.org/0000-0002-9687-8971"
+title: "cnn_sar_image_classification"
+version: 1.0.0
+doi: 10.5281/zenodo.5984760
+date-released: 2022-02-06
+url: "https://github.com/diogosens/cnn_sar_image_classification"

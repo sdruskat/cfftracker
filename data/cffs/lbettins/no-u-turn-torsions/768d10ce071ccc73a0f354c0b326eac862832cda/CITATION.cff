@@ -1,0 +1,6 @@
+authors:
+  - family-names: Bettinson
+    given-names: Lance A.
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "No U-Turn Sampler for Intramolecular Torsions"

@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Taveira Blomenhofer
+    given-names: Alexander
+    orcid: https://orcid.org/0000-0002-6554-3140 
+title: "Base case computation for: Sums of third Powers of Quadratics are generically Identifiable up to quadratic Rank"
+version: 1.0.0
+date-released: 2022-04-18

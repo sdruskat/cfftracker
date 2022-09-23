@@ -1,0 +1,9 @@
+cff-version: 1.0.1
+message: "If you use para.m in your research, please cite T. Han, Y. Ma, and K. Xie, Phys.Rev.D 103 (2021) 3, L031301, arXiv:2007.14300."
+authors:
+  - family-names: Ma
+    given-names: Yang
+    orcid: https://orcid.org/0000-0002-9419-6598
+title: para: A Mathematica package to set up the SM parameters
+version: v1.0.1
+date-released: 2017-12-18

@@ -1,0 +1,13 @@
+cff-version: 1.8.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Martin"
+  given-names: "Dobias"
+- family-names: "Peter"
+  given-names: "Petrik"
+- family-names: "Tomas"
+  given-names: "Mizera"
+title: "Mergin Maps Input app"
+doi: 10.5281/zenodo.6375198
+date-released: 2017-12-18
+url: "https://github.com/MerginMaps/input"

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this repo."
+authors:
+- family-names: "Valle"
+  given-names: "Filippo"
+  orcid: "https://orcid.org/0000-0003-3577-8667"
+title: "latentrees"
+version: 1.0.0
+date-released: 2021-07-14
+url: "https://github.com/fvalle1/latentrees"

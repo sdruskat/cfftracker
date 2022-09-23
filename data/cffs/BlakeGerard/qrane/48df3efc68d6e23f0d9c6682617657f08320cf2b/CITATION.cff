@@ -1,0 +1,11 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'QRANE: Lifting QASM Programs to an Affine IR'
+message: Citation
+type: software
+authors:
+  - given-names: Blake Gerard
+  - given-names: Tobias Grosser
+  - given-names: Martin Kong

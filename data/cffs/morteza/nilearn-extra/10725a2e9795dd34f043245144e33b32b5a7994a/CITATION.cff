@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below."
+authors:
+- family-names: "Ansarinia"
+  given-names: "Morteza"
+  orcid: "https://orcid.org/0000-0001-8335-6704"
+- family-names: "Cardoso-Leite"
+  given-names: "Pedro"
+  orcid: "https://orcid.org/0000-0002-2848-5527"
+title: "Nilearn Extra: Drop-in extra features for Nilearn"
+version: v0.1.1
+doi: 10.5281/zenodo.7096267
+date-released: 2022-06-20
+url: "https://github.com/morteza/nilearn-extra"

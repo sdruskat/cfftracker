@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: "Björn"
+    family-names: "Kahlert"
+    orcid: "https://orcid.org/0000-0003-1705-4067"
+title: "Kommons Debug — A Kotlin Multiplatform Library to support print debugging"
+version: 0.14.0
+date-released: 2022-08-08
+url: "https://github.com/bkahlert/kommons-debug"

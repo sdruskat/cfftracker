@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: Nudgin-as-a-Service Engine
+message: >-
+  If you use this software, or want to cite it in
+  your academic work, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Thomas
+    family-names: Mol
+    email: email@thomasmol.com
+    affiliation: Utrecht University
+version: 0.1
+date-released: "2022-09-19"
+license: Apache-2.0
+repository-code: "https://github.com/ThomasMol/smart-nudging-engine"

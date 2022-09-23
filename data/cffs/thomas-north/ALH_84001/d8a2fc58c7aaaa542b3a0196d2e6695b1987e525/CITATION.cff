@@ -1,0 +1,9 @@
+cff-version: 0.0.1
+message: "If you publish this video anywhere, please cite it as below."
+authors:
+  - family-names: North
+    given-names: Thomas
+    orcid: https://orcid.org/0000-0002-9548-8779
+title: thomas-north/ALH_84001: v0.1
+version: pre-review
+date-released: 2022-06-13

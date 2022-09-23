@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Renaudie
+    given-names: Johan
+    orcid: https://orcid.org/0000-0002-9107-1984
+  - family-names: Ware
+    given-names: David
+title: "raupShiny: Shiny app for Raup's Coiling Model"
+version: 1.1.1
+doi: 10.5281/zenodo.5171827
+date-released: 2021-09-01

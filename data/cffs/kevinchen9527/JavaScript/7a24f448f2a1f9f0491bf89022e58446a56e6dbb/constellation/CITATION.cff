@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - name: "Zhenchao Jin"
+title: "Constellation: Beautiful starry sky written in js"
+date-released: 2021-01-20
+url: "https://github.com/CharlesPikachu/Games"
+license: Apache-2.0

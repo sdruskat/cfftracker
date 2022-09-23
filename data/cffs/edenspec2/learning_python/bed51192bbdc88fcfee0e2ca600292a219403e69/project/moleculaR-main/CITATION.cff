@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: moleculaR
+message: A molecular parameterization and modeling toolset
+type: software
+authors:
+  - given-names: Shahar Barkai
+    name-particle: Shahar
+    family-names: Barkai
+    email: barkais@post.bgu.ac.il
+    affiliation: 'Ben Gurion University of the Negev, Israel'
+    orcid: 'https://orcid.org/0000-0001-7242-6551'
+commit: 'https://github.com/barkais/moleculaR.git'
+version: '1.0'
+date-released: '2022-07-12'

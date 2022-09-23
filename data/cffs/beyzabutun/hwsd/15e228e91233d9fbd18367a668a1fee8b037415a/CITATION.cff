@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: ""
+authors:
+- family-names: "Butun"
+  given-names: "Beyza"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "hwsd"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022
+url: "https://github.com/beyzabutun/hwsd"

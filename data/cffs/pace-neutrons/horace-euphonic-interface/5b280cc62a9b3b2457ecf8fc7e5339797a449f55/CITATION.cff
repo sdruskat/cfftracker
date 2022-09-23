@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you have used Horace-Euphonic-Interface in your research, please cite it as below"
+abstract: "Horace-Euphonic-Interface is a MATLAB Add-on to allow simulation of Horace cuts with Euphonic"
+authors:
+  - family-names: "Fair"
+    given-names: "Rebecca L."
+  - family-names: "Le"
+    given-names: "Manh Duc"
+title: "Horace-Euphonic-Interface"
+doi: 10.5286/SOFTWARE/HORACEEUPHONICINTERFACE
+version: 0.3.2
+date-released: 2022-02-09
+license: GPL-3.0-only
+repository-code: https://github.com/pace-neutrons/horace-euphonic-interface
+url: https://horace-euphonic-interface.readthedocs.io
+keywords:
+  - "MATLAB"
+  - "physics"
+  - "phonons"
+  - "inelastic neutron scattering"
+  - "CASTEP"
+  - "Phonopy"
+  - "Horace"
+  - "Euphonic"

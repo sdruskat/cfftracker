@@ -1,0 +1,13 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Bliek
+    given-names: Tijs
+    orcid: https://orcid.org/0000-0002-0488-4873
+ - family-names: Galland
+    given-names: Marc
+    orcid: https://orcid.org/0000-0003-2161-8689
+title: "Calling genotype from RNA-seq pipeline"
+version: 0.1.0
+doi: FIXME
+date-released: 2021-11-08

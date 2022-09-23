@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Raney"
+  given-names: "Austin"
+  orcid: "https://orcid.org/0000-0002-7670-1298"
+title: "CUAHSI Python Subsetter"
+# version: 0.0.1
+# date-released: 2021-12-15 # TODO: update this on release
+url: "https://github.com/cuahsi/subsetter"

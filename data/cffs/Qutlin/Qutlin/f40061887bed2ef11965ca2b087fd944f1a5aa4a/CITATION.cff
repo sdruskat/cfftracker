@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+
+authors: 
+  - family-names: Fehse
+    given-names: Felix
+cff-version: "1.2.0"
+license: MIT
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/shiMusa/Qutlin"
+url: "https://github.com/shiMusa/Qutlin"
+title: Qutlin
+version: "1.0"
+date-released: 2021-09-20

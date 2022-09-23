@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Zupko"
+  given-names: "Robert"
+  orcid: "https://orcid.org/0000-0001-8757-483X"
+title: "forestsim"
+version: 1.0.2
+date-released: 2020-10-04
+url: "https://github.com/forestsim-mtu/forestsim"

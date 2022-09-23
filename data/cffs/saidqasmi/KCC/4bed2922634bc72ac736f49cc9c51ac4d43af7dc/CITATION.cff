@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Qasmi"
+  given-names: "Saïd"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Ribes"
+  given-names: "Aurélien"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Kriging for Climate Change Package"
+version: 1.0.0
+doi: 10.5281/zenodo.5233947
+date-released: 2021-08-23
+url: "https://github.com/saidqasmi/KCC"

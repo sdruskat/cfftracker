@@ -1,0 +1,27 @@
+# YAML 1.2
+---
+cff-version: "1.1.0"
+message: "If you use this software, please cite it using these metadata."
+abstract:
+  Karl Friedrich Stumpf-Brentano,
+  Die Reichskanzler vornehmlich des
+  X., XI. und XII.  Jahrhunderts.
+  Nebst einem Beitrage zu den
+  Regesten und zur Kritik der Kaiserurkunden
+  dieser Zeit 2 (Innsbruck 1865–1883).
+  Concordance of document numbers ("Regesta")
+  and pages with links to the digitized
+  volume at the Bavarian State Library
+  <https://daten.digitale-sammlungen.de/~db/0000/bsb00001189/images/>
+authors: 
+  -
+    name: "Monumenta Germaniae Historica (MGH)"
+    website: "https://www.mgh.de"
+    city: "München"
+    country: "DE"
+date-released: 2021-07-28
+license: "CC0-1.0"
+repository-code: "https://github.com/mghdata/stumpf"
+title: "Linking to Stumpf, Reichskanzler"
+version: "1.0.0"
+...

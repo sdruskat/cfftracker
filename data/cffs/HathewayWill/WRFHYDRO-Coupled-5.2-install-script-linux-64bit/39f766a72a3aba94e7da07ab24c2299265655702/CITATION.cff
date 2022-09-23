@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: WRFHYDRO Coupled 5.2
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Will
+    family-names: Hatheway
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/whatheway/WRFHYDRO-Coupled-5.2-install-script-linux-64bit
+version: 5.2
+date-released: '2022-06-17'

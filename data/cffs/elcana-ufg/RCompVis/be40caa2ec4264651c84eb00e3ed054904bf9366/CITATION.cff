@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "de Oliveira"
+  given-names: "Anselmo Elcana"
+  orcid: "https://orcid.org/0000-0001-7468-8221"
+title: "RCompVis"
+version: 1.0.0
+date-released: 2022-09-09
+url: "https://github.com/elcana-ufg/RCompVis"

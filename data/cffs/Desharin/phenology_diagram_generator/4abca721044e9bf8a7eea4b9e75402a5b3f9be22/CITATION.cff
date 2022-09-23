@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this script, please cite it as below."
+authors:
+- family-names: "van der Hak"
+  given-names: "Dion Duco"
+title: "Phenology Diagram Generator"
+version: 1.0.0
+date-released: 2022-08-18
+url: "https://github.com/Desharin/phenology_diagram_generator"

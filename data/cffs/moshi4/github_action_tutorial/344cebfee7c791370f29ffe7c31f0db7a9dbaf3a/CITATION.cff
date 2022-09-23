@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "FamilyName"
+  given-names: "GivenName"
+title: "TEST TITLE"
+date-released: 2021-10-21
+url: "https://github.com/moshi4/github_action_tutorial"

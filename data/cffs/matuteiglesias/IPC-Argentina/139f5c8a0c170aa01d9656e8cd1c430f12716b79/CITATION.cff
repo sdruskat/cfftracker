@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Al usar estos datos citar de la forma siguiente:"
+authors:
+- family-names: "Iglesias"
+  given-names: "Matias Nehuen "
+title: "IPC-Argentina"
+version: 1.0.0
+doi: 
+date-released: 2021-10-06
+url: "https://github.com/matuteiglesias/IPC-Argentina"

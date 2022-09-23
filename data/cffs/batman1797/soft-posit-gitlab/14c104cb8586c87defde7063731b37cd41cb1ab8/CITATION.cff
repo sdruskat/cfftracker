@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Leong
+    given-names: Siew Hoon
+    orcid: 0000-0001-8241-6277
+title: "SoftPosit"
+version: 0.4.2
+doi: 10.5281/zenodo.3709035
+date-released: 2020-03-13

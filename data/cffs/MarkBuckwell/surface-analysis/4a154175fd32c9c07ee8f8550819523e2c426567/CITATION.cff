@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Buckwell
+    given-names: mark
+    orcid: https://orcid.org/0000-0003-0031-5929
+title: "matlab surface analysis"
+date-released: 2021

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Eisenach"
+  given-names: "Nils"
+title: "union_find"
+version: 1.0.0
+date-released: 2022-09-09
+url: "https://github.com/NilEis/union_find"

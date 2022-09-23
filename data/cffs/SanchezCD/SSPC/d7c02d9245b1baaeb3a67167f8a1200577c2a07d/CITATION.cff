@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+type: dataset
+authors:
+  -
+    family-names: "Sánchez-Segura"
+    given-names: "César D."
+    orcid: "https://orcid.org/0000-0001-7895-2317"
+  -
+    family-names: "Peña-Cruz"
+    given-names: "Manuel I."
+    orcid: "https://orcid.org/0000-0002-9184-3155"
+cff-version: "1.1.0"
+keywords:
+  - "Clear sky model"
+  - "Renewable energies"
+  - "Solar energy"
+message: "If you use this software or partial code, please cite it as below."
+title: "SSPC Clear sky model code"
+version: "1.0.0"
+date-released: 2021-10-25
+url: "https://github.com/SanchezCD/SSPC"

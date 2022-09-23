@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "How to cite this software."
+authors:
+  - family-names: Marco
+    given-names: Maggesi
+    orcid: https://orcid.org/0000-0003-4380-7691
+title: Initial algebra semantics for de Bruijn monads in HOL Light
+version: v2022.08.08
+date-released: 2022-09-06

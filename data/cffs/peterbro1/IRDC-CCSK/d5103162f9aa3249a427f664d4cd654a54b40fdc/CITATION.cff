@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Browning"
+  given-names: "Peter"
+- family-names: "Aubert"
+  given-names: "Clément"
+  orcid: "https://orcid.org/0000-0001-6346-3043"
+title: "RCCS_Impl"
+version: 1.0.0
+date-released: 2022-04-18
+url: "https://github.com/peterbro1/RCCS_Impl"

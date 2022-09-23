@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: XR-Course
+message: >-
+  cff-version: 1.2.0 
+  message: "If you refer this guide and course materials, please cite it as below." 
+  authors: -
+  family-names: "Sumit Jain" 
+  given-names: "Sumit Jain" 
+  orcid: "https://orcid.org/0000-0000-0000-0000" -
+  family-names: "XR Course & Learning" 
+  given-names: "XR Courses" 
+  orcid: "https://orcid.org/0000-0000-0000-0000" 
+  title: "XR Course & Learning" 
+  version: 2.0.4 
+  doi: 10.5281/zenodo.1234 
+  date-released: 2022-06-15 
+  url: "https://github.com/summitgames" 
+type: Education 
+authors: []

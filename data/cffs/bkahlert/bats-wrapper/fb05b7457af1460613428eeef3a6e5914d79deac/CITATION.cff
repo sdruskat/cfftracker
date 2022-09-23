@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: "Björn"
+    family-names: "Kahlert"
+    orcid: "https://orcid.org/0000-0003-1705-4067"
+title: "Bats Wrapper — self-contained wrapper to run Bats (Bash Automated Testing System) tests"
+version: 0.1.4
+date-released: 2021-11-29
+url: "https://github.com/bkahlert/bats-wrapper"

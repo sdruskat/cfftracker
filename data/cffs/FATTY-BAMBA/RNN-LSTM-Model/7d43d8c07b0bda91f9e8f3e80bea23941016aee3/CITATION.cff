@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Fatty"
+  given-names: "Abdoulie"
+  orcid: "https://orcid.org/0000-0002-8765-4220"
+- family-names: "Li"
+  given-names: "An-Jui"
+- family-names: "Chen"
+  given-names: "Li-Hsuan"
+title: "LSTM-Model : Initial Release"
+version: 0.1.0
+doi: 10.5281/zenodo.6518234
+date-released: 2022-05-04
+url: "https://zenodo.org/badge/latestdoi/488620178"

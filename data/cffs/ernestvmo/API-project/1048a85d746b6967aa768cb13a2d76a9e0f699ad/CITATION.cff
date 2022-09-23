@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Vanmosuinck
+    given-names: Ernest
+  - family-names: Mone
+    given-names: Antonio
+  - family-names: Marincioni
+    given-names: Alessandro
+  - family-names: Ayodele
+    given-names: Adetunji
+title: "Generative Adversarial Networks for Audio Generation: A Comparative Study"
+version: 2.0.4
+date-released: 2022-06-20

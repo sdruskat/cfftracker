@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "No citation is required to use this software."
+authors:
+  - family-names: "Matriarx"
+    given-names: "Mia"
+title: "I18n ~ React"
+verion: "0.0.10"
+date-released: 2022-08-19
+url: "https://github.com/matriarx/i18n-react"

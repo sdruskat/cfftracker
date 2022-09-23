@@ -1,0 +1,11 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Test
+message: test
+type: software
+authors:
+  - given-names: Sara
+    family-names: Dijk
+    name-suffix: van

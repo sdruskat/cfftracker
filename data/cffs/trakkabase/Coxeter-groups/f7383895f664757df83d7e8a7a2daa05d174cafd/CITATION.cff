@@ -1,0 +1,12 @@
+authors:
+  - family-names: Sheard
+    given-names: David
+    orcid: "https://orcid.org/0000-0003-0427-532X"
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+title: "Coxeter groups software"
+version: 0.1.0
+repository-code: "https://github.com/trakkabase/Coxeter-groups"
+license: "MIT License"
+keywords:
+  - "coxeter groups"

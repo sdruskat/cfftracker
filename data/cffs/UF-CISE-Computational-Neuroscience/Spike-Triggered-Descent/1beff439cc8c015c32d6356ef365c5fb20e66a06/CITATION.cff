@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "Thank you for using Spike-Triggered-Descent. Please cite it in your work as described below."
+authors:
+- family-names: "Kummer"
+  given-names: "Michael"
+  orcid: "https://orcid.org/0000-0002-5661-7208"
+title: "Spike-Triggered-Descent"
+version: 1.0
+date-released: 2021-12-05
+url: "https://github.com/randompast/Spike-Triggered-Descent"

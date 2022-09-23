@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below."
+authors:
+- family-names: "De Angelis"
+  given-names: "Stefano"
+  orcid: "https://orcid.org/0000-0002-3613-9480"
+title: "SMEFT-operators"
+version: 1.0.0
+date-released: 2021-08-08
+url: "https://github.com/StefanoDeAngelis/SMEFT-operators"

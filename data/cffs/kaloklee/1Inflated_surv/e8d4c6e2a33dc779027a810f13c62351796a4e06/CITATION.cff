@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: "Lee"
+  given-names: "Ka Lok"
+  orcid: "https://orcid.org/0000-0002-9085-5808"
+title: "One-inflated Survival Model"
+version: 1.0.0
+date-released: 2022-09-19
+url: "https://github.com/kaloklee/1Inflated_surv"

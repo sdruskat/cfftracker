@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you this software, please cite it as below."
+authors:
+   - family-names: Isaacs
+     given-names: Loryn
+     orcid: "https://orcid.org/0000-0003-0267-4853"
+title: "Sketch Grammar Explorer"
+version: 0.5.5
+date-released: 2022-07-08
+repository-code: "https://github.com/engisalor/sketch-grammar-explorer"
+license: bsd-3-clause
+doi: 10.5281/zenodo.6812334

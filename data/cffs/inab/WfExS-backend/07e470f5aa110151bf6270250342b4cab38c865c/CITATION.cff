@@ -1,0 +1,25 @@
+authors:
+  - family-names: Fernández
+    given-names: José María
+    orcid: "https://orcid.org/0000-0002-4806-5140"
+  - family-names: Rodríguez-Navas
+    given-names: Laura
+    orcid: "https://orcid.org/0000-0003-4929-1219"
+  - family-names: Muñoz-Cívico
+    given-names: Adrián
+    orcid: "https://orcid.org/0000-0001-7517-5065"
+cff-version: 1.2.0
+date-released: "2022-06-01"
+identifiers:
+  - description: WfExS-backend release in Zenodo
+    type: doi
+    value: "10.5281/zenodo.6567592"
+keywords:
+  - workflows
+  - ro-crate
+license: Apache-2.0
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/inab/WfExS-backend"
+type: software
+title: "WfExS-backend"
+version: 0.5.6

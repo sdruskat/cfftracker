@@ -1,0 +1,13 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: van der Gragt
+    given-names: Michelle
+    orcid: https://orcid.org/0000-0002-8079-7667
+  - family-names: Galland
+    given-names: Marc
+    orcid: https://orcid.org/0000-0003-2161-8689
+title: "Small RNA-seq analysis pipeline"
+version: 0.4.4
+doi: https://doi.org/10.5281/zenodo.4333786
+date-released: 2021-10-14

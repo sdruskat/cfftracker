@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ZeroFPRSVDD
+message: >-
+  If you want to use my software, please cite it as
+  below.
+type: software
+authors:
+  - given-names: Alberto Carlevaro
+    name-particle: Alberto
+    family-names: Carlevaro
+    email: alberto.carlevaro@edu.unige.it
+    affiliation: University of Genoa - CNR IEIIT
+    orcid: 'https://orcid.org/0000-0002-7206-5511'

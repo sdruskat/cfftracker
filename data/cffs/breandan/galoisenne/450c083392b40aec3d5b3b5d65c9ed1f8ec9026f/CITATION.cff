@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you would like to cite Kaliningraph, please do so as follows:"
+authors:
+- family-names: "Considine"
+  given-names: "Breandan"
+- family-names: "Si"
+  given-names: "Xujie"
+- family-names: "Guo"
+  given-names: "Jin"
+title: "Kaliningraph: A Type Family of Algebraic Graphs"
+version: 0.1.8
+url: "https://github.com/breandan/kaliningraph"
+date-released: 2021-07-28

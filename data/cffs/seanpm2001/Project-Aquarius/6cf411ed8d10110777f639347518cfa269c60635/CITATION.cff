@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this project (Project Aquarius: Marine Biology resource article and landing page) please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "AquariOS"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2022-03-26
+url: "https://github.com/seanpm2001/Project-Aquarius"
+cff-version: 1.2.0
+message: "If you use this project (Project Aquarius: Marine Biology resource article and landing page) please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Project Aquarius: Marine Biology resource article and landing page"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2022-03-26
+url: "https://github.com/seanpm2001/Project-Aquarius"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 3
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "Project Aquarius is a research, collection, and promotion project for Marine Biology software and other digital works. If you use this article in your developments, please cite it to tell the Project Aquarius team how this project suits you."
+  issue: 1
+  volume: 1
+  year: 2022
+# File info
+# File version: 1 (2022, Monday, March 28th at 10:57 pm)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44

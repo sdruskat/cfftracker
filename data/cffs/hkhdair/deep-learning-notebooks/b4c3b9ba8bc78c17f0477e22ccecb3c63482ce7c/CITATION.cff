@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: >-
+  Deep learning examples and applications in PyTorch
+  and Tensorflow
+message: >-
+  If you use any of the code examples software,
+  please cite it using these metadata.
+type: software
+authors:
+  - given-names: Hisham
+    family-names: Khdair

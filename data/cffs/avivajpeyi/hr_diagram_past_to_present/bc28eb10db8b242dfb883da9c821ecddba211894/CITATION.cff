@@ -1,0 +1,10 @@
+cff-version: 0.0.1
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Vajpeyi
+    given-names: Avi
+    orcid: https://orcid.org/0000-0002-4146-1132
+title: "HR Diagrams (past to present)"
+version: 0.0.1
+date-released: 2022-08-29
+url: "https://github.com/avivajpeyi/hr_diagram_past_to_present"

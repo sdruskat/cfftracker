@@ -1,0 +1,15 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Ferrer-Paris"
+    given-names: "José R."
+    country: "AU"
+    orcid: https://orcid.org/0000-0002-9554-3395
+title: "Code and data for: Interactive Map of IUCN Red List of Ecosystem assessments"
+identifiers:
+  - description: This software provides an update of the map published in
+    type: doi
+    value: 10.1111/conl.12666
+version: v1.0
+date-released: 2021-08-23
+license: CC-BY-4.0

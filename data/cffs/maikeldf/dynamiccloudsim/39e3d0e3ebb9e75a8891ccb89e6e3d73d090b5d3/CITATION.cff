@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DynamicCloudSim
+message: >-
+  It has been modified to simulate a cloud
+  environment with instances gradually increasing CPU
+  percentiles.
+type: software
+authors:
+  - given-names: Maikel
+    family-names: Dal Farra
+    email: m.dalfarra1@nuigalway.ie

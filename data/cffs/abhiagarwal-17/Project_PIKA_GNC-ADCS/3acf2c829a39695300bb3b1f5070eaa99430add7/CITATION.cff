@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Agarwal, Ho, Ohenzuwa, Zhu
+    given-names: Abhinav, Michelle, Christine, Richard
+title: "Software Package for GNC/ ADCS of Project PIKA"
+version: 2.0.4
+date-released: 2022-04-13

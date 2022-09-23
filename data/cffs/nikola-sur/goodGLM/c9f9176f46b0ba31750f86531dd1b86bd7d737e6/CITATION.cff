@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Nikola"
+  given-names: "Surjanovic"
+- family-names: "Richard"
+  given-names: "Lockhart"
+- family-names: "Thomas"
+  given-names: "Loughin"
+title: "'goodGLM': A generalized Hosmer-Lemeshow goodness-of-fit test for a family of generalized linear models"
+version: 0.0.0.9
+date-released: 2022-02-18
+url: "https://github.com/nikola-sur/goodGLM"

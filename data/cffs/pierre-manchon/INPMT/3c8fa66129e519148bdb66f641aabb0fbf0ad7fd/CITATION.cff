@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+abstract: "Impact of National Parks on Malaria Transmission"
+authors: 
+  -
+    affiliation: "AMU Student - IRD Intern"
+    family-names: Manchon
+    given-names: Pierre
+    orcid: "https://orcid.org/0000-0003-2669-9879"
+cff-version: "1.0.3"
+date-released: 2021-08-26
+doi: "10.5281/zenodo.5269134"
+keywords: 
+  - malaria
+  - "national-parks"
+  - anopheles
+license: "GPL-3.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/pierre-manchon/INPMT/"
+title: INPMT
+version: "v0.2.0"
+...

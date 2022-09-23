@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Döring"
+  given-names: "Andreas"
+title: "Stepped-Euler-Bernoulli-Beam for Matlab"
+version: 2.0.2
+doi: 10.5281/zenodo.6675982
+date-released: 2022-06-21
+url: "https://doi.org/10.5281/zenodo.6675982"

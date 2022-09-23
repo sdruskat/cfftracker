@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "To cite ExtendedDFML in publications, please use:"
+authors:
+- family-names: "De Stefani"
+  given-names: "Jacopo"
+  orcid: "https://orcid.org/0000-0003-0257-4537"
+title: "Extended Dynamic Factor Machine Learner"
+version: 0.1.0
+date-released: 2021-05-10
+url: "https://github.com/jdestefani/ExtendedDFML"

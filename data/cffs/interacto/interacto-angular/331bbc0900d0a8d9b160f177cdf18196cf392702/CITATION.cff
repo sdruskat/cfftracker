@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+preferred-citation:
+  title: "Interacto: A Modern User Interaction Processing Model"
+  doi: "10.1109/TSE.2021.3083321"
+  url: "https://hal.inria.fr/hal-03231669/document"
+  year: "2021"
+  type: article
+  journal: "IEEE Transactions on Software Engineering"
+  authors:
+    - family-names: Blouin
+      given-names: Arnaud
+    - family-names: Jézéquel
+      given-names: Jean-Marc

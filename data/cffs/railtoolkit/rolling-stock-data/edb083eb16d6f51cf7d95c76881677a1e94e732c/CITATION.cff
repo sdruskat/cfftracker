@@ -1,0 +1,38 @@
+# YAML 1.2
+---
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Rolling Stock Data
+message: If you use this project, please cite it using these metadata.
+type: dataset
+authors:
+  - given-names: Martin
+    family-names: Scheidt
+    email: m.scheidt@tu-braunschweig.de
+    affiliation: TU Braunschweig
+    orcid: 'https://orcid.org/0000-0002-9384-8945'
+# contributors: # might come with cff-version: 1.3.0
+#   - given-names: Max
+#     family-names: Kannenberg
+#     email: 95709892+MaxKannenberg@users.noreply.github.com
+#     affiliation: TU Braunschweig
+#     role: DataCollector
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.6467448
+    description: 'Collection of archived snapshots of all versions of the library'
+  - type: doi
+    value: 10.5281/zenodo.6609895
+    description: Current version
+repository-code: 'https://github.com/railtoolkit/rolling-stock-data'
+abstract: >-
+  A collection of vehicle data for running time estimation in YAML format.
+keywords:
+  - railway
+  - rolling stock
+  - data
+license: CC-BY-4.0
+version: 2022.06
+date-released: 2022-06-03

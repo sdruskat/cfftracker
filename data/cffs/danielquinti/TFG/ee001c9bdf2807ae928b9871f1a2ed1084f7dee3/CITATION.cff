@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Deep Learning Language Models for music analysis
+  and generation
+message: Please cite this software using these metadata.
+type: software
+authors:
+  - given-names: Daniel
+    family-names: Quintillán Quintillán
+    email: danielquintillan@gmail.com
+    affiliation: Universidade da Coruña

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Hata"
+  given-names: "Hideaki"
+- family-names: "Novielli"
+  given-names: "Nicole"
+- family-names: "Baltes"
+  given-names: "Sebastian"
+- family-names: "Gaikovina Kula"
+  given-names: "Raula"
+- family-names: "Treude"
+  given-names: " Christoph"
+title: "Research Artifact: An Exploratory Study of GitHub Discussions Early Adoption"
+doi: 10.5281/zenodo.5026134
+url: "https://github.com/sbaltes/GHDiscussions"
+type: dataset

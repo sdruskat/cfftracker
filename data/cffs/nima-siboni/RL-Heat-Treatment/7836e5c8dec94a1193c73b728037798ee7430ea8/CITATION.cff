@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "H. SIBONI"
+  given-names: "NIMA"
+- family-names: "REZAEI MIANROODI"
+  given-names: "JABER"
+title: "RL-Heat-Treatment"
+version: 1.0.0
+date-released: 2022-09-18
+url: "https://github.com/nima-siboni/L-Heat-Treatment"

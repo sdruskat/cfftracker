@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Lacey
+    given-names: Dane
+    orcid: https://orcid.org/0000-0003-4925-7248
+title: "CML22 Project"
+version: 1.0.0

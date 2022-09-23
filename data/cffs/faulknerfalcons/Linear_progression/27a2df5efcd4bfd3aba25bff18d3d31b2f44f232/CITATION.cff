@@ -1,0 +1,11 @@
+cff-version: 0.1.v-beta
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Faulkner group"
+  given-names: " "
+  orcid: " "
+title: "Analysis of signal progression along the vascualture"
+version: 0.1.v-beta
+doi: 
+date-released: 2022-05-26
+url: "https://github.com/faulknerfalcons/Linear_progression"

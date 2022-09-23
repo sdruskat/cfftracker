@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: vertesy/ggExpress - the fastest way to create, annotate and and save plots in R.
+version: v0.5.5
+message: >-
+  If you use this software, please cite it using these metadata.
+type: software
+authors:
+  - given-names: Abel
+    family-names: Vertesy
+    email: abel.vertesy@imba.oeaw.ac.at
+    affiliation: IMBA
+    orcid: 'https://orcid.org/0000-0001-6075-5702'

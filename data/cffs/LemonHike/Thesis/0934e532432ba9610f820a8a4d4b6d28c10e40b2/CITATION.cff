@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Gelsomino"
+  given-names: "Ludovico"
+title: "Software Implementation for thesis: Deep Learning-Based Classificafication of Lukemic-B Lymphoblasts Cells"
+version: 1
+date-released: 2022-09-10
+url: "https://github.com/LemonHike/Thesis"

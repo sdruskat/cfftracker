@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Quigley
+    given-names: David
+    orcid: https://orcid.org/my-orcid?orcid=0000-0003-4750-4372
+title: "hs_alkane"
+version: 0.0.0
+date-released: 2019-11-17

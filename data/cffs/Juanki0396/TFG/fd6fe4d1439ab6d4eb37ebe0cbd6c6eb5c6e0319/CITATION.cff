@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Aranda Huecas"
+  given-names: "Juan Carlos"
+- family-names: "López Herraiz"
+  given-names: "Joaquín"
+title: "Ultrasound data harmonization with deep learning"
+date-released: 2022-6-27
+url: "https://github.com/Juanki0396/TFG"

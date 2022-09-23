@@ -1,0 +1,16 @@
+# YAML 1.2
+---
+cff-version: "1.1.0"
+title: "pylingdocs"
+authors:
+  - family-names: Matter
+    given-names: Florian
+    orcid: "https://orcid.org/0000-0002-2545-5154"
+date-released: 2022-09-19
+version: "0.0.9"
+url: "https://github.com/fmatter/pylingdocs/releases/tag/0.0.9"
+keywords:
+  - digital linguistics
+  - CLDF
+message: "If you use this software, please cite it using these metadata."
+license: Apache-2.0

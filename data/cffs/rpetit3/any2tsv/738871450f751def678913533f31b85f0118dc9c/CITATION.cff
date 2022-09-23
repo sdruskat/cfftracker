@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use any2tsv, please cite it as below."
+authors:
+- family-names: "Petit III"
+  given-names: "Robert A. "
+  orcid: "https://orcid.org/0000-0002-1350-9426"
+title: "any2tsv: Convert various bioinformatic outputs to TSV (2022)"
+url: "https://github.com/rpetit3/any2tsv"
+version: 0.0.1

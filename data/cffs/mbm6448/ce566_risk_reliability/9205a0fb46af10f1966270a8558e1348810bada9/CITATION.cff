@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repo, please cite it as below."
+authors:
+  - family-names: Moeini
+    given-names: Mohammad
+    orcid: https://orcid.org/0000-0002-9543-9766
+title: "CE 566 Risk and Reliability Course Project"
+version: 1.0
+date-released: 2022-05-04
+url: "https://github.com/mbm6448/ce566_risk_reliability"
+doi: 10.5281/zenodo.6858454

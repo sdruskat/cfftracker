@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: Philipp
+    family-names: Lucas
+    email: philipp.lucas@gmail.com
+    orcid: 'https://orcid.org/0000-0002-6687-8209'
+    affiliation: Friedrich-Schiller-Universität Jena
+  - given-names: Joachim
+    family-names: Giesen
+    email: joachim.giesen@uni-jena.de
+    affiliation: Friedrich-Schiller-Universität Jena
+title: "Lumen: A software for the interactive visualization of probabilistic models together with data"
+version: 1.0.0
+doi: https://doi.org/10.21105/joss.03395
+date-released: 2021-07-17
+url: "https://github.com/lumen-org/lumen"

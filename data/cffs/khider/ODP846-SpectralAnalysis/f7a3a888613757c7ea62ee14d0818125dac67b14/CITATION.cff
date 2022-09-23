@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Khider"
+    given-names: "Deborah"
+    orcid: "https://orcid.org/0000-0001-7501-8430"
+title: "The Mid-Pleistocene Transition as evidenced in a Marine Sedimentary Record from Site ODP846"
+version: v1.0
+doi: 10.5281/zenodo.6629719
+date-released: 2022-06-10
+url: "https://github.com/khider/ODP846-SpectralAnalysis"

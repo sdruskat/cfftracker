@@ -1,0 +1,11 @@
+cff-version: 0.1.0
+title: 'resmod'
+message: 'If you use this software, please cite it as below.'
+authors:
+  - name: "Drew E. Winters"
+license: MIT
+license-url: "https://github.com/drewwint/resmod/LICENSE"
+repository-code: "https://github.com/resmod"
+type: software
+url: "https://github.com/resmod"
+

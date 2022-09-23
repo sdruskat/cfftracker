@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If reference this work, please cite it as below."
+authors:
+- family-names: "Anliker"
+  given-names: "Simon"
+title: "HybridCloudOps Models for Business Application Development"
+version: 1.1.0
+date-released: 2020-07-19
+url: "https://github.com/hybridcloudops/thesis"

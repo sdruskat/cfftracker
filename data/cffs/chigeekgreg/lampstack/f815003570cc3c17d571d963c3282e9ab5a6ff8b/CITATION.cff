@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, if can be our secret. Seriously, just take it. But don't bother me."
+authors:
+- family-names: "chigeek"
+  given-names: "Greg"
+title: "LAMP Stack Docker Example"
+version: 0.0.2
+date-released: 2022-04-22
+url: "https://github.com/chigeekgreg/lampstack"

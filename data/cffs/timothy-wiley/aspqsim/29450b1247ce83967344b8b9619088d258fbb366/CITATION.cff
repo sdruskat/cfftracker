@@ -1,0 +1,23 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Wiley
+    given-names: Timothy
+    orcid: "https://orcid.org/0000-0002-5424-2537"
+  -
+    family-names: Bratko
+    given-names: Ivan
+  -
+    family-names: Hengst
+    given-names: Bernherd
+  -
+    family-names: Sammut
+    given-names: Claude
+cff-version: "1.1.0"
+date-released: 2017-07-01
+license: "AGPL-3.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/timothy-wiley/aspqsim"
+title: "ASP-QSIM"
+...

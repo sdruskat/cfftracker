@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+authors:
+- family-names: "MAGALLANES-REYES"
+  given-names: "JOSE MANUEL"
+  orcid: "https://orcid.org/0000-0002-2593-0859"
+title: "Sesion3 - Estadistica para el Análisis Político 2 - PUCP"
+version: 1.0.0
+doi:  10.5281/zenodo.7059207
+date-released: 2022-09-07
+url: "https://github.com/Estadistica-AnalisisPolitico/Sesion3"

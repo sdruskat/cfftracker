@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Garavito"
+  given-names: "David M. N."
+  orcid: "https://orcid.org/0000-0003-4903-9486"
+title: "TaskMaster"
+version: 1.0.0
+date-released: 2022-07-22
+url: "https://github.com/DGaravito/TaskMaster"

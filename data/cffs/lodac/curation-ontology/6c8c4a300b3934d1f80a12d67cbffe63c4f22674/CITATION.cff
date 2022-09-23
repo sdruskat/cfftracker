@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Data Curation Process Ontology
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Yasuyuki
+    family-names: Minamiyama
+    email: minamiyama@nii.ac.jp
+    affiliation: National Institute of Informatics
+    orcid: 'https://orcid.org/0000-0002-7280-3342'

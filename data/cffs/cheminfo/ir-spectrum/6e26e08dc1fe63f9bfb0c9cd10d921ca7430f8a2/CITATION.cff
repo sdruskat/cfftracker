@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: 'If you use this software, please cite it as below.'
+title: 'Library dealing with infrared spectra'
+abstract: ''
+repository-artifact: http://cheminfo.github.io/ir-spectrum/
+repository-code: https://github.com/cheminfo/ir-spectrum
+authors:
+  - family-names: 'Patiny'
+    given-names: 'Luc'
+    orcid: 'https://orcid.org/0000-0002-4943-2643'
+  - family-names: 'Zasso'
+    given-names: 'Michaël'
+    affiliation: 'Zakodium Sàrl, Switzerland'
+    orcid: 'https://orcid.org/0000-0001-5295-2159'
+license: MIT
+keywords:
+  - Infrared spectra
+  - IR
+  - JCAMP-DX
+  - FAIR data
+doi: 10.5281/zenodo.5482831

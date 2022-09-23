@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below."
+authors:
+  - family-names: Heggli
+    given-names: Ole Adrian
+    orcid: https://orcid.org/0000-0002-7461-0309
+title: "The Groove Generator - A Python package for groove research"
+type: software
+version: 0.1.5
+date-released: 22-03-2022

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kamerman"
+  given-names: "Peter"
+title: "statr (reduced): online statistical software"
+version:
+doi:
+date-released:
+url: "https://github.com/kamermanpr/painblogr-statr-reduced"

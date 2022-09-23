@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Tsutsumida"
+  given-names: "Narumasa"
+  orcid: "https://orcid.org/0000-0002-6333-0301"
+title: "2021GISciClass_docker_renv_m1"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2021-11-03
+url: "https://github.com/naru-T/2021GISciClass_docker_renv_m1"

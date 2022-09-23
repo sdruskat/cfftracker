@@ -1,0 +1,11 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Francisco
+    given-names: Ana A
+    orcid: https://orcid.org/0000-0003-4030-0297
+title: "Mixed models"
+version: pre-release2
+date-released: 2022-08-26
+doi: 10.5281/zenodo.7025414
+url: "https://github.com/DouweHorsthuis/Mixed-effect-models"

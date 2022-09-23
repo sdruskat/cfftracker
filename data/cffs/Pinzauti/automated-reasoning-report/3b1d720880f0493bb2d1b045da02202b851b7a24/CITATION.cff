@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you want to use this report, please cite it as below."
+authors:
+- family-names: "Pinzauti"
+  given-names: "Francesco"
+title: "Automated Reasoning Report"
+version: 1.0.0
+date-released: 2022-05-25
+url: "https://github.com/Pinzauti/automated-reasoning-report"

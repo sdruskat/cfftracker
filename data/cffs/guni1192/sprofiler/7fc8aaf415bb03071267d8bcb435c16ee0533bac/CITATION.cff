@@ -1,0 +1,8 @@
+cff-version: 0.1.0
+authors:
+  - family-names: Iiguni
+    given-names: Takashi
+title: Sprofiler
+version: 0.1.0
+date-released: 2021-09-04
+url: "https://github.com/sai-lab/sprofiler"

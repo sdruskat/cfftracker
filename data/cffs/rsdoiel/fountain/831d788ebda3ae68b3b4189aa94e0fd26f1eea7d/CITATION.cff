@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: fountain
+authors:
+  - family-names: Doiel
+    given-names: Robert
+    orcid: https://orcid.org/0000-0003-0900-6903
+abstract: A library and command line program for working with Fountain script/screenplay formatted files.
+repository-code: "https://github.com/rsdoiel/fountain"
+type: software
+version: 0.0.5
+license-url: "https://rsdoiel.github.io/fountain/license.html"
+keywords:
+  - Github
+  - text markup
+  - screen play
+date-released: 2022-08-08

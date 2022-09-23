@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite Luna & Korup (2022, submitted to GRL). Please also reference the repository itself, as indicated here:"
+authors:
+- family-names: "Luna"
+  given-names: "Lisa Victoria"
+  orcid: "https://orcid.org/0000-0002-9889-4262"
+title: "landslide-seasonality"
+version: 0.0.0
+doi: 10.5281/zenodo.6299024
+date-released: 2022-02-26
+url: "https://github.com/lvluna/landslide-seasonality"

@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Olivieri"
+  given-names: "Federico Alberto"
+  orcid: "https://orcid.org/0000-0002-6253-453X"
+title: "NMRMaker"
+version: 1.0.0
+doi: 10.5281/zenodo.6828496
+date-released: 2022-07-13
+url: "https://github.com/FAOlivieri/NMRMaker"

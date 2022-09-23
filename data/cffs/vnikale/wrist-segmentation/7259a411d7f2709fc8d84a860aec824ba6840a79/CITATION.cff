@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: wrist-segmentation
+message: source code for the wrist segmentation paper
+type: software
+authors:
+  - given-names: Nikita
+    family-names: Vladimirov
+doi: 10.5281/zenodo.7104713

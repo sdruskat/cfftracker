@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Poozhithara"
+  given-names: "Jeffy Jahfar"
+  orcid: "https://orcid.org/0000-0002-4692-3586"
+title: "PatternScout - SPARQL query generation from UML Diagrams"
+version: v1.6.7
+date-released: 2022-06-04
+url: "https://github.com/jeffyjahfar/uml-to-sparql-converter"

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: 'Network Canvas: Architect'
+message: Please cite this software using these metadata.
+type: software
+authors:
+  - given-names: Complex Data Collective
+    orcid: 'https://orcid.org/0000-0003-4329-8540'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.6026546
+repository-code: 'https://github.com/complexdatacollective/Architect'
+url: 'https://networkcanvas.com'

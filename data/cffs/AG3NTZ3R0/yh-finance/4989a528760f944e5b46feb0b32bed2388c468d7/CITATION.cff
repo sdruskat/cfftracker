@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lacy"
+  given-names: "Brandon"
+title: "yh-finance"
+version: 0.0.6
+date-released: 2022-03-10
+url: "https://github.com/AG3NTZ3R0/yh-finance"

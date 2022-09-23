@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Terrén-Serrano"
+  given-names: "Guillermo"
+  orcid: "https://orcid.org/0000-0002-8688-2299"
+- family-names: "Martínez-Ramón"
+  given-names: "Manel"
+  orcid: "https://orcid.org/0000-0001-5873-9674"
+title: "Girasol Repository Processing Files"
+version: 1.04
+date-released: 2022-08-19
+url: "https://github.com/gterren/multiple_cloud_dection_and_segmentation"

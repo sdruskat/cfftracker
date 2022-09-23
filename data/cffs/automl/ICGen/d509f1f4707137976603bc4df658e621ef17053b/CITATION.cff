@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Stoll
+    given-names: Danny
+title: "ICGen"
+version: 0.3.0
+date-released: 2020-07-15
+url: "https://github.com/automl/ICGen"

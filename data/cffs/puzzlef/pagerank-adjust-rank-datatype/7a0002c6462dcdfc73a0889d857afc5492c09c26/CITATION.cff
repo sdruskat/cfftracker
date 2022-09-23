@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Sahu
+    given-names: Subhajit
+    orcid: https://orcid.org/0000-0001-5140-6578
+title: "puzzlef/pagerank-adjust-rank-datatype: Performance of PageRank using 32-bit floats vs 64-bit floats for the rank vector"
+version: 1.1.0
+doi: 10.5281/zenodo.5759954
+date-released: 2021-12-06

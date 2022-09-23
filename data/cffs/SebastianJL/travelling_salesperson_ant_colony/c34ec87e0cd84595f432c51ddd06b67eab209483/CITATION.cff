@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: Travelling Salesperson Problem - Ant Colony Algorithm
+message: Please cite as below
+type: software
+authors:
+  - family-names: Lade
+    given-names: Johannes
+  - family-names: Camenisch
+    given-names: Casper
+    
+repository-code: https://github.com/SebastianJL/travelling_salesperson_ant_colony/new/main

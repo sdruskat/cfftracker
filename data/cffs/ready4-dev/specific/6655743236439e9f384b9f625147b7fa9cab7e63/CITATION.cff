@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Matthew Hamilton and Caroline Gao  (2022). specific: Specify Candidate Models for Representing Mental Health Systems. Version 0.0.0.9083. Zenodo. https://doi.org/10.5281/zenodo.5768689"
+authors:
+  - family-names: "Hamilton"
+    given-names: "Matthew"
+  - family-names: "Gao"
+    given-names: "Caroline"
+title: "specific: Specify Candidate Models for Representing Mental Health Systems"
+version: 0.0.0.9083
+doi: 10.5281/zenodo.5768689
+date-released: 2022-09-13
+url: "https://ready4-dev.github.io/specific/"

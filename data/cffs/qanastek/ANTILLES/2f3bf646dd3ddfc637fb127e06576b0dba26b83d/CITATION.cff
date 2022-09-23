@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "ANTILLES : An Open French Linguistically Enriched Part-of-Speech Corpus"
+authors:
+- family-names: "Labrak"
+  given-names: "Yanis"
+- family-names: "Dufour"
+  given-names: "Richard"
+title: "ANTILLES : An Open French Linguistically Enriched Part-of-Speech Corpus"
+version: 1.0.0
+date-released: 2021-11-25
+url: "https://github.com/qanastek/ANTILLES"

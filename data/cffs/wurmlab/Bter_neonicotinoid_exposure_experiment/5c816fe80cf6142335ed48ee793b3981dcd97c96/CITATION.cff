@@ -1,0 +1,12 @@
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Colgan; Fletcher; Arce; Gill; Ramos-Rodrigues; Stolle; Chittka; Wurm 
+    given-names: Thomas J.; Isabel K.; Andres N.; Richard J.; Ana; Eckart; Lars; Yannick
+    orcid: (Thomas Colgan) https://orcid.org/0000-0002-0547-8228; (Yannick Wurm) https://orcid.org/0000-0002-3140-2809
+title: Caste- and pesticide-specific effects of neonicotinoid pesticide exposure on gene expression in bumblebees.
+journal: Molecular Ecology
+doi: 10.1111/mec.15047
+date-released: 2018-12-17
+license: GPLv3
+repository: https://github.com/wurmlab/Bter_neonicotinoid_exposure_experiment

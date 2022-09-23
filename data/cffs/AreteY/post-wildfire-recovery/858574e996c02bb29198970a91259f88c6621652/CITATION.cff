@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Yoon"
+  given-names: "Y. Heidi"
+- family-names: "Ilangakoon"
+  given-names: "Nayani"
+title: "Post-Wildfire Recovery"
+version: 1.1.0
+doi: 10.5281/zenodo.6574445
+date-released: 2021-05-23
+url: "https://github.com/AreteY/post-wildfire-recovery"

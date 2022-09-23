@@ -1,0 +1,16 @@
+cff-version: 0.5.1
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Downing"
+    given-names: "Stephen"
+    orcid: https://orcid.org/my-orcid?orcid=0000-0002-3242-4532
+  - family-names: "Ferrier"
+    given-names: "Walter"
+  - family-names: "Kang"
+    given-names: "Jin-Su"
+  - family-names: "Katila"
+    given-names: "Riitta"
+title: "SequenceR"
+version: 0.5.1
+date-released: 2022-08-03
+url: "https://github.com/sdownin/sequencer"

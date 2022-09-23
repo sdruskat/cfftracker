@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Pescimoro
+    given-names: Eugenio
+    orcid:  https://orcid.org/0000-0002-1309-5833
+title: "nonFickianTransport"
+version: 2.0.4
+doi: https://github.com/multiform-UoN/PGSFlowTransport
+date-released: 2021-12-16

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Gunn
+    given-names: Erin
+    orcid: https://orcid.org/0000-0003-1642-9373
+title: "Implicit Surface Model Generator"
+version: 1.0.0
+date-released: 2021-12-21

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this script, please cite it as below."
+authors:
+- family-names: "van der Hak"
+  given-names: "Dion Duco"
+- family-names: "Sparrius"
+  given-names: "Laurens B."
+title: "Species Climate Parameter Index"
+version: 1.0.0
+date-released: 2022-09-08
+url: "https://github.com/Desharin/species-climate-index"

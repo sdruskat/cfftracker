@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Semmel
+    given-names: Frederik
+title: "Code for Modeling the Ideal Cipher in Linicrypt"
+url: "https://github.com/frederiksemmel/linicrypt_ideal_cipher_experiments"
+date-released: 2022-09-12
+version: 0.1

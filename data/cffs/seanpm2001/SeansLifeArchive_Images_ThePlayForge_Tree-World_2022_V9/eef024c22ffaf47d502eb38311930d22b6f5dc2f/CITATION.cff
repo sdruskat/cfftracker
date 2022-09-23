@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this data set (image data) project, please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V9"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2022-08-07 # Date of repository creation
+url: "https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V9"
+cff-version: 1.2.0
+message: "If you use this data set (image data) project, please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Video game image data for machine learning and stock imagery"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2022-09-30 # Date of the data from the last planned upload to this volume
+url: "https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V9"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 9
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "Video game (Tree World (2011) by The PlayForge (bought out by Behaviour Interactive on 2014 December 8th)) image data for machine learning, reference, and stock imagery by @seanpm2001 (Sean P. Myrick). This is volume 9 spanning from 2022 September 1st to 2022 September 30th. This project is additionally used for graphical and data reference for the ZooTree game (the same as all previous and current issues of this project)"
+  issue: 10 # Because there was 1 project that predates the monthly system
+  volume: 9
+  year: 2022
+# File info
+# File version: 1 (2022, Sunday, August 7th at 7:36 pm PST)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 45
+# File language: English (USA)

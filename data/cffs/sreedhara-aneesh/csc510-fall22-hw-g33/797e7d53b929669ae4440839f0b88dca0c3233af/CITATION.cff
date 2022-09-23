@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kalburgi"
+  given-names: "Udith"
+- family-names: "Mertz"
+  given-names: "Ryan"
+- family-names: "Sreedhara"
+  given-names: "Aneesh"
+- family-names: "Tithi"
+  given-names: "Sutapa Dey"
+title: "csc510-fall22-hw-g33"
+version: 1.0.0
+doi: 10.5281/zenodo.7033329
+date-released: 2022-08-28
+url: "https://github.com/sreedhara-aneesh/csc510-fall22-hw-g33"
+
+

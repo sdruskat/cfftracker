@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Vékony
+    given-names: Teodóra
+    orcid: https://orcid.org/0000-0002-8620-5685
+title: "Digit Span Task"
+version: 1.0.0
+doi: 10.5281/zenodo.7096258	
+date-released: 2021-05-03

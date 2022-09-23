@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Alsafadi"
+  given-names: "Hani N."
+  orcid: "https://orcid.org/0000-0002-1186-2517"
+title: "IWT: Interactive Well Transformer"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-09-12
+url: "https://github.com/Lung-bioengineering-regeneration-lab/IWT"

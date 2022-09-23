@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sheth"
+  given-names: "Dhruv"
+title: "Plant Growth Estimation using quantised Embedded Regression models for high throughput phenotyping"
+version: 1.0.0
+date-released: 2021-08-14
+url: "https://github.com/dhruvsheth-ai/Plant-Growth-Estimation-EdgeImpulse/"

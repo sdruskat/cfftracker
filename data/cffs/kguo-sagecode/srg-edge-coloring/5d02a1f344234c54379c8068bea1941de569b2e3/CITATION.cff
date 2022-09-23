@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Guo"
+    given-names: "Krystal"
+    orcid: "https://orcid.org/0000-0001-8776-537X"
+title: "kguo-sagecode/srg-edge-coloring: Determining if a k-regular graph is k-edge-colorable"
+version: v1.0.0
+doi: 10.5281/zenodo.4031224
+date-released: 2012-09-30

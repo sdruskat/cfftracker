@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Chesmore
+    given-names: Grace E.
+    orcid: TBD
+title: "The Simons Observatory: Characterizing the Large Aperture Telescope Receiver with Radio Holography"
+version: 1.0
+doi: TBD
+date-released: TBD
+url: "https://github.com/McMahonCosmologyGroup/solat-optics"

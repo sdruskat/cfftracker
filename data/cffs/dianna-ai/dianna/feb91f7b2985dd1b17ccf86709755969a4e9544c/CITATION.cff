@@ -1,0 +1,43 @@
+# YAML 1.2
+---
+cff-version: 1.2.0
+title: "dianna"
+authors:
+  -
+    family-names: Ranguelova
+    given-names: Elena
+    orcid: "https://orcid.org/0000-0002-9834-1756"
+  -
+    family-names: Bos
+    given-names: Patrick
+    orcid: "https://orcid.org/0000-0002-6033-960X"
+  -
+    family-names: Liu
+    given-names: Yang
+    orcid: "https://orcid.org/0000-0002-1966-8460"
+  -
+    family-names: Meijer
+    given-names: Christiaan
+    orcid: "https://orcid.org/0000-0002-5529-5761"
+  -
+    family-names: Oostrum
+    given-names: Leon
+    orcid: "https://orcid.org/0000-0001-8724-8372"
+  -
+    family-names: Crocioni
+    given-names: Giulia
+    orcid: "https://orcid.org/0000-0002-0823-0121"
+  -
+    family-names: Jansen
+    given-names: Aron
+    orcid: "https://orcid.org/0000-0002-4764-9347"
+
+# date-released: 2021-12-23
+doi: 10.5281/zenodo.5801485
+version: "0.5.0"
+repository-code: "https://github.com/dianna-ai/dianna"
+keywords:
+  - XAI
+  - machine learning
+message: "If you use this software, please cite it using these metadata."
+license: Apache-2.0

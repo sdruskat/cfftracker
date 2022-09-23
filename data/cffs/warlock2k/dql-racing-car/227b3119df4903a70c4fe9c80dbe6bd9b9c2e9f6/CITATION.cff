@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Nandikotkur"
+  given-names: "Achyuth"
+title: "dql-racing-car"
+version: 1.0.0
+date-released: 2021-12-16
+url: "https://github.com/warlock2k/dql-racing-car"

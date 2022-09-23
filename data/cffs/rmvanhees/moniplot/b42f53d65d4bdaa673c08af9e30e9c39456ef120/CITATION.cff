@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "moniplot: moniplot is a Python data visualization library for (satellite) instrument monitoring"
+authors:
+- family-names: "van Hees"
+  given-names: "Richard"
+  orcid: "https://orcid.org/0000-0002-3846-0753"
+license: GPLv3
+license-url: "https://github.com/rmvanhees/moniplot/LICENSE"
+repository-code: "https://github.com/rmvanhees/moniplot"
+doi: 10.5281/zenodo.7024743
+type: software
+url: "https://github.com/rmvanhees/moniplot"

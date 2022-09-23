@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Staples"
+  given-names: "Shelley"
+- family-names: "Dilger"
+  given-names: "Bradley"
+title: "Word-boundary-based Text Tokenizer"
+version: 1.0.0
+date-released: 2021-01-03
+url: "https://github.com/writecrow/tokenizer"

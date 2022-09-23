@@ -1,0 +1,19 @@
+cff-version: 1.1.0
+authors:
+  - family-names: Papachristou
+    given-names: Marios
+  - family-names: Kleinberg
+    given-names: Jon
+title: Core-periphery Models for Hypergraphs
+version: 1
+date-released: 2022-05-18
+references:
+  - type: article
+    authors:
+      - family-names: Papachristou
+        given-names: Marios
+      - family-names: Kleinberg
+        given-names: Jon
+    title: Core-periphery Models for Hypergraphs
+    journal: 'Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery & Data Mining'
+    year: 2022

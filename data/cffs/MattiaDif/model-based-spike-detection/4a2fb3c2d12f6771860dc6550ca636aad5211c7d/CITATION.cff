@@ -1,0 +1,19 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Di Florio"
+  given-names: "Mattia"
+- family-names: "Buccelli"
+  given-names: "Stefano"
+- family-names: "Iyer"
+  given-names: "Vijay"
+- family-names: "Rajhans"
+  given-names: "Akshay"
+- family-names: "Bornat"
+  given-names: "Yannick"
+- family-names: "Chiappalone"
+  given-names: "Michela"
+title: "model-based-spike-detection"
+version: 1.0.0
+date-released: XX/XX/XXXX
+url: "https://github.com/MattiaDif/model-based-spike-detection"

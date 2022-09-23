@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you want to cite this you can use the following."
+authors:
+- family-names: "Wiedenbeck"
+  given-names: "Sebastian"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Sphaleron cross section calculation script (following arXiv:1601.03654)
+version: 1.0
+date-released: 2022-04-08
+url: "https://github.com/swiedenb/sphaleronxs"

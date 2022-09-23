@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Terriel"
+  given-names: "Lucas"
+  orcid: "https://orcid.org/0000-0002-9189-258X"
+title: "Inception2Corpus-CLI"
+description: "A pipeline CLI for retrieving a corpus annotated with named entities from INCEpTION instance to an archived and reusable corpus designed for NER project."
+date-released: 2022-07-01
+url: "https://github.com/NER4Archives-project/inception2corpus-CLI"

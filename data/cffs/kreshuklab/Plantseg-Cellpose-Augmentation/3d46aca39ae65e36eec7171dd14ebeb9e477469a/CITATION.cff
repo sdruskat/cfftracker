@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Joel"
+  given-names: "Ottosson"
+  orcid: "https://orcid.org/0000-0003-0112-7575"
+title: "Augmentation in 3D microscopy"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2021-02-10
+url: "https://github.com/AllaVinner/Augmentation-in-3D-microscopy/"

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Zhang"
+  given-names: "Hongyu"
+  orcid: "https://orcid.org/0000-0002-1956-4389"
+title: "OffMod Public"
+version: 1.0.0
+doi: https://doi.org/10.5281/zenodo.5163724
+date-released: 2021-08-05
+url: "https://github.com/Richardzhang0416/OffMod_Public"

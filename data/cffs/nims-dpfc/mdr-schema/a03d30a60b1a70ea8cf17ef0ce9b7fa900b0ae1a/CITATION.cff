@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+authors:
+  - name: "Materials Data Platform Center, National Institute for Materials Science"
+    country: JP
+    website: "https://dice.nims.go.jp"
+title: "MDR Schema"
+version: 2.0.0
+type: dataset
+doi: 10.48505/nims.3239
+date-released: 2022-03-01
+license: CC-BY-4.0
+contact:
+  - name: "Materials Data Platform Center, National Institute for Materials Science"
+    email: schema@ml.nims.go.jp

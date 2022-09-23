@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+    - family-names: "Huang"
+      given-names: "He"
+      orcid: "https://orcid.org/0000-0002-9217-4977"
+      affiliation: "Singapore University of Technology and Design"
+    - family-names: "Zhang"
+      given-names: "Peiyuan"
+      affiliation: "Singapore University of Technology and Design"
+    - family-names: "Qiao"
+      given-names: "Yingjie"
+      affiliation: "Singapore University of Technology and Design"
+title: "Pure Python Hidden Markov Model Implementation for Sentiment Analysis"
+version: 0.0.1
+date-released: 2021-12-13
+url: "https://github.com/YingjieQiao/SentimentAnalysis"

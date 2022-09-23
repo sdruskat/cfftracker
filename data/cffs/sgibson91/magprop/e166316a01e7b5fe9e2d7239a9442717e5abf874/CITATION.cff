@@ -1,0 +1,22 @@
+# YAML 1.2
+---
+authors:
+  -
+    affiliation:
+      - "The Alan Turing Institute"
+      - "The University of Leicester"
+    family-names: Gibson
+    given-names: Sarah L.
+cff-version: "1.0.3"
+date-released:
+doi:
+keywords:
+  - "citation"
+  - "bibliography"
+  - "cff"
+  - "CITATION.cff"
+license: MIT
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/sgibson91/magprop"
+title: Magnetar Propeller Model
+version: "0.0.1"

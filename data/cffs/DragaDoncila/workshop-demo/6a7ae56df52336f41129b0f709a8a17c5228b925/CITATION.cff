@@ -1,0 +1,10 @@
+
+cff-version: 1.2.0
+message: "Thank you for citing our plugin!"
+authors:
+  - family-names: Doncila Pop
+    given-names: Draga
+title: "napari Accelerator Grant Demo Plugin"
+version: 2.0.4
+doi: 10.5281/zenodo.FAKE
+date-released: 2021-12-15

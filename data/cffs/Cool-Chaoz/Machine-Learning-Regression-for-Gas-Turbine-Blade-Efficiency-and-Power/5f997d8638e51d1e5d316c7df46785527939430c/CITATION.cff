@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Zhang"
+  given-names: "Chao"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "A Python Program - Machine Learning Regression for Gas Turbine Blade Efficiency and Power"
+version: 1.0.0
+doi: 
+date-released: 2022-03-24
+url: "https://github.com/Cool-Chaoz/Machine-Learning-Regression-for-Gas-Turbine-Blade-Efficiency-and-Power"

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+type: dataset
+message: "Please make sure to cite the PSST dataset as below."
+authors:
+- family-names: "Gale"
+  given-names: "Robert"
+- family-names: "Fleegle"
+  given-names: "Mikala"
+- family-names: "Bedrick"
+  given-names: "Steven"
+  orcid: "https://orcid.org/0000-0002-0163-9397"
+- family-names: "Fergadiotis"
+  given-names: "Gerasimos"
+title: Dataset and tools for the PSST Challenge on Post-Stroke Speech Transcription
+version: 1.0.0
+doi: 10.5281/zenodo.6326002
+date-released: 2022-03-03
+url: "https://github.com/PSST-Challenge/psstdata"

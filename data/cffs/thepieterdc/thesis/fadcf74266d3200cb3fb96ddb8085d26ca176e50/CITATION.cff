@@ -1,0 +1,20 @@
+cff-version: 1.0.0
+message: "Please cite the following works when using this software."
+authors:
+- family-names: "De Clercq"
+  given-names: "Pieter"
+  orcid: "https://orcid.org/0000-0002-0622-6778"
+references:
+  - type: thesis
+    date-published: 2020-07-01
+    department: Applied Mathematics, Computer Science, Statistics
+    institution: 
+      - name: "Universiteit Gent"
+        city: Ghent
+        country: BE
+    thesis-type: Master
+    year: 2020
+repository: "https://github.com/thepieterdc/thesis"
+title: Optimising Continuous Integration using Test Case Prioritisation
+url: "https://lib.ugent.be/catalog/rug01:002946164"
+version: 1.0.0

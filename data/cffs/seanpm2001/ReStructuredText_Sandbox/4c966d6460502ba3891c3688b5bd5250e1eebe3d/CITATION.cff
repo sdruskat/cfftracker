@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this project (sandbox for learning ReStructuredText) please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Sandbox learning environment for ReStructuredText"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2022-03-09
+url: "https://github.com/seanpm2001/ReStructuredText_Sandbox"
+cff-version: 1.2.0
+message: "If you use this project (sandbox for learning ReStructuredText) please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Sandbox learning environment for ReStructuredText"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2022-03-09
+url: "https://github.com/seanpm2001/ReStructuredText_Sandbox"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 3
+  start: 1 # First page number
+  end: 10000 # Last page number
+  title: "ReStructuredText_Sandbox is a learning project by @seanpm2001 to test features and learn the ReStructuredText markup language. If you use this project in your works, it is recommended that you cite it."
+  issue: 1
+  volume: 1
+  year: 2022
+# File info
+# File version: 1 (2022, Wednesday, March 9th at 5:30 pm)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44

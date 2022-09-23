@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Watson"
+  given-names: "Ebony Rose"
+- family-names: "Mora"
+  given-names: "Ariane"
+title: "scProximitE"
+version: 1.0.0
+doi: 10.5281/zenodo.6443267
+date-released: 2022-04-15
+url: "https://github.com/Ebony-Watson/scProximitE"

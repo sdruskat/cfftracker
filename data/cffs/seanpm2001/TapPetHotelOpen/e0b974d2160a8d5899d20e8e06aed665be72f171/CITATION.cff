@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use/play this game (Tap Pet Hotel Open) please cite your usage below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "TapPetHotelOpen"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2022-04-23
+url: "https://github.com/seanpm2001/TapPetHotelOpen"
+cff-version: 1.2.0
+message: "If you use/play this game (Tap Pet Hotel Open) please cite your usage below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Video game (Tap Pet Hotel Open) usage (citation)"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2022-04-23
+url: "https://github.com/seanpm2001/TapPetHotelOpen"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 4
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "The Tap Pet Hotel Open team would like feedback on your usage of this game (software) if you have time, please cite your usage below."
+  issue: 1
+  volume: 1
+  year: 2022
+# File info
+# File version: 1 (2021, Sunday, April 24th at 7:33 pm)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44

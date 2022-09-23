@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Shimwell"
+  given-names: "Jonathan"
+  orcid: "https://orcid.org/0000-0001-6909-0946"
+title: "Vertices_to_h5m - Converts mesh vertices and connectivity to h5m geometry files compatible with DAGMC simulations."
+version: 0.1.0
+date-released: 2022-8-4
+url: "https://github.com/fusion-energy/vertices_to_h5m"

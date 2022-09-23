@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Pereira Neto
+    given-names: Nestor
+    orcid: 
+title: "interface_socket_server"
+version: 0.1
+url: https://github.com/NestorDP/libinterfacesocket
+date-released: 2021-12-10

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this script please cite it as below."
+authors:
+  - family-names: kostrouc
+    given-names: Katherine Ostrouchov
+title: "Bioinformatics_Tutorials"
+version: 2.0.4
+date-released: 2022-04-22

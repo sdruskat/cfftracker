@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Pointner"
+  given-names: "Andreas"
+  orcid: "https://orcid.org/0000-0001-8642-1161"
+title: "xes-model"
+version: 1.0.0
+doi: 10.5281/zenodo.6760266
+date-released: 2022-06-27
+url: "https://github.com/FHOOEAIST/xes-model"

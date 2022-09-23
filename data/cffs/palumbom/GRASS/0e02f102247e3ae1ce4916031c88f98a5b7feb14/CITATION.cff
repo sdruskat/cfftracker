@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Palumbo III"
+  given-names: "Michael L."
+  orcid: "https://orcid.org/0000-0002-4677-8796"
+- family-names: "Ford"
+  given-names: "Eric B."
+  orcid: "https://orcid.org/0000-0001-6545-639X"
+- family-names: "Wright"
+  given-names: "Jason T."
+  orcid: "https://orcid.org/0000-0001-6160-5888"
+- family-names: "Mahadevan"
+  given-names: "Suvrath"
+  orcid: "https://orcid.org/0000-0001-9596-7983"
+- family-names: "Wise"
+  given-names: "Alexander W."
+  orcid: "https://orcid.org/0000-0002-5013-5769"
+- family-names: "Lohner-Bottcher"
+  given-names: "Johannes"
+title: "GRASS"
+version: 1.0.0
+

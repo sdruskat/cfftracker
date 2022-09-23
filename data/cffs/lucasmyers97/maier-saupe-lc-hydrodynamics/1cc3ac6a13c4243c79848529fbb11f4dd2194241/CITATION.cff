@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Myers"
+  given-names: "Lucas"
+title: "maier-saupe-lc-hydrodynamics"
+version: 1.0.0
+date-released: 2022-03-08
+url: "https://github.com/lucasmyers97/maier-saupe-lc-hydrodynamics"

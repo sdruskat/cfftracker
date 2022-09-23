@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Xiao"
+  given-names: "Tao"
+- family-names: "Wang"
+  given-names: "Dong"
+- family-names: "McIntosh"
+  given-names: "Shane"
+- family-names: "Hata"
+  given-names: "Hideaki"
+- family-names: "Gaikovina Kula"
+  given-names: "Raula"
+- family-names: "Ishio"
+  given-names: "Takashi"
+- family-names: "Matsumoto"
+  given-names: "Kenichi"
+title: "Research Artifact: Characterizing and Mitigating Self-Admitted Technical Debt in Build Systems"
+url: "https://github.com/NAIST-SE/SATDinBuildSystems"
+type: dataset

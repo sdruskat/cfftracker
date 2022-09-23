@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Spaghetti taco cookie cake macaron souffle I am content."
+authors:
+- family-names: "Ziyang"
+  given-names: "Liu"
+title: "A napari demo plugin"
+version: 0.0.2
+date-released: 2021-04-26
+url: "https://github.com/potating-potato/napari-demo"

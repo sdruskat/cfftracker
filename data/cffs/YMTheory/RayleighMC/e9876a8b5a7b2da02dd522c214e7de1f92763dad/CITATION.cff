@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Yu"
+  given-names: "Miao"
+  orcid: "https://orcid.org/0000-0002-2540-762X"
+- family-names: "Zhou"
+  given-names: "Xiang"
+  orcid: "https://orcid.org/0000-0002-6908-683X"
+title: "RayleighMC"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-06-01
+url: "https://github.com/YMTheory/RayleighMC"

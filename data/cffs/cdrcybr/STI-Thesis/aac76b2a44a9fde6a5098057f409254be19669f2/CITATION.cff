@@ -1,0 +1,56 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  cff-version: 1.2.0 message: "If you use reference
+  these scan results, please cite it as below."
+  authors: - family-names: "Sicklick"   given-names:
+  "John"   orcid:
+  "https://orcid.org/0000-0003-3532-9896" title:
+  "STI-Thesis" version: 1.0.0 doi:
+  10.5281/zenodo.6400232 date-released: 2022-03-30
+  url: "https://github.com/cdrcybr/STI-Thesis"
+  preferred-citation:   type: "conference-paper"  
+  title: "End of Support, But Not End of Use:
+  Security Implications of End-of-Support Operating
+  Systems"
+message: >-
+  message: "If you use reference these scan results,
+  please cite it as below."
+type: software
+authors:
+  - given-names: John
+    family-names: Sicklick
+    email: john.sicklick@student.sans.edu
+    affiliation: SANS Technology Institute
+    orcid: 'https://orcid.org/0000-0003-3532-9896'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.6400232
+url: 'https://github.com/cdrcybr/STI-Thesis'
+abstract: >-
+  Every day is a Zero-day for unsupported operating
+  systems. Computer operating systems are the
+  foundation on which the  cyber-connected world is
+  built. These operating systems often continue to be
+  used long after the vendor has stopped providing
+  free security updates, resulting in operating
+  systems with a constantly increasing number of
+  unpatched vulnerabilities. The lifecycle of Windows
+  operating system is well understood thanks to
+  Microsoft’s efforts to migrate users to newer
+  operating systems, however, the lifecycle of Linux
+  operating systems used in many consumer products
+  and the Internet of Things is not as well known.
+  This whitepaper will quantify the risk of
+  unsupported operating systems, with a focus on the
+  Ubuntu operating system, to provide decision makers
+  with the information needed to decide among the
+  options of paying for extended support, updating to
+  a supported operating system, implementing
+  available mitigations, or simply accepting the
+  risks.
+commit: 3a78f90
+version: 1.0.0
+date-released: '2022-03-30'

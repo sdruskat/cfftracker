@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Achar 
+    given-names: Sooraj
+    orcid: https://orcid.org/0000-0003-3425-7501
+title: "plateypus"
+version: 0.3.11
+doi: 10.5281/zenodo.5749107
+date-released: 2021-12-02

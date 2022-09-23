@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Duev"
+    given-names: "Dmitry"
+    orcid: "https://orcid.org/0000-0001-5060-8733"
+title: "dmitryduev/penquins: a python client for dmitryduev/kowalski"
+version: v2.1.2
+date-released: 2021-11-07
+doi: 10.5281/zenodo.5651471
+url: "https://github.com/dmitryduev/penquins"

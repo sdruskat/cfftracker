@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this article, please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "DIFFicult"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2022-01-03
+url: "https://github.com/seanpm2001/DIFFicult"
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "DIFFicult - A Diff manager/editor/viewer by @seanpm2001"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2022-01-03
+url: "https://github.com/seanpm2001/DIFFicult"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 12
+  start: 1 # First page number
+  end: 978 # Last page number
+  title: "DIFFicult is a diff manager/editor/viewer by @seanpm2001. I am using this software for <reason>"
+  issue: 1
+  volume: 1
+  year: 2021
+# File info
+# File version: 1 (2022, Monday, January 3rd at 5:39 pm)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44

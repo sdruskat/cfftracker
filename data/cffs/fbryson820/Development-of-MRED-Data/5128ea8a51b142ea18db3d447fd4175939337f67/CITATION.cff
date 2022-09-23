@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+authors:
+  - family-names: Bryson, Ingall, Hanna, Cardelino, Plattner, Meister, Lawrence, Mullen, Dichek, Schmidt
+    given-names: Frances, Ellery D., Ashley M., Maria, Taylor, Matthew R., Justin D., Andrew D., Daniel, Britney E.
+    orcid: https://orcid.org/0000-0003-2102-9681
+title: "Miniature Robotic Electrodialysis Development Data"
+version: 1.0
+doi: 10.5281/zenodo.7076436
+date-released: 2022-9-15

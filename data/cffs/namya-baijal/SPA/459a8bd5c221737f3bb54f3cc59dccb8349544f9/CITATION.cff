@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it."
+authors:
+- family-names: "Baijal"
+  given-names: "Namya"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "SPA: Post-processing code"
+date-released: 2021-12-30
+url: "https://github.com/namya-baijal/SPA"

@@ -1,0 +1,14 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Williams
+    given-names: Vinay
+cff-version: "1.1.0"
+date-released: 2021-08-12
+license: MIT
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/v-i-n-a-y/PSM---Punnett-Square-Maker"
+title: "PSM - Punnett Square Make"
+version: "1.0"
+...

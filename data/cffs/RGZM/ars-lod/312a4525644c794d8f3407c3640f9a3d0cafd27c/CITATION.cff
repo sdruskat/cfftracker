@@ -1,0 +1,13 @@
+cff-version: 1.1.0
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Thiery
+    given-names: Florian
+    orcid: https://orcid.org/0000-0002-3246-3531
+  - family-names: Rokohl
+    given-names: Louise
+    orcid: https://orcid.org/0000-0003-1631-9115
+title: "Linked Open African Red Slip Ware"
+version: 1.0
+doi: 10.5281/zenodo.5722941
+date-released: 2021-11-24

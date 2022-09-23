@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using these metadata."
+authors:
+  - family-names: Chen
+    given-names: Jingxian
+    orcid: https://orcid.org/0000-0002-1642-6060
+title: "Starvation survival statistics code used in Chen 2022"
+version: 1.0
+doi: 10.5281/zenodo.5987830
+date-released: 2022-02-06
+url: "https://github.com/jc271828/Chen2022"

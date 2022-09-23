@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "MyCMS official repository"
+message: "If you really want to cite this repository, here's how you should cite it."
+type: "software"
+authors:
+- given-names: "Manuele"
+  family-names: "Bagnolini"
+version: 1.0.0
+date-released: 2022-05-03
+url: "https://github.com/manuelebagnolini/MyCMS"

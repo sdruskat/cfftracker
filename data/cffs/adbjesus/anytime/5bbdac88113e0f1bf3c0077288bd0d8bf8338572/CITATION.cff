@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jesus"
+  given-names: "Alexandre D."
+  orcid: "https://orcid.org/0000-0001-7691-0295"
+title: "anytime"
+doi: 10.5281/zenodo.6856119
+date-released: 2022
+url: "https://github.com/adbjesus/anytime"

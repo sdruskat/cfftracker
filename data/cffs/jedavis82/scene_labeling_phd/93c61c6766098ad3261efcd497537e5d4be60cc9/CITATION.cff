@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below. This software is free to use with the disclaimer that the authors are not responsible for any misuse."
+authors:
+- family-names: "Davis"
+  given-names: "Jeremy"
+title: "Scene Labeling: Annotations for Image Datasets"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2021-12-20
+url: "https://github.com/jedavis82/scene_labeling"
