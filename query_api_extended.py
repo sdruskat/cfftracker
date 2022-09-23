@@ -172,7 +172,7 @@ def add_response_to_dataset(response):
 
             if data is not None:
                 with open('data/repositories.json', 'w') as jsonfile_o:
-                    json.dump(data, jsonfile_o, indent=4, ensure_ascii=False)
+                    json.dump(data, jsonfile_o, indent=4, ensure_ascii=False, sort_keys=True)
             else:
                 print(f'Data was None.')
         print(f'Added {add_count} to dataset file.')
