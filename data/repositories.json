@@ -4915,6 +4915,9 @@
         "Slaysenfite": [
             "masters-tensorflow2-model"
         ],
+        "SmartBioTech": [
+            "PBR-ControlScripts"
+        ],
         "Smithsonian": [
             "ngehtsim"
         ],
@@ -18428,6 +18431,9 @@
         ],
         "vpatil2022": [
             "ML-code"
+        ],
+        "vpekar": [
+            "bd4dm"
         ],
         "vpeterson": [
             "MI-OpenBCI"

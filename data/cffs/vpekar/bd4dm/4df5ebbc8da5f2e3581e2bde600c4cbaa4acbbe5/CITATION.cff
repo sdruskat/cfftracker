@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Pekar
+    given-names: Viktor
+    orcid: https://orcid.org/0000-0002-9664-1675
+title: "Big Data for Decision Making. Lecture examples and exercises."
+version: 1.0.0
+date-released: 2022-04-01
