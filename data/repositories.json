@@ -1532,7 +1532,8 @@
             "SOFTX_2019_19",
             "SOFTX-D-20-00075-",
             "SOFTX-D-20-00100",
-            "SOFTX-D-21-00030"
+            "SOFTX-D-21-00030",
+            "SOFTX-D-20-00075"
         ],
         "EmilienDupont": [
             "neural-processes"
@@ -6190,6 +6191,9 @@
         ],
         "aland25": [
             "https-github.com-storopoli-Linguagem-R"
+        ],
+        "alandtse": [
+            "auth_capture_proxy"
         ],
         "alanfox": [
             "spg_fresh_blob_202104"

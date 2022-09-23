@@ -1,0 +1,15 @@
+cff-version: 1.1.0
+message: "Please cite the following works when using this software: https://doi.org/10.1016/j.softx.2021.100687"
+@article{DAVIES2021100687,
+title = {SEDBYS: A python-based SED Builder for Young Stars},
+journal = {SoftwareX},
+volume = {14},
+pages = {100687},
+year = {2021},
+issn = {2352-7110},
+doi = {https://doi.org/10.1016/j.softx.2021.100687},
+url = {https://www.sciencedirect.com/science/article/pii/S2352711021000327},
+author = {Claire L. Davies},
+keywords = {Photometry, Spectral energy distribution, Young stellar objects, Circumstellar disks, Infrared excess, Dust continuum emission},
+abstract = {Spectral energy distributions (SEDs) are useful primary and complementary tools in the analysis of observations of young stars. However, the process of collating, inspecting, and flux-converting archival photometry and spectroscopy to build spectral energy distributions for young stars is time-consuming. Here, I present SEDBYS (Spectral Energy Distribution Builder for Young Stars), a python-based repository of command-line tools built to (i) query online photometric and spectroscopic catalogs and a distributed database of archival photometry, (ii) use a look-up table of zero points to flux-convert the acquired data, (iii) enable interactive visual inspection of the SED and (iv) handle book-keeping to collate references in bibTeX format. The code is distributed via git and is equipped with additional tools to enable users to add existing or forthcoming catalogs to the list of sources queried, ensuring the longevity of SEDBYS as a tool for the star formation community.}
+}
