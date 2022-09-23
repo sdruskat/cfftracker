@@ -10,7 +10,6 @@ on:
 
 jobs:
   query1:
-    needs: setup
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -57,7 +56,7 @@ jobs:
           branch: main
 
   query2:
-    needs: [setup, query1]
+    needs: query1
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -110,7 +109,7 @@ jobs:
           branch: main
 
   query3:
-    needs: [setup, query1, query2]
+    needs: [query1, query2]
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
