@@ -1,0 +1,19 @@
+# SPDX-FileCopyrightText: 2021 Stephan Druskat <mail@sdruskat.net>
+# SPDX-License-Identifier: CC0-1.0
+
+abstract: Tracks `CITATION.cff` files across public repositories.
+authors:
+  - family-names: Druskat
+    given-names: Stephan
+    orcid: https://orcid.org/0000-0003-4925-7248
+cff-version: 1.2.0
+license:
+  - CC0-1.0
+  - CC-BY-4.0
+  - MIT
+message: Please cite this repository using these meta data.
+repository-artifact: https://github.com/sdruskat/cfftracker
+repository-code: https://github.com/sdruskat/cfftracker
+title: cfftracker
+type: dataset
+url: https://github.com/sdruskat/cfftracker
