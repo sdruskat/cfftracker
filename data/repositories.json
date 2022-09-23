@@ -2478,6 +2478,9 @@
         "JAnderson419": [
             "Ferro"
         ],
+        "JDLeongomez": [
+            "ScolarlyOutput"
+        ],
         "JGAntunes": [
             "pulsarcast",
             "js-pulsarcast"
@@ -2793,6 +2796,9 @@
         ],
         "JustinAsbee": [
             "Bayes-Analysis"
+        ],
+        "JustinPorter88": [
+            "microslip-rough-contact"
         ],
         "JustinZal": [
             "PendulumNN"
@@ -4908,6 +4914,9 @@
         ],
         "SilviaLazzardi": [
             "Emergent_Laws_in_scRNA-seq_Data"
+        ],
+        "SimaoBolota-MetaCell": [
+            "Citation-Project"
         ],
         "SimonWaldherr": [
             "golang-examples"
@@ -7407,6 +7416,9 @@
         "bptlab": [
             "rpa-dmn-operation"
         ],
+        "bqth29": [
+            "simulated-bifurcation-algorithm"
+        ],
         "brad-ley": [
             "angewandte2022"
         ],
@@ -7826,7 +7838,8 @@
             "eapam_cc_vs_qc"
         ],
         "cgosmeyer": [
-            "atl02v"
+            "atl02v",
+            "mkpypkg"
         ],
         "cgre-aachen": [
             "gemgis"
@@ -7870,6 +7883,9 @@
             "pygeoutils",
             "pygeoogc",
             "async_retriever"
+        ],
+        "chelauk": [
+            "ctj-beagleberg"
         ],
         "cheminfo": [
             "nmrium",
@@ -8276,7 +8292,8 @@
         ],
         "cran": [
             "RKorAPClient",
-            "handlr"
+            "handlr",
+            "cffr"
         ],
         "creanero": [
             "beamModelTester",
@@ -10649,6 +10666,9 @@
         "hbnreddy": [
             "biojava"
         ],
+        "hbrs-cse": [
+            "Modellbildung-und-Simulation"
+        ],
         "hcigroupkonstanz": [
             "STREAM",
             "ReLive"
@@ -11064,6 +11084,9 @@
         ],
         "iksrwth": [
             "visualization-of-sh-domain-operations"
+        ],
+        "iktos": [
+            "simulator-predictor-hacking"
         ],
         "ilarijn": [
             "yle-summarizer"
@@ -12845,6 +12868,9 @@
         ],
         "louisngo": [
             "mmclassification"
+        ],
+        "lounesmechouek": [
+            "AutomaticLPDR"
         ],
         "lovelabUCL": [
             "dimensionality"
@@ -16494,7 +16520,8 @@
         ],
         "scikit-hep": [
             "awkward",
-            "pyhf"
+            "pyhf",
+            "uproot5"
         ],
         "scikit-mobility": [
             "scikit-mobility",
