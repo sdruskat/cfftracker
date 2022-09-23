@@ -1,0 +1,25 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: 
+authors:
+  - family-names: Gonçalves de Souza
+    given-names: Daniel Lyncon
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Teixeira
+    given-names: Alexandre
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Pires Xavier Júnior
+    given-names: José Laerte
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ponciano dos Santos
+    given-names: Lesandro
+keywords:
+  - Sistema de ponto
+  - Gerenciamento de horas
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2021-2-tcci-5308100-dev-daniel-souza
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-06-08

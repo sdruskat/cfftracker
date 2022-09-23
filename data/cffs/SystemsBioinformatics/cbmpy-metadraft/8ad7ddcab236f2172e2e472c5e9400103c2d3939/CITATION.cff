@@ -1,0 +1,21 @@
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Olivier
+    given-names: Brett Gareth
+    orcid: https://orcid.org/0000-0002-5293-5321
+    affiliation: "VU University Amsterdam"
+    email: bgoli@users.sourceforge.net
+    website: http://teusinkbruggemanlab.nl/brett-olivier/
+title: CBMPy MetaDraft
+version: 0.9.2
+doi: 10.5281/zenodo.2398336
+date-released: 2019-08-08
+repository-code: https://github.com/SystemsBioinformatics/cbmpy-metadraft
+keywords:
+  - "genome scale reconstruction"
+  - "constraint based modelling"
+  - gui
+  - python
+license: GNU GENERAL PUBLIC LICENSE v3.0
+url: https://systemsbioinformatics.github.io/cbmpy-metadraft/

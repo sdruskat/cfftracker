@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Toumi"
+  given-names: "Atef"
+title: "Bachelor-thesis Blockchain project"
+version: 1.0.0
+date-released: 2022-09-12
+url: "https://github.com/AtefToumi/BlockchainBA"

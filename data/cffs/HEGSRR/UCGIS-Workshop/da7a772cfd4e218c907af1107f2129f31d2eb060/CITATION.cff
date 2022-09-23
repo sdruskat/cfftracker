@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+preferred-citation:
+  type: misc
+  authors:
+  - family-names: "Holler"
+    given-names: "Joseph"
+    orcid: "https://orcid.org/0000-0002-2381-2699"
+  - family-names: "Kedron"
+    given-names: "Peter"
+    orcid: "https://orcid.org/0000-0002-1093-3416"
+  title: "Practicing and Teaching Reproducibility and Replicability in the Human-Environment and Geographical Sciences"
+  url: "https://github.com/HEGSRR/UCGIS-Workshop"
+  year: 2022
