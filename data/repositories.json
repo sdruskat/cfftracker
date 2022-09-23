@@ -2399,9 +2399,13 @@
         "dmyersturnbull": [
             "tyrannosaurus",
             "science-notebook-template",
+<<<<<<< HEAD
             "valar-schema",
             "sauronlib",
             "valinor"
+=======
+            "valar-schema"
+>>>>>>> 958a394f44e7070e54e0e365c4ba4adc3004dd2d
         ],
         "craddm": [
             "eegUtils"
@@ -3144,9 +3148,13 @@
             "TiledMultiGPUVisualization"
         ],
         "GooglingTheCancerGenome": [
+<<<<<<< HEAD
             "sv-callers",
             "sv-channels",
             "sv-gen"
+=======
+            "sv-callers"
+>>>>>>> 958a394f44e7070e54e0e365c4ba4adc3004dd2d
         ],
         "SCM-NV": [
             "qmflows",
@@ -6415,7 +6423,6 @@
             "swh-save-action",
             "cff-in-the-wild",
             "flatJACS-3.0",
-            "cfftracker",
             "pepperModules-FLExModules",
             "pepper-grinder",
             "pepperModules-ToolboxTextModules",
