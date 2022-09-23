@@ -53,8 +53,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git config pull.ff only
-          git pull origin main
+          git pull origin main --rebase
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
@@ -107,8 +106,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git config pull.ff only
-          git pull origin main
+          git pull origin main --rebase
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
@@ -161,8 +159,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git config pull.ff only
-          git pull origin main
+          git pull origin main --rebase
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
