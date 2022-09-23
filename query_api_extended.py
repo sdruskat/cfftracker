@@ -71,33 +71,6 @@ def get_query_response(query_url: str, headers: t.Dict[str, str]) -> requests.Re
         print(f'BODY:    {response.json()}')
 
 
-def write_stats(response_json):
-    count = response_json['total_count']
-    print(f'Found a total of {count} files.')
-
-    # Write a new line in the csv file containing the current date and the count
-    with open('cff_counts.csv', 'a+', newline='') as csv_file:
-        today = str(date.today())
-        csv.writer(csv_file).writerow([today, count])
-
-    # Write a file with just the current_count in it so that it can be reused elsewhere
-    with open('current_count.txt', 'w') as countfile:
-        countfile.write(str(count))
-
-    # Replace the current count in README.md
-    readme = 'README.md'
-    # Read in the file
-    with open(readme, 'r') as fi:
-        readme_data = fi.read()
-
-    # Replace the target string
-    readme_data = re.sub(r'## Current count: \d+', '## Current count: ' + str(count), readme_data)
-
-    # Write the file out again
-    with open(readme, 'w') as fo:
-        fo.write(readme_data)
-
-
 def save_cff_file(dir_name, subdir_name, full_html_url: str, url):
     # url response includes a query called 'ref' that contains the blob hash
     parsed_url = urlparse(url)
@@ -152,6 +125,8 @@ def add_response_to_dataset(response):
             _spl = qualified_name.split('/')
             user = _spl[0]
             repo = _spl[1]
+            if user == 'sdruskat' and repo == 'cfftracker':
+                return
             save_cff_file(user, repo, full_html_url, url)
 
             with open('data/repositories.json', 'r') as jsonfile:
@@ -212,9 +187,7 @@ def query(query_url):
     initial_response = get_query_response(query_url, headers)
     # response_headers = initial_response.headers
     initial_response_json = initial_response.json()
-    try:
-        write_stats(initial_response_json)
-    except KeyError:
+    if 'total_count' not in initial_response_json:
         # Wait 10 seconds then retry
         print('Could not retrieve total count from initial response, retrying in 10 secs.')
         time.sleep(10)
