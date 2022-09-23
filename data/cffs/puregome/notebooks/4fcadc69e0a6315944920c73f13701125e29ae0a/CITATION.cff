@@ -1,0 +1,24 @@
+# YAML 1.2
+---
+abstract: "First release of the software developed in the project PuReGoMe by Utrecht University and the Netherlands eScience Center"
+authors: 
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: "Tjong Kim Sang"
+    given-names: Erik
+    orcid: "https://orcid.org/0000-0002-8431-081X"
+  -
+    affiliation: "Utrecht University"
+    family-names: Schraagen
+    given-names: Marijn
+  -
+    affiliation: "Utrecht University"
+    family-names: Wang
+    given-names: Shihan
+cff-version: "1.1.0"
+date-released: 2020-12-17
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+title: PuReGoMe
+version: "1.0"
+...

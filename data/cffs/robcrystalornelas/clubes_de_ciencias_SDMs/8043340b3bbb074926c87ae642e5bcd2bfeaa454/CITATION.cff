@@ -1,0 +1,14 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: "Crystal-Ornelas"
+    given-names: Robert
+    orcid: "https://orcid.org/0000-0002-6339-1139"
+cff-version: "1.1.0"
+date-released: 2021-08-05
+doi: "10.5281/zenodo.5164648"
+message: "You can cite these teaching materials using the information here"
+title: "Species distribution models in R"
+version: "v1.0.0"
+...

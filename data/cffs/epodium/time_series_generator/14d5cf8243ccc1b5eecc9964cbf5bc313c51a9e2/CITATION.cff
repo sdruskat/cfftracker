@@ -1,0 +1,24 @@
+# YAML 1.2
+---
+abstract: "Python library to define and generate synthetic time series data"
+authors: 
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Huber
+    given-names: Florian
+    orcid: "https://orcid.org/0000-0002-3535-9406"
+cff-version: "1.1.0"
+date-released: 2021-03-11
+doi: "10.5281/zenodo.4596774"
+keywords: 
+  - Python
+  - "synthetic data"
+  - "time series analysis"
+  - "machine learning"
+  - classification
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/epodium/time_series_generator"
+title: "time_series_generator"
+version: "0.1.0"
+...

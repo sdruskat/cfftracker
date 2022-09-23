@@ -1,0 +1,38 @@
+type: article
+status: in-preparation
+abstract: >-
+  Event-driven genetic programming representations have been shown to outperform
+  traditional imperative representations on interaction-intensive problems.
+  These representations organize genome content into modules that are triggered
+  in response to environmental signals, simplifying simulation design and
+  implementation. Existing work developing event-driven genetic programming
+  methodology has largely used the SignalGP library, which caters to traditional
+  program synthesis applications. The SignalGP-Lite library enables larger-scale
+  artificial life experiments with streamlined agents by reducing control flow
+  overhead and trading run-time flexibility for better performance due to
+  compile-time configuration. Here, we report benchmarking experiments that show
+  an 8x to 30x speedup. We also report solution quality equivalent to SignalGP
+  on two benchmark problems originally developed to test the ability of evolved
+  programs to respond to a large number of signals and to modulate signal
+  response based on context.
+date-released: 2021-07-28
+license: MIT
+version: 0.2.0
+authors:
+  - affiliation: Michigan State University
+    family-names: Moreno
+    given-names: Matthew Andres
+    orcid: 'https://orcid.org/0000-0003-4726-4479'
+  - affiliation: Michigan State University
+    family-names: Rodriguez Papa
+    given-names: Santiago
+    orcid: 'https://orcid.org/0000-0002-6028-2105'
+  - affiliation: Michigan State University
+    family-names: Ofria
+    given-names: Charles
+    orcid: 'https://orcid.org/0000-0003-2924-1732'
+cff-version: 1.1.0
+message: 'Please consult docs/citing.md to cite this software.'
+title: >-
+  SignalGP-Lite: Event Driven Genetic Programming Library for Large-Scale
+  Artificial Life Applications

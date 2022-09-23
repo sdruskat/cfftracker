@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jahan"
+  given-names: "Claire"
+  orcid: "https://orcid.org/0000-0001-7268-9706"
+- family-names: "Gabay"
+  given-names: "Simon"
+  orcid: "https://orcid.org/0000-0001-9094-4475"
+title: "OCR17 +"
+version: 1.0
+doi: none
+date-released: 2021-07-29
+url: "https://github.com/e-ditiones/OCR17plus"

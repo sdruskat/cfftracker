@@ -1,0 +1,12 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: "Van Zandycke"
+    given-names: Gabriel
+cff-version: "1.1.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/gabriel-vanzandycke/pseudo_random"
+title: "Full Control Pseudo Randomness"
+version: "0.1"
+...

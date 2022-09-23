@@ -1,0 +1,18 @@
+# YAML 1.2
+---
+abstract: "Exposure to pollutants impacts health and has been associated with a range of diseases, including respiratory and heart diseases, as well as all-cause mortality. Because taking exposure measures for individual studies is costly and impractical, most rely on data from sources such as the Environmental Protection Agency (EPA), which provides a wealth of publicly available pollution measures taken at over two thousand monitoring sites across the United States. While EPA data is readily available, estimating pollution exposure at a given latitude-longitude location remains computationally intensive. We developed Pollution-Associated Risk Geospatial Analysis SITE (PARGASITE), an online web-application and R package, that can be used to estimate levels of pollutants in the U.S. for 2005 through 2017 at user-defined geographic locations and time ranges. We demonstrate how PARGASITE can facilitate the study of associations between exposures and health outcomes using as an example an analysis of asthma risk factors among adults."
+authors: 
+  -
+    affiliation: "Department of Biostatistics, Epidemiology and Informatics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA."
+    family-names: Greenblatt
+    given-names: "Rebecca E."
+  -
+    family-names: Himes
+    given-names: "Blanca E."
+cff-version: "1.0.3"
+date-released: 2019-05-06
+license: "BSD 3-Clause License"
+message: "If you use this package, please cite it using the metadata provided"
+repository-code: "https://github.com/HimesGroup/pargasite"
+title: "Facilitating Inclusion of Geocoded Pollution Data into Health Studies"
+...

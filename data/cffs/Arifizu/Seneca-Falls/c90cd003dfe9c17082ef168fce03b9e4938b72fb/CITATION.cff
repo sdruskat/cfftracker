@@ -1,0 +1,8 @@
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Thomas
+    given-names: Dave
+title: Hacking Historical Texts Coursebook
+version: 1.0.0
+date-released: 2019-1-6

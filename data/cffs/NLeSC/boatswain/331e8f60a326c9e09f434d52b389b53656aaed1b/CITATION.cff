@@ -1,0 +1,25 @@
+# YAML 1.2
+# Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)
+---
+authors:
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Weel
+    given-names: Berend
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Spaaks
+    given-names: Jurriaan H.
+cff-version: "1.0.4"
+commit: 36f241eec127e6f58c9304680d9c3e53fd703550
+date-released: 2018-01-16
+doi: 10.5281/zenodo.1149011
+keywords:
+  - "docker"
+  - "docker-compose"
+  - "containers"
+license: Apache-2.0
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/NLeSC/boatswain"
+title: boatswain
+version: "1.0.4"

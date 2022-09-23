@@ -1,0 +1,16 @@
+# This is a file in the Citation File Format (https://citation-file-format.github.io)
+# It provides citation metadata for the software you are using.
+cff-version: 1.0.3
+message: If you use the Toolbox Text Modules for Pepper in your work, please cite it with the metadata given below!
+authors:
+  - family-names: Druskat
+    given-names: Stephan
+    orcid: https://orcid.org/0000-0003-4925-7248
+  - family-names: Krause
+    given-names: Thomas
+    orcid: https://orcid.org/0000-0003-3731-2422
+title: ToolboxTextModules
+version: 1.1.1
+doi: 10.5281/zenodo.1297366
+date-released: 2021-01-27
+repository-code: https://github.com/sdruskat/pepperModules-ToolboxTextModules

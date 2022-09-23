@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "Please cite this travel planner wherever used according to the following details."
+authors:
+  - family-names: Van Goffrier
+    given-names: Graham
+    orcid: https://orcid.org/0000-0002-7470-1868
+
+title: Travel Planner
+version: 1.0
+date-released: 2020-1-16

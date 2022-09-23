@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper (see preferred-citation)."
+authors:
+  - family-names: "Hartmann"
+    given-names: "Jonas"
+    orcid: "https://orcid.org/0000-0002-5600-8285"
+title: "chemokine_buffering_paper; code accompanying Wong et al., 2020"
+date-released: "2020-01-12"
+license: MIT
+repository-code: "https://github.com/WhoIsJack/chemokine_buffering_paper"
+preferred-citation:
+  authors:
+    - family-names: "Wong"
+      given-names: "Mie"
+    - family-names: "Newton"
+      given-names: "Lionel R."
+    - family-names: "Hartmann"
+      given-names: "Jonas"
+    - family-names: "Hennrich"
+      given-names: "Marco L."
+    - family-names: "Wachsmuth"
+      given-names: "Malte"
+    - family-names: "Ronchi"
+      given-names: "Paolo"
+    - family-names: "Guzmán-Herrera"
+      given-names: "Alejandra"
+    - family-names: "Schwab"
+      given-names: "Yannick"
+    - family-names: "Gavin"
+      given-names: "Anne-Claude"
+    - family-names: "Gilmour"
+      given-names: "Darren"
+  title: "Dynamic Buffering of Extracellular Chemokine by a Dedicated Scavenger Pathway Enables Robust Adaptation during Directed Tissue Migration"
+  type: article
+  doi: "10.1016/j.devcel.2020.01.013"
+  date-released: "2020-02-24"
+  url: "https://www.sciencedirect.com/science/article/pii/S1534580720300149"

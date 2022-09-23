@@ -1,0 +1,14 @@
+# YAML 1.2
+---
+authors:
+  -
+    affiliation: "University of St Andrews"
+    family-names: McCann
+    given-names: Patrick
+    orcid: "https://orcid.org/0000-0002-9324-2775"
+cff-version: "1.0.3"
+license: MIT
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/StAResComp/sifids"
+title: "SIFIDS App"
+...

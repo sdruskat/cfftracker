@@ -1,0 +1,21 @@
+cff-version: 1.0.3
+message: Please cite this software.
+
+title: Abnormal Hieratic portal support files
+version: 1.0.0
+date-released: 2019-04-30
+license: GPL-3.0-or-later
+authors:
+  - family-names: Companjen
+    given-names: Ben
+    orcid: https://orcid.org/0000-0002-7023-9047
+  - family-names: Sesink
+    given-names: Laurents
+  - family-names: Donker van Heel
+    given-names: Koenraad
+  - family-names: Harmsen
+    given-names: Ferdinand
+  - family-names: Archidona Ramírez
+    given-names: Juan José
+  - family-names: Hertel
+    given-names: Elena

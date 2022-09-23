@@ -1,0 +1,16 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: "Pinto-Ledezma"
+    given-names: "Jesus N."
+    orcid: "https://orcid.org/0000-0001-6668-9670"
+cff-version: "1.1.0"
+keywords: 
+  - "Bayesian modeling"
+  - Traits
+  - Phylogeny
+message: "If you use this software, please cite it using these metadata."
+title: "Functional trait biogeography at the community level"
+version: "0.9"
+...

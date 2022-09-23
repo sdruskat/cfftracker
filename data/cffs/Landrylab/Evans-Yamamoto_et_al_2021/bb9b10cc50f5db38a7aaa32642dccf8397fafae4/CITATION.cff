@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please our paper as below."
+authors:
+- family-names: "D. Evans-Yamamoto et al"
+  given-names: " "
+  orcid: "https://orcid.org/0000-0001-6467-3827"
+title: "BFG-PCA: tools and resources that expand the potential for binary protein interaction discovery"
+version: 1.0.0
+doi: 10.1101/2021.07.27.453987
+date-released: 2021-07-27
+url: "https://github.com/DanYamamotoEvans/BFG-PCA"

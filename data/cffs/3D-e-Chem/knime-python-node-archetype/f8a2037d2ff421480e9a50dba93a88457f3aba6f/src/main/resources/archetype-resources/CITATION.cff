@@ -1,0 +1,17 @@
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+${symbol_pound} YAML 1.2
+${symbol_pound} Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+title: ${node}
+authors: []
+${symbol_pound}${symbol_pound} Uncomment and replace `<changeme>` with actual author names
+${symbol_pound}- given-names: <changeme>
+${symbol_pound}  family-names: <changeme>
+${symbol_pound}  affiliation: <changeme>
+${symbol_pound}  orcid: https://orcid.org/<changeme>
+repository-code: https://github.com/${github_organization}/${github_repository}
+license: Apache-2.0
+version: ${version}

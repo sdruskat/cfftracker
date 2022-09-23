@@ -1,0 +1,19 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "University of British Columbia"
+    family-names: Abdallah
+    given-names: "Mohammed OE"
+cff-version: "1.1.0"
+date-released: 2016-05-1
+doi: "https://doi.org/doi:10.18129/B9.bioc.cellbaseR"
+keywords: 
+  - genomics
+  - "variant annotation"
+  - bioconductor
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/melsiddieg/cellbaseR"
+title: cellbaseR
+...

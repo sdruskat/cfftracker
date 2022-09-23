@@ -1,0 +1,17 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: "van der Zwaan"
+    given-names: Janneke
+  -
+    family-names: "van Kuppevelt"
+    given-names: Dafne
+cff-version: "1.0.3"
+date-released: 2019-04-09
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/arabic-digital-humanities/adhtools"
+title: adhtools
+version: "v0.1.0"
+...

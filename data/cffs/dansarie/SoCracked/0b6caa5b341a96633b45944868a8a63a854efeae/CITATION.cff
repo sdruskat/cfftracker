@@ -1,0 +1,19 @@
+# YAML 1.2
+---
+abstract: "SoCracked performs key-recovery attacks on the SoDark family of ciphers for automatic link establishment (ALE) in HF radios specified in MIL-STD-188-141. Attacks on up to five rounds are possible using virtually any two plaintext-ciphertext-tweak tuples. Attacks on six, seven, and eight rounds require tuples with tweaks that are identical in all but the fifth tweak byte.  The attacks on six, seven, and eight rounds have been implemented in CUDA as well as in C. Brute force attacks on up to sixteen rounds have also been implemented in CUDA."
+authors: 
+  -
+    family-names: Dansarie
+    given-names: Marcus
+    orcid: "https://orcid.org/0000-0001-9246-0263"
+cff-version: "1.1.0"
+doi: "10.5281/zenodo.893133"
+identifiers: 
+  - 
+    type: url
+    value: "https://github.com/dansarie/SoCracked"
+license: "GPL-3.0"
+message: "If you use this software, please cite it using these metadata."
+title: SoCracked
+version: "1.1.0"
+...

@@ -1,0 +1,7 @@
+some: "random object"
+in: 
+  - yaml
+without: 
+  - a
+  - cff-version
+  - key

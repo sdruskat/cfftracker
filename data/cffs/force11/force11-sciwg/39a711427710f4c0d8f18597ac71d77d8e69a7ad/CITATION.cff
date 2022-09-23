@@ -1,0 +1,32 @@
+# NOTE: This file will validate against the CFF
+# schema (https://github.com/citation-file-format/schema),
+# but is not a valid CFF file, as per the specs it must
+# be named 'CITATION.cff'.
+
+cff-version: 1.0.3
+message: "Please cite this work with the properties given in this file"
+title: "swh-indexer"
+repository-code: https://forge.softwareheritage.org/diffusion/78/
+license: "GPL-3.0-only"
+version: 0.0.35
+authors:
+  - name: Software Heritage
+    email: swh-devel@inria.fr
+    website: https://www.softwareheritage.org
+keywords:
+  - indexer
+  - software
+  - mimetype
+  - ctags
+  - language
+  - fossology-license
+  - metadata
+  - metadata-detector
+  - metadata-translator
+references:
+  - type: article
+    title: "Software Heritage is a useful repository for scientists to discover, preserve and recognize the source code powering science"
+    doi: 10.1234/fake.doi
+    authors:
+      - name: PeerJ Community
+date-released: 2016-09-26    

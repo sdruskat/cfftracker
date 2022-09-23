@@ -1,0 +1,22 @@
+message: "If you use this software, please cite it using these metadata."
+title: "Softwarezitation in den Digital Humanities"
+version: "0.1"
+license: "CC BY 4.0"
+doi: "http://doi.org/10.5281/zenodo.5106391"
+date-released: 2021-07-15
+authors: 
+  -
+    family-names: Henny-Krahmer
+    given-names: Ulrike
+    orcid: "https://orcid.org/0000-0003-2852-065X"
+    email: "ulrike.henny@uni-koeln.de"
+  -
+    family-names: Jettka
+    given-names: Daniel
+    orcid: "https://orcid.org/0000-0002-2375-2227"
+    email: "daniel.jettka@uni-paderborn.de"
+keywords: 
+  - "software citation"
+  - "sustainable software development"
+abstract: "Das Projekt zur Zitation von Forschungssoftware in den Digital Humanities wird durchgeführt vom Arbeitsbereich Research Tools & Data Services des NFDI4Culture-Konsortiums. Es handelt sich um eine Studie, die die aktuelle Praxis bei der Verwendung bzw. Zitation von Forschungssoftware in wissenschaftlchen Beiträgen (Abstracts der DHd-Konferenz) erhebt, um sie mit vorhandenen Empfehlungen zu Softwarezitation abzugleichen. Sie zielt darauf ab einen nachhaltigen und wissenschaftlich fundierten Umgang mit Forschungssoftware zu fördern."
+cff-version: "1.1.0"

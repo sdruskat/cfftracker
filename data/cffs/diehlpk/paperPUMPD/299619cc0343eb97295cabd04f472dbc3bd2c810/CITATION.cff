@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Diehl
+    given-names: Patrick
+    orcid: https://orcid.org/0000-0003-3922-8419
+title: "A Fracture Multiscale Model for Peridynamic enrichment within the Partition of Unity Method: Part I"
+version: v0.1.0
+date-released: 2017-12-18

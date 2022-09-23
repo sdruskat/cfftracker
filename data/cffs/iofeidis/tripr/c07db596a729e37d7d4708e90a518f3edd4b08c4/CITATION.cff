@@ -1,0 +1,58 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Kotouza
+    given-names: "Maria Th."
+    orcid: "https://orcid.org/0000-0002-5375-5410"
+  -
+    family-names: Gemenetzi
+    given-names: Katerina
+    orcid: "https://orcid.org/0000-0002-0216-0257"
+  -
+    family-names: Galigalidou
+    given-names: Chrysi
+  -
+    family-names: Vlachonikola
+    given-names: Elisavet
+    orcid: "https://orcid.org/0000-0003-4609-9977"
+  -
+    family-names: Pechlivanis
+    given-names: Nikolaos
+    orcid: "https://orcid.org/0000-0003-2502-612X"
+  -
+    family-names: Agathangelidis
+    given-names: Andreas
+    orcid: "https://orcid.org/0000-0002-8467-7945"
+  -
+    family-names: Sandaltzopoulos
+    given-names: Raphael
+    orcid: "https://orcid.org/0000-0002-8490-4300"
+  -
+    family-names: Mitkas
+    given-names: "Pericles A."
+  -
+    family-names: Stamatopoulos
+    given-names: Kostas
+  -
+    family-names: Chatzidimitriou
+    given-names: Anastasia
+  -
+    family-names: Psomopoulos
+    given-names: "Fotis E."
+    orcid: "https://orcid.org/0000-0002-0222-4273"
+  
+  
+cff-version: "1.1.0"
+date-released: 2020-09-29
+doi: "10.1186/s12859-020-03669-1"
+keywords: 
+  - "Antigen receptor"
+  - "Software pipeline"
+  - "R shiny"
+license: MIT
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/BiodataAnalysisGroup/TRIP"
+title: "T-cell Receptor/Immunoglobulin Profiler (TRIP)"
+version: "0.99.0"
+...

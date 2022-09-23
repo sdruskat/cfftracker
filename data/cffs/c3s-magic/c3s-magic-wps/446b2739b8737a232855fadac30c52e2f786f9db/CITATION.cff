@@ -1,0 +1,38 @@
+# YAML 1.2
+---
+abstract: |
+  c3s-magic-wps is Web Processing Service for Climate Data Analysis in the MAGIC project. The software in this WPS powers the processes behind the C3S-MAGIC portal. The processes are run on CP4CDS infrastructure.
+authors:
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Weel
+    given-names: Berend
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: van Haren
+    given-names: Ronald
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Drost
+    given-names: Niels
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Camphuijsen
+    given-names: Jaro
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Andela
+    given-names: Bouwe
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Dzigan
+    given-names: Yifat
+cff-version: "1.0.3"
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/c3s-magic/c3s-magic-wps"
+title: c3s-magic-wps
+date-released: 2019-06-06
+version: "1.0.0rc1"
+doi: 10.5281/zenodo.3240042 
+...

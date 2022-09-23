@@ -1,0 +1,10 @@
+cff-version: 0.0.0
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: de Navascués
+    given-names: Miguel
+    orcid: https://orcid.org/0000-0001-8342-6047
+title: "TimeAdapt"
+version: 
+doi: 
+date-released:

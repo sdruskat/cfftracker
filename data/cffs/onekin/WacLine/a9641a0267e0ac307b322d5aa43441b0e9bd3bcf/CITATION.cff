@@ -1,0 +1,21 @@
+abstract: "WacLine is a software product line that allows configuration and derivation of web annotation browser extensions for specific domains"
+authors:
+  -
+    family-names: Medina
+    given-names: Haritz
+    orcid: "https://orcid.org/0000-0003-2545-9216"
+  -
+    family-names: Garmendia
+    given-names: Xabier
+cff-version: "1.1.0"
+keywords:
+  - "web annotation"
+  - "annotation client"
+  - "browser extension"
+  - "software product line"
+  - "pure variants"
+license: MIT
+message: "Feel free to use WACline to develop your own web annotation browser extensions to conduct research or use it in your own experiments. You can also contribute via issues or pull requests, feel free to open one in case of any doubt, problem or enhancement"
+repository-code: "https://github.com/onekin/WacLine"
+title: "WACline: A software product line to create customized Web Annotation browser extensions"
+version: "0.3"

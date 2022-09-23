@@ -1,0 +1,28 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Grootes
+    given-names: "Meiert Willem"
+    orcid: "https://orcid.org/0000-0002-5733-4795"
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Nattinio
+    given-names: "Francesco"
+    orcid: "https://orcid.org/0000-0003-3286-0139"
+cff-version: "1.1.0"
+date-released: 2021-05-26
+doi: "10.0000/FIXME"
+keywords: 
+  - "Automatic deployment"
+  - OpenNebula
+  - "Virtual Machines"
+  - Clusters
+  - "bare metal"
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/NLeSC-GO-common-infrastructure/marzipan"
+title: "Marzipan - Automated OpenNebula instantiation and provisioning "
+version: "0.1.0"
+...

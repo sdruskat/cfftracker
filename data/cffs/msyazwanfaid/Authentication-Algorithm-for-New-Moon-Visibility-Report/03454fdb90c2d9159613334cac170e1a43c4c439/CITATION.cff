@@ -1,0 +1,26 @@
+# YAML 1.2
+---
+abstract: "Hilal-Obs authenticates lunar crescent first visibility reports. The code, written in Python, uses PyEphem (ascl:1112.014) for astrometrics, and takes into account all the factors that affect lunar crescent visibility, including atmospheric extinction, observer physiology, sky and lunar brightness, contrast threshold, and the type of observation."
+authors: 
+  -
+    affiliation: "Academy of Islamic Studies, University of Malaya"
+    family-names: 
+    given-names: "Muhamad Syazwan Faid"
+  -
+    affiliation: "Academy of Islamic Studies, University of Malaya"
+    family-names: 
+    given-names: "Mohd Saiful Anwar Mohd Nawawi"
+  -
+    affiliation: "Academy of Contemporary Islamic Studies, UiTM Shah Alam Malaysia"
+    family-names: 
+    given-names: "Nur Nafhatun Md Shariff"
+  -
+    affiliation: "Institute of Science, UiTM Shah Alam Malaysia"
+    family-names: 
+    given-names: 
+cff-version: "1.1.0"
+date-released: 2021-4-31
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/msyazwanfaid/Authentication-Algorithm-for-New-Moon-Visibility-Report"
+title: "Hilal-Obs: Authentication agorithm for new moon visibility report"
+...

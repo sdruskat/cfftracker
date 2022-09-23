@@ -1,0 +1,16 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Federal University of São Carlos"
+    family-names: Brusaca
+    given-names: "Luiz Augusto"
+    orcid: "https://orcid.org/0000-0001-8201-6433"
+cff-version: "1.1.0"
+date-released: 2021-07-20
+license: "MIT + file LICENSE"
+message: "If you use this package, please cite it using these metadata."
+repository-code: "https://github.com/augustobrusaca/KHQ"
+title: "KHQ: Methods for Calculating 'KHQ' Scores and 'KHQ5D' Utility Index Scores"
+version: "v0.2.0"
+...

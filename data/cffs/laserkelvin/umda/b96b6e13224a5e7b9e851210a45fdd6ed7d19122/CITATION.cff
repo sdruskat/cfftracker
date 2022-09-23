@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Lee
+    given-names: Kelvin
+    orcid: https://orcid.org/0000-0002-1903-9242
+title: "Unsupervised Molecule Discovery in Astrophysics"
+version: 0.1.0
+doi: 10.5281/zenodo.5080543
+date-released: 2021-07-29

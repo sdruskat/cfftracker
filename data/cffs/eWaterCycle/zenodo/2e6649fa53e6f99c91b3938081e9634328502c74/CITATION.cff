@@ -1,0 +1,19 @@
+# YAML 1.2
+--- 
+authors: 
+  - 
+    affiliation: "Netherlands eScience Center"
+    family-names: Haren
+    given-names: Ronald
+    name-particle: van
+cff-version: "1.0.3"
+commit: 
+date-released:
+doi:
+keywords: 
+  - "Zenodo"
+license: Apache-2.0
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/ewatercycle/zenodo"
+title: zenodo
+version:

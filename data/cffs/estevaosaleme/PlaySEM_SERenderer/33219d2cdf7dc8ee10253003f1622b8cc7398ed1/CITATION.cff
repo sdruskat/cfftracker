@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Saleme"
+  given-names: "Estevao Bissoli"
+  orcid: "https://orcid.org/0000-0003-1856-3824"
+- family-names: "Santos"
+  given-names: "Celso Alberto Saibel"
+- family-names: "Ghinea "
+  given-names: "Gheorghita"
+title: "A mulsemedia framework for delivering sensory effects to heterogeneous systems"
+version: 2.0.0
+doi: 10.1007/s00530-019-00618-8
+url: "https://doi.org/10.1007/s00530-019-00618-8"
+date-released: 2019-05-01

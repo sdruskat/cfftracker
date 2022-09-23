@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Biazzo"
+  given-names: "Marco"
+title: "quant-genetic-thesis"
+version: 1.0.0
+date-released: 2021-08-03
+url: "https://github.com/marcobiazzo/quant-genetic-thesis"

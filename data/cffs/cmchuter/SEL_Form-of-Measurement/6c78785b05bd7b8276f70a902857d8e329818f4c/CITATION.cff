@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this code or data, please cite it as below."
+authors:
+  - family-names: Chuter
+    given-names: Claire
+    orcid: https://orcid.org/0000-0002-7415-282X
+title: "SEL Form of Measurement"
+version: 4.1.1
+doi: NA
+date-released: 2021-08-11

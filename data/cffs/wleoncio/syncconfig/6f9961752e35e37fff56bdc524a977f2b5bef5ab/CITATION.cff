@@ -1,0 +1,12 @@
+# YAML 1.2
+---
+authors:
+  -
+    family-names: "Leoncio Netto"
+    given-names: Waldir
+cff-version: "1.1.0"
+license: "GPL-3.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/wleoncio/config"
+title: "Configuration files"
+...

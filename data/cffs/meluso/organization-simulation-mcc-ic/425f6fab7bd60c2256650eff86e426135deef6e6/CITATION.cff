@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Meluso"
+  given-names: "John"
+  orcid: "https://orcid.org/0000-0001-8200-8150"
+title: "Masculinity Contest Cultures and Inclusive Cultures: Insights From an Agent-Based Model of Organizational Socialization and Promotion"
+version: 1.0.0
+date-released: 2021-07-27
+url: "https://github.com/meluso/organization-simulation-mcc-ic"

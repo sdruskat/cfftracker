@@ -1,0 +1,24 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Rao
+    given-names: Sriram
+    orcid: "https://orcid.org/0000-0002-3265-6165"
+  -
+    family-names: Mahabal
+    given-names: Ashish
+  -
+    family-names: Rao
+    given-names: Niyanth
+  -
+    family-names: Cauligi
+    given-names: Raghavendra
+cff-version: "1.1.0"
+doi: "10.1093/mnras/stab203"
+date-released: 2021-01-19
+license: MIT
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/ExoplanetML/Nigraha"
+title: "Nigraha: Machine-learning based pipeline to identify and evaluate planet candidates from TESS"
+...

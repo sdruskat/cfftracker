@@ -1,0 +1,33 @@
+# YAML 1.2
+---
+abstract: "Constellation is a software platform specifically aimed at distributed, heterogeneous and hierarchical computing environments. In Constellation, applications consist of several distinct (but somehow related) activities. These activities can be implemented independently using existing, well understood tools (e.g. MPI, CUDA, etc.). Constellation is then used to construct the overall application by coupling the distinct activities. Using application defined labels in combination with context-aware work stealing, Constellation provides a simple and efficient mechanism for automatically mapping the activities to the appropriate resources, taking data locality and heterogeneity into accoun"
+authors: 
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Maassen
+    given-names: Jason
+    orcid: "https://orcid.org/0000-0002-8172-4865"
+  -
+    affiliation: "VU University Amsterdam"
+    family-names: Jacobs
+    given-names: Ceriel
+    orcid: "https://orcid.org/0000-0002-4692-7245"
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Verhoeven
+    given-names: Stefan
+    orcid: "https://orcid.org/0000-0002-5821-2060"
+cff-version: "1.1.0"
+date-released: 2019-06-11
+doi: "10.5281/zenodo.1218876"
+keywords: 
+  - "heterogeneous computing"
+  - "distributed computing"
+  - "work scheduling"
+  - Java
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/nlesc/constellation"
+title: Constellation
+version: "2.0.1"
+...

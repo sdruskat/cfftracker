@@ -1,0 +1,35 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Netherlands eScience Center, University of Amsterdam"
+    family-names: Heldens
+    given-names: Stijn
+    orcid: "https://orcid.org/0000-0001-8792-6305"
+  -
+    affiliation: "Vrije Universiteit Amsterdam, University of Amsterdam"
+    family-names: Hijma
+    given-names: Pieter
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: "van Werkhoven"
+    given-names: Ben
+    orcid: "https://orcid.org/0000-0002-7508-3272"
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Maassen
+    given-names: Jason
+    orcid: "https://orcid.org/0000-0002-8172-4865"
+  -
+    affiliation: "Netherlands eScience Center, University of Amsterdam"
+    family-names: "van Nieuwpoort"
+    given-names: Rob
+    orcid: "https://orcid.org/0000-0002-2947-9444"
+cff-version: "1.1.0"
+date-released: 2020-04-22
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/JungleComputing/rocket"
+title: "Rocket: Runtime system for all-pair computations"
+version: "1.0.0"
+...

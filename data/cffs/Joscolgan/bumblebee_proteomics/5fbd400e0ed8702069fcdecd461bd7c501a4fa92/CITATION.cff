@@ -1,0 +1,12 @@
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Colgan; Finlay; Brown, Carolan 
+    given-names: Thomas J.; Sive; Mark J.F.; James C.
+    orcid: (Thomas Colgan) https://orcid.org/0000-0002-0547-8228
+title: Mating precedes selective immune priming which is maintained throughout bumblebee queen diapause.
+journal: BMC Genomics
+doi: 10.1186/s12864-019-6314-9
+date-released: 2019-12-09
+license: GPLv3
+repository: https://github.com/Joscolgan/bumblebee_proteomics

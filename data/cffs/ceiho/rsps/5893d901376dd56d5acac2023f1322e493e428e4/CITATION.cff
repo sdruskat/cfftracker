@@ -1,0 +1,8 @@
+cff-version: 1.1.0
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Eitzen
+    given-names: Claudia
+title: Research Software - Publication and Sustainability (RSPS)
+version: 1.0.0
+date-released: 2020-11-19

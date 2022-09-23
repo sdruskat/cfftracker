@@ -1,0 +1,39 @@
+---
+authors:
+  -
+    family-names: Bos
+    given-names: "E. G. Patrick"
+    orcid: "https://orcid.org/0000-0002-6033-960X"
+cff-version: "1.0.3"
+date-released: 2018-10-14
+keywords:
+  - "bayesian inference"
+  - C++
+  - cosmology
+  - "hamiltonian monte carlo"
+  - reconstruction
+license: MIT
+message: "If you use this software, please cite the paper in the references field."
+references:
+  -
+    type: article
+    authors:
+      -
+        family-names: Bos
+        given-names: "E. G. Patrick"
+        orcid: "https://orcid.org/0000-0002-6033-960X"
+      -
+        family-names: Kitaura
+        given-names: Francisco-Shu
+      -
+        family-names: "van de Weygaert"
+        given-names: Rien
+    journal: "ArXiv e-prints"
+    scope: "redshift space model"
+    status: preprint
+    title: "Bayesian cosmic density field inference from redshift space dark matter maps"
+    url: "https://arxiv.org/abs/1810.05189"
+    year: 2018
+repository-code: "https://github.com/egpbos/barcode/"
+title: Barcode
+version: "0.0.1"

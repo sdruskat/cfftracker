@@ -1,0 +1,65 @@
+cff-version: 1.1.0
+message: If you use this software, please cite the software and the paper.
+authors:
+  - family-names: Georges
+    given-names: Aïna Linn
+    orcid: https://orcid.org/0000-0002-5951-4642
+  - family-names: Guéneau
+    given-names: Armaël
+    orcid: https://orcid.org/0000-0003-3072-4045
+  - family-names: Van Strydonck
+    given-names: Thomas
+    orcid: https://orcid.org/0000-0002-5262-1381
+  - family-names: Timany
+    given-names: Amin
+    orcid: https://orcid.org/0000-0002-2237-851X
+  - family-names: Trieu
+    given-names: Alix
+    orcid: https://orcid.org/0000-0002-8239-8125
+title: Iris Mechanization of a Local Capability Machine with Uninitialized Capabilities
+version: 1.0.0
+license: BSD-3
+doi: 10.5281/zenodo.4072885
+date-released: 2020-09-20
+references:
+  - type: article
+    authors:
+    - family-names: Georges
+      given-names: Aïna Linn
+      orcid: https://orcid.org/0000-0002-5951-4642
+      affiliation: Aarhus University, Denmark
+    - family-names: Guéneau
+      given-names: Armaël
+      orcid: https://orcid.org/0000-0003-3072-4045
+      affiliation: Aarhus University, Denmark
+    - family-names: Van Strydonck
+      given-names: Thomas
+      orcid: https://orcid.org/0000-0002-5262-1381
+      affiliation: KU Leuven, Belgium
+    - family-names: Timany
+      given-names: Amin
+      orcid: https://orcid.org/0000-0002-2237-851X
+      affiliation: Aarhus University, Denmark
+    - family-names: Trieu
+      given-names: Alix
+      orcid: https://orcid.org/0000-0002-8239-8125
+      affiliation: Aarhus University, Denmark
+    - family-names: Huyghebaert
+      given-names: Sander
+      orcid: https://orcid.org/0000-0002-2878-7429
+      affiliation: Vrije Universiteit Brussel, Belgium
+    - family-names: Devriese
+      given-names: Dominique
+      orcid: https://orcid.org/0000-0002-3862-6856
+      affiliation: Vrije Universiteit Brussel, Belgium
+    - family-names: Birkedal
+      given-names: Lars
+      orcid: https://orcid.org/0000-0003-1320-0098
+      affiliation: Aarhus University, Denmark
+    title: "Efficient and Provable Local Capability Revocation using Uninitialized Capabilities"
+    year: 2021
+    journal: Proc. ACM Program. Lang.
+    volume: 5
+    issue: POPL
+    doi: 10.1145/3434287
+    url: https://doi.org/10.1145/3434287

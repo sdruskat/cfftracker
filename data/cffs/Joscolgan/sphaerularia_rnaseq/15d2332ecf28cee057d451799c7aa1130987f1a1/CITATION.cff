@@ -1,0 +1,12 @@
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Colgan; Carolan; Sumner, Blaxter, Brown 
+    given-names: Thomas J.; James C.; Seirian; Mark L.; Mark J.F.
+    orcid: (Thomas Colgan) https://orcid.org/0000-0002-0547-8228
+title: Infection by the castrating parasitic nematode Sphaerularia bombi changes gene expression in Bombus terrestris bumblebee queens.
+journal: Insect Molecular Biology
+doi: imb.12618
+date-released: 2019-09-30
+license: GPLv3
+repository: https://github.com/Joscolgan/sphaerularia_rnaseq

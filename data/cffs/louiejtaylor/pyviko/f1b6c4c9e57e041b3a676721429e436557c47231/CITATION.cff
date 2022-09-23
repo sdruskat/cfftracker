@@ -1,0 +1,14 @@
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+references:
+  - type: article
+  authors:
+    - family-names: Taylor
+      given-names: Louis J
+      orcid: https://orcid.org/0000-0002-6993-5838
+    - family-names: Strebel
+      given-names: Klaus
+  title: "Pyviko: an automated Python tool to design gene knockouts in complex viruses with overlapping genes"
+  journal: BMC Microbiology
+  doi: 10.1186/s12866-016-0920-3
+  year: 2017

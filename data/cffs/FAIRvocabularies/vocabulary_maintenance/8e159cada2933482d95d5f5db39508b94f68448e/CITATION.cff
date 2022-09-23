@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Cox"
+  given-names: "Simon"
+  orcid: "https://orcid.org/0000-0002-3884-3420"
+- family-names: "Gonzalez-Beltran"
+  given-names: "Alejandra"
+  orcid: "https://orcid.org/0000-0003-3499-8262"
+title: "FAIR Vocabularies vocabulary_maintenance"
+version: 1.0.0
+doi: 
+date-released: 2021-07-29
+url: "https://github.com/FAIRvocabularies/vocabulary_maintenance"

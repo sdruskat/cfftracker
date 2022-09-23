@@ -1,0 +1,35 @@
+# YAML 1.2
+# Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+title: KNIME ss-TEA node
+doi: 10.5281/zenodo.3257702
+authors:
+- given-names: Stefan
+  family-names: Verhoeven
+  affiliation: Netherlands eScience Center
+  orcid: https://orcid.org/0000-0002-5821-2060
+version: 1.0.6
+date-released: 2019-06-26
+repository-code: https://github.com/3D-e-Chem/knime-sstea
+license: Apache-2.0
+references:
+- type: article
+  doi: 10.1186/1471-2105-12-332
+  title: 'ss-TEA: Entropy based identification of receptor specific ligand binding
+    residues from a multiple sequence alignment of class A GPCRs'
+  authors:
+  - given-names: Marijn PA
+    family-names: Sanders
+  - given-names: Wilco WM
+    family-names: Fleuren
+  - given-names: Stefan
+    family-names: Verhoeven
+  - given-names: Sven
+    family-names: van den Beld
+  - given-names: Wynand
+    family-names: Alkema
+  - given-names: Jacob
+    family-names: de Vlieg
+  - given-names: Jan PG
+    family-names: Klomp

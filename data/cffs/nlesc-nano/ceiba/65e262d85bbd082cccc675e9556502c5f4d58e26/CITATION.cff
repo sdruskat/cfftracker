@@ -1,0 +1,17 @@
+# YAML 1.2
+---
+cff-version: "1.1.0"
+title: "ceiba"
+authors:
+  -
+    family-names: Zapata
+    given-names: Felipe
+    orcid: "https://orcid.org/0000-0001-8286-677X"
+date-released: 2020-10-03
+keywords: 
+  - "quantum-chemistry"
+  - "materials-science"
+version: "0.1.0"
+repository-code: "https://github.com/nlesc-nano/ceiba"
+message: "If you use this software, please cite it using these metadata."
+license: "Apache Software License 2.0"
