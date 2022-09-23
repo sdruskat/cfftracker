@@ -1,0 +1,63 @@
+cff-version: 1.2.0
+message: Please use the bibtex in the README to cite this work
+title: 'GraphRedex: Look at your research'
+doi: 10.1002/spe.2959
+authors:
+  - family-names: Gurdeep Singh
+    given-names: Robbert
+    affiliation: Ghent University
+  - family-names: Scholliers
+    given-names: Christophe
+    affiliation: Ghent University
+identifiers:
+  - description: Research paper you should be citing
+    type: doi
+    value: 10.1002/spe.2959
+  - type: url
+    value: https://redex.ugent.be
+    description: Public demo site of GraphRedex
+preferred-citation:
+  authors:
+    - family-names: Gurdeep Singh
+      given-names: Robbert
+      affiliation: Ghent University
+    - family-names: Scholliers
+      given-names: Christophe
+      affiliation: Ghent University
+  title: 'GraphRedex: Look at your research'
+  doi: 10.1002/spe.2959
+  type: article
+  journal: 'Software: Practice and Experience'
+  number: '6'
+  volume: '51'
+  pages: 1322-1351
+  year: 2021
+  month: 3
+  abstract: A significant aspect of designing new programming languages is to define
+    their operational semantics. Working with a pen and paper version of such a semantics
+    is notoriously difficult. For this reason, tools for computer aided semantics
+    engineering were created. Many of these tools allow programmers to execute their
+    language's operational semantics. An executable semantics makes it easier to verify
+    whether the execution of a program leads to the desired result. When a program
+    exhibits unexpected behavior, the programmer can consult the reduction graph to
+    see what went wrong. Unfortunately, visualization of these graphs is currently
+    not well-supported by most tools. Consequently, the comprehension of errors remains
+    challenging. In this article, we present GraphRedex an open-source tool that empowers
+    language designers to interactively explore their reduction graphs, offering three
+    main benefits. First, a global exploration mode allows users to obtain a bird's-eye
+    overview of the reduction graph and learn its high level workings. Second, a local
+    exploration mode lets the programmer closely interact with the individual reduction
+    rules. Third, our query interface allows the programmer to filter out and highlight
+    specific regions of the reduction graph. We evaluated our tool by carrying out
+    a user study showing that participants comprehend programs on average twice as
+    fast while being able to answer questions more accurately. Finally, we demonstrate
+    how GraphRedex helps to understand the semantics of two published works. Exploration
+    of the semantics with GraphRedex unveiled an issue in one of the implementations
+    of these works, which the author confirmed.
+  keywords:
+    - operational semantics
+    - PLT Redex
+    - semantics engineering
+    - state explosion
+    - tooling
+    - visualization

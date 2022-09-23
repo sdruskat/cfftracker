@@ -1,0 +1,16 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Tsenova
+    given-names: Violeta
+    orcid: "https://orcid.org/0000-0002-1720-7679"
+  -
+    family-names: Wood
+    given-names: Gavin
+cff-version: "1.0.0"
+doi: "10.5281/zenodo.5172045"
+message: |
+    "If you use this software, please cite it using these metadata.
+    Year: 2021"
+...

@@ -1,0 +1,23 @@
+# YAML 1.2
+--- 
+authors: 
+  - 
+    affiliation: "Netherlands eScience Center"
+    family-names: Haren
+    given-names: Ronald
+    name-particle: van
+cff-version: "1.0.3"
+commit: 9c71251c5bd358db6b752449317c308a4f25e98e
+date-released: 2018-03-19
+doi: 10.5281/zenodo.1203579
+keywords: 
+  - "fast radio burst"
+  - "frb"
+  - "astronomy"
+  - "frbcat"
+  - "web-frontend"
+license: Apache-2.0
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/AA-ALERT/frbcat-web"
+title: frbcat-web
+version: "2.1.0"

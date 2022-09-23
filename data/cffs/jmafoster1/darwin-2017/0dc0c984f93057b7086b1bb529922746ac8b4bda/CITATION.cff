@@ -1,0 +1,25 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Foster
+    given-names: Michael
+    orcid: https://orcid.org/0000-0001-8233-9873
+  - family-names: Hughes
+    given-names: Matthew
+  - family-names: O'Brien
+    given-names: George
+    orcid: https://orcid.org/0000-0001-5055-0359
+- family-names: Oliveto
+    given-names: Pietro S.
+    orcid: https://orcid.org/0000-0001-8164-6767
+  - family-names: Pyle
+    given-names: James
+  - family-names: Sudholt
+    given-names: Dirk
+    orcid: https://orcid.org/0000-0001-6020-1646
+  - family-names: Williams
+    given-names: James
+title: "Darwin EA Project 2017"
+version: 0.0.1
+doi: https://doi.org/10.1145/3377930.3389830
+date-released: 2017-08-21

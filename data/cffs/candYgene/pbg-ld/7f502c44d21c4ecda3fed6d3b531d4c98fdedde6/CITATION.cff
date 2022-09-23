@@ -1,0 +1,43 @@
+# YAML 1.2
+---
+authors: 
+  - 
+    affiliation: "Netherlands eScience Center"
+    family-names: Kuzniar
+    given-names: Arnold
+    orcid: https://orcid.org/0000-0003-1711-7961
+  - 
+    affiliation: "Netherlands eScience Center"
+    family-names: Martinez-Ortiz
+    given-names: Carlos
+    orcid: https://orcid.org/0000-0001-5565-7577
+  - 
+    affiliation: "Wageningen University and Research"
+    family-names: Singh
+    given-names: Gurnoor
+    orcid: https://orcid.org/0000-0003-1615-4197
+cff-version: "1.0.3"
+date-released: 2019-09-03
+doi: 10.5281/zenodo.1458168
+keywords:
+  - "plant breeding"
+  - "Solanaceae"
+  - "genomics"
+  - "genome annotation"
+  - "QTL"
+  - "trait"
+  - "Sol Genomics Network"
+  - "Europe PMC"
+  - "UniProt"
+  - "Ensembl Plants"
+  - "Linked Data"
+  - "FAIR Data"
+  - "Virtuoso"
+  - "RDF"
+  - "SPARQL"
+  - "Web API"
+license: Apache-2.0
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/candYgene/pbg-ld"
+title: "pbg-ld"
+version: "1.0.0"

@@ -1,0 +1,13 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Coopey
+    given-names: Ewan
+    orcid: https://orcid.org/0000-0001-8633-6418
+  - family-names: Ballsun-Stanton 
+    given-names: Brian 
+    orcid: https://orcid.org/0000-0003-4932-7912
+title: "BromansCoopey: Community and Identity in the Roman Seventh Legion"
+version: 1.0.0
+doi: 10.6078/M7X34VK8
+date-released: 10/08/2021

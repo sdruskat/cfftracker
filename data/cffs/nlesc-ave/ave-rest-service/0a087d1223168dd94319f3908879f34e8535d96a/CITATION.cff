@@ -1,0 +1,17 @@
+# YAML 1.2
+# Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+title: Allelic Variation Explorer
+doi: 10.5281/zenodo.1145887
+authors:
+- given-names: Stefan
+  family-names: Verhoeven
+  affiliation: Nederlands eScience Center
+- given-names: Mateusz
+  family-names: Kuzak
+  affiliation: Nederlands eScience Center
+version: 1.0.0
+date-released: 2018-01-11
+repository-code: https://github.com/nlesc-ave/ave-rest-service
+license: Apache-2.0

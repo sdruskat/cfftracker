@@ -1,0 +1,20 @@
+# YAML 1.2
+---
+abstract: "Complete rules and regulations pertaining to  call for proposals \"2021-test\" by Netherlands eScience Center."
+authors: 
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Spaaks
+    given-names: "Jurriaan H."
+    orcid: "https://orcid.org/0000-0002-7064-4069"
+cff-version: "1.1.0"
+date-released: 2021-05-21
+keywords: 
+  - "call for proposals"
+  - funding
+license: "CC-BY-4.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/nlesc-calls/2021-test"
+title: "Rules and regulations pertaining to call for proposals 2021-test"
+version: "1.6.0"
+...

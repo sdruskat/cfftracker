@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Pinter"
+  given-names: "Yuval"
+  orcid: "https://orcid.org/0000-0003-3174-1621"
+- family-names: "Jacobs"
+  given-names: "Cassandra L."
+- family-names: "Eisenstein"
+  given-names: "Jacob"
+title: "Will it Unblend?"
+booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2020"
+publisher: "Association for Computational Linguistics"
+version: 1.0.0
+doi: 10.18653/v1/2020.findings-emnlp.138
+date-released: 2020-11-01
+url: "https://aclanthology.org/2020.findings-emnlp.138"

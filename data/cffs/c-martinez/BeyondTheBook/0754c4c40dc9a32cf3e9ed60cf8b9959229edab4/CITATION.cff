@@ -1,0 +1,30 @@
+# YAML 1.2
+---
+abstract: "The book translation market is a topic of interest in literary studies, but the reasons why a book is selected for translation are not well understood. The \"Beyond the Book\" project investigates whether web resources like Wikipedia can be used to establish the level of cultural bias. This work describes the eScience tools used to estimate the cultural appeal of a book: semantic linking is used to identify key words in the text of the book, and afterwards the revision information from corresponding Wikipedia articles is examined to identify countries that generated a more than average amount of contributions to those articles. Comparison between the number of contributions from two countries on the same set of articles may show with which knowledge the contributors are familiar. We assume a lack of contributions from a country may indicate a gap in the knowledge of readers from that country. We assume that a book dealing with that concept could be more exotic and therefore more appealing for certain readers, while others are therefore less interested in the book. An indication of the 'level of exoticness' thus could help a reader/publisher to decide to read/translate the book or not. Experimental results are presented for four selected books from a set of 564 books written in Dutch or translated into Dutch, assessing their potential appeal for a Canadian audience. A qualitative assessment of quantitative results provides insight into named entities that may indicate a high/low cultural bias towards a book."
+authors: 
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: "Martinez-Ortiz"
+    given-names: Carlos
+    orcid: "https://orcid.org/0000-0001-5565-7577"
+  -
+    family-names: Koolen
+    given-names: Marijn
+    orcid: "https://orcid.org/0000-0002-0301-2029"
+  -
+    family-names: "Dalen-Oskam"
+    given-names: Karina
+    name-particle: van
+cff-version: "1.0.3"
+date-released: 2018-09-27
+doi: "10.5281/zenodo.1436372"
+keywords: 
+  - books
+  - "book translation"
+  - "cultural bias"
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/c-martinez/BeyondTheBook/"
+title: BeyondTheBook
+version: "v1.0.1"
+...

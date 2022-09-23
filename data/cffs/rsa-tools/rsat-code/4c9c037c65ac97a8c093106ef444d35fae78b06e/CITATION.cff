@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: recommended way to cite the software suite Regulatory Sequence Analysis Tools
+authors
+  - family-names: Nguyen
+    given-names: Nga Thi Thuy
+    orcid: NA
+  - family-names: van Helden
+    given-names: Jacques
+    orc-id: 

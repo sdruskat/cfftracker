@@ -1,0 +1,32 @@
+# YAML 1.2
+# Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+title: KNIME Pharmacophore nodes
+doi: 10.5281/zenodo.3257972
+authors:
+- given-names: Stefan
+  family-names: Verhoeven
+  affiliation: Nederlands eScience Center
+  orcid: https://orcid.org/0000-0002-5821-2060
+- given-names: Albert
+  family-names: Kooistra
+  name-particle: J.
+  affiliation: Vrije Universiteit Amsterdam
+  orcid: https://orcid.org/0000-0001-5514-6021
+- given-names: Marton
+  family-names: Vass
+  affiliation: Vrije Universiteit Amsterdam
+  orcid: https://orcid.org/0000-0003-1486-0063
+- given-names: Ross
+  family-names: McGuire
+  affiliation: Radboud UMC
+  orcid: https://orcid.org/0000-0003-3404-6456
+- given-names: Chris
+  family-names: de Graaf
+  affiliation: Vrije Universiteit Amsterdam
+  orcid: https://orcid.org/0000-0002-1226-2150
+version: 1.0.4
+date-released: 2019-09-24
+repository-code: https://github.com/3D-e-Chem/knime-pharmacophore
+license: Apache-2.0

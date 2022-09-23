@@ -1,0 +1,39 @@
+
+cff-version: 1.0.3
+message: "Please cite the following works when using this software."
+
+title: OpenQCD AVX512 Extension
+version: 1.0
+date-released: 19 January 2018
+authors:
+  - name: "Swansea Academy of Advanced Computing"
+    website: http://www.swansea.ac.uk/iss/sa2c/
+    email: sa2c-support@swansea.ac.uk
+  - family-names: Rantaharju
+    given-names: Jarno
+    orcid:  https://orcid.org/0000-0002-0072-7707
+  - family-names: Messiti
+    given-names: Michele
+
+references:
+  - type: software-code
+    name: OpenQCD
+    version: 1.6
+    website: luscher.web.cern.ch/luscher/openQCD/
+    authors:
+       - family-names: Lüscher
+         given-names: Martin
+       - family-names: Schaefer 
+         given-names: Stefan
+       - family-names: Bulava 
+         given-names: John
+       - family-names: Del Debbio 
+         given-names: Luigi
+       - family-names: Giusti 
+         given-names: Leonardo
+       - family-names: Leder
+         given-names: Björn
+       - family-names: Palombi 
+         given-names: Filippo
+    date-released: 22. April 2014
+    email: luscher@mail.cern.ch

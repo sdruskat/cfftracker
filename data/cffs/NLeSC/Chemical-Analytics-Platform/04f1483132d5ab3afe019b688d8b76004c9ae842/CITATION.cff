@@ -1,0 +1,33 @@
+# YAML 1.2
+---
+abstract: "Chemical Analytics Platform is a freely available Virtual Machine encompassing tools, databases, and KNIME workflows."
+authors: 
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Verhoeven
+    given-names: Stefan
+    orcid: "https://orcid.org/0000-0002-5821-2060"
+  -
+    affiliation: "Radboud University Nijmegen"
+    family-names: McGuire
+    given-names: Ross
+    orcid: "https://orcid.org/0000-0003-3404-6456"
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Zapata Ruiz
+    given-names: Felipe 
+    orcid: "https://orcid.org/0000-0001-8286-677X"
+cff-version: "1.0.3"
+date-released: 2018-09-27
+doi: "10.5281/zenodo.1436464"
+keywords: 
+  - KNIME
+  - "chemical analytics platform"
+  - Vagrant
+  - "virtual machine"
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/NLeSC/Chemical-Analytics-Platform"
+title: "Chemical Analytics Platform"
+version: "v0.8.6"
+...

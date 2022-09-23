@@ -1,0 +1,34 @@
+# YAML 1.2
+---
+abstract: "Mitigation Controller (MitC): an automated risk-mitigation tool for construction projects."
+authors:
+  -
+    affiliation: "TU Delft, Department Materials, Mechanics, Management & Design"
+    family-names: Kammouh
+    given-names: Omar
+    orcid: "https://orcid.org/0000-0002-8859-061X"
+  -
+    affiliation: "TU Delft, Department Materials, Mechanics, Management & Design"
+    family-names: Nogal
+    given-names: Maria
+    orcid: "https://orcid.org/0000-0001-5405-0626"
+  -   
+    affiliation: "TU Delft, Digital Competence Center"
+    family-names: Kok
+    given-names: Maurits
+    orcid: "https://orcid.org/0000-0002-0564-2614"
+
+cff-version: "1.1.0"
+keywords:  
+  - risk event
+  - uncertainty
+  - corrective measures
+  - control measures
+  - project scheduling
+  - mitigation
+  - time-cost optimization
+  - Monte Carlo simulation
+license: "Apache-2.0"
+repository-code: "https://github.com/mitigation-controller/mitc"
+title: mitc
+...

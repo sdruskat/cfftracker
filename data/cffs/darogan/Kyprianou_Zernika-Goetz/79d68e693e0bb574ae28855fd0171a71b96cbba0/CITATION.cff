@@ -1,0 +1,15 @@
+# YAML 1.2
+# Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)
+cff-version: 1.0.3
+message: If you use this software, please cite it using these metadata.
+# FIXME title as repository name might not be the best name, please make human readable
+title: 'darogan/Kyprianou_Zernika-Goetz: Release v1.0.0 to accompany the publication'
+doi: 10.5281/zenodo.3610335
+# FIXME splitting of full names is error prone, please check if given/family name are correct
+authors:
+- given-names: Russell
+  family-names: Hamilton
+version: 1.0.0
+date-released: 2020-01-16
+repository-code: https://github.com/darogan/Kyprianou_Zernika-Goetz
+license: other-open

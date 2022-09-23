@@ -1,0 +1,18 @@
+cff-version: 1.0.0
+message: "In case of using the methods, data, and/or software, please cite as below."
+authors:
+- family-names: "Sanati"
+  given-names: "Nasim"
+- family-names: "Iancu"
+  given-names: "Ovidiu"
+- family-names: "Guanming"
+  given-names: "Wu"
+- family-names: "Jacobs"
+  given-names: "James"
+- family-names: "McWeeney"
+  given-names: "Shannon"
+title: "Network-based predictors of progression in head and neck squamous cell carcinoma"
+version: 1.0.0
+doi: 10.3389/fgene.2018.00183
+date-released: 2018-05-29
+url: "https://github.com/teslajoy/hnscc-macOS"

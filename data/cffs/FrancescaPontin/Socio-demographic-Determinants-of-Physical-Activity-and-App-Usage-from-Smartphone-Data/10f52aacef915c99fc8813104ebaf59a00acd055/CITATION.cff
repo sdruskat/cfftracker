@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Pontin
+    given-names: Francesca
+    orcid: https://orcid.org/0000-0002-7143-8718
+title: "Socio-demographic determinants of physical activity and app usage from smartphone data: Data cleaning and pre-processing"
+version: 1.0
+doi: 10.5281/zenodo.5141023
+date-released: 2021-07-28

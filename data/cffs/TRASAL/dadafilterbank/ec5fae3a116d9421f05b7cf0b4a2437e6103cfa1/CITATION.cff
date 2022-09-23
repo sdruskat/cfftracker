@@ -1,0 +1,33 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Attema
+    given-names: Jisk
+    orcid: "https://orcid.org/0000-0002-0948-1176"
+  -
+    affiliation: "ASTRON / UvA"
+    family-names: Oostrum
+    given-names: Leon
+    orcid: "https://orcid.org/0000-0001-8724-8372"
+  -
+    affiliation: "ASTRON / UvA"
+    family-names: Leeuwen
+    given-names: Joeri
+    name-suffix: van
+    orcid: "https://orcid.org/0000-0002-7587-6352"
+keywords: 
+  - PSRDada
+  - Python3
+  - Astrophysics
+  - Pulsars
+  - "Fast Radio Bursts FRB"
+  - "Data processing"
+cff-version: "1.1.0"
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+title: "dadafilterbank"
+version: "0.1.0"
+date-released: 2020-07-14
+...

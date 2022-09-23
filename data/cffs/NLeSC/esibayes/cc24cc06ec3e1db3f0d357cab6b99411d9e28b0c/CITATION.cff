@@ -1,0 +1,24 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Spaaks
+    given-names: "Jurriaan H."
+    orcid: "https://orcid.org/0000-0002-7064-4069"
+  -
+    affiliation: SARA
+    family-names: Engelberts
+    given-names: Jeroen
+cff-version: "1.0.3"
+date-released: 2018-09-25
+doi: "10.5281/zenodo.1064714"
+keywords: 
+  - optimization
+  - "data assimiliation"
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/NLeSC/esibayes"
+title: "MMSODA Toolbox for MATLAB"
+version: "1.0.3"
+...

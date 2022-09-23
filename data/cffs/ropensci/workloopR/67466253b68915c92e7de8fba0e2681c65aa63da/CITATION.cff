@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Baliga"
+  given-names: "Vikram B."
+  orcid: "https://orcid.org/0000-0002-9367-8974"
+- family-names: "Senthivasan"
+  given-names: "Shreeram"
+  orcid: "https://orcid.org/0000-0002-7118-9547"
+title: "workloopR"
+version: 1.1.4
+doi: 10.21105/joss.01856
+date-released: 2019-11-01
+url: "https://github.com/ropensci/workloopR"

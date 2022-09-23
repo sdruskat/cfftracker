@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it as below."
+authors:
+- family-names: "Madampe"
+  given-names: "Kashumi"
+  orcid: "https://orcid.org/0000-0003-1363-8786"
+- family-names: "Hoda"
+  given-names: "Rashina"
+  orcid: "https://orcid.org/0000-0001-5147-8096"
+  - family-names: "Grundy"
+  given-names: "John"
+  orcid: "https://orcid.org/0000-0003-4928-7076"
+title: "A Faceted Taxonomy of Requirements Changes in Agile Contexts"
+date-released: 2021-07-28
+url: "https://github.com/kashumi-m/ReplicationPackageRCTaxonomy"

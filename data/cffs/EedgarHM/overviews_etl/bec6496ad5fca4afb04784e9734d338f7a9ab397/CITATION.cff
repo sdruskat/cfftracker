@@ -1,0 +1,17 @@
+cff-version: 1.1.0
+message: If you use this software, please cite it as below.
+authors:
+  - name: RegulonDB
+    country: MX
+    email: regulondb@ccg.unam.mx
+    website: http://regulondb.ccg.unam.mx/
+date-released: YYYY-MM-DD
+doi: [example: 10.5281/zenodo.1003150]
+identifiers: 
+  - type: "other"
+    value: "[example: mbiotools:RSAT_-_Retrieve_Sequence]"
+license: [GPL-3.0-only | Apache-2.0 | MIT ]
+repository-code: [URL example: https://github.com/regulondbunam/Components]
+title: [example: Components]
+url: [URL example: http://regulondbtools.ccg.unam.mx/Components]
+version: X.X.X

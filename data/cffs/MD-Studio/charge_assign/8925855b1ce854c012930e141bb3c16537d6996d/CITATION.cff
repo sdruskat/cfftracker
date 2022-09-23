@@ -1,0 +1,18 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Heinrich Heine University Duesseldorf"
+    family-names: Engler
+    given-names: "Martin S."
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Veen
+    given-names: Lourens
+cff-version: "1.0.3"
+date-released: 2018-10-31
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+title: "charge_assign"
+version: "1.0"
+...

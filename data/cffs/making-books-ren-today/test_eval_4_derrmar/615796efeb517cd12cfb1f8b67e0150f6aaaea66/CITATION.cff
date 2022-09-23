@@ -1,0 +1,44 @@
+# YAML 1.2
+# Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+# FIXME title as repository name might not be the best name, please make human readable
+title: 'Princeton-CDH/derrida-django: v1.1'
+doi: 10.5281/zenodo.1299972
+# FIXME splitting of full names is error prone, please check if given/family name are correct
+authors:
+- given-names: Rebecca
+  family-names: Koeser
+  name-particle: Sutton
+  affiliation: '@Princeton-CDH'
+  orcid: https://orcid.org/0000-0002-8762-8057
+- given-names: Benjamin
+  family-names: Hicks
+  name-particle: W.
+  affiliation: '@Princeton-CDH'
+  orcid: https://orcid.org/0000-0002-9973-560X
+- given-names: Kevin
+  family-names: Glover
+- given-names: Nick
+  family-names: Budak
+  affiliation: '@Princeton-CDH'
+  orcid: https://orcid.org/0000-0002-4542-0899
+- given-names: Xinyi
+  family-names: Li
+  affiliation: '@Princeton-CDH'
+- given-names: Jean
+  family-names: Bauer
+  affiliation: Princeton University
+  orcid: https://orcid.org/0000-0002-4026-740X
+version: '1.2'
+date-released: 2018-06-28
+repository-code: https://github.com/Princeton-CDH/derrida-django
+license: Apache-2.0
+references:
+  - type: website
+    title: Derrida's Margins
+    year: 2018
+    authors:
+      - name: The Center for Digital Humanities at Princeton
+        website: https://cdh.princeton.edu
+    url: https://derridas-margins.princeton.edu/

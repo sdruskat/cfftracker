@@ -1,0 +1,22 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "ASTRON/UvA"
+    family-names: Oostrum
+    given-names: Leon
+    orcid: "https://orcid.org/0000-0001-8724-8372"
+cff-version: "1.1.0"
+date-released: 2020-09-10
+keywords: 
+  - Astrophysics
+  - Apertif
+  - Arts
+  - "Fast Radio Bursts"
+  - Pulsars
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/loostrum/arts_tracking_beams"
+title: "ARTS tracking beams"
+version: "1.0"
+...

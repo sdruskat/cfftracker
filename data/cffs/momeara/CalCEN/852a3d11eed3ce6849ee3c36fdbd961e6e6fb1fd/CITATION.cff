@@ -1,0 +1,15 @@
+cff-version: 1.1.0
+message: "If you use the CalCEN package, please cite it as below."
+authors:
+  - family-names: O'Meara
+    given-names: Matthew
+    affiliation: "University of Michigan"
+    email: "maom@umich.edu"
+    orcid: https://orcid.org/0000-0002-3128-5331
+  - family-names: O'Meara
+    given-names: Teresa
+    affiliation: "University of Michigan"
+    email: "tromeara@umich.edu"
+    orcid: https://orcid.org/0000-0002-8901-0154
+title: "CalCEN"
+version: 0.0.1

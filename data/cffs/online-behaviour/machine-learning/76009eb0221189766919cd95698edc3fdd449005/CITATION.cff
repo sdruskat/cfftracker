@@ -1,0 +1,20 @@
+# YAML 1.2
+--- 
+authors: 
+  - 
+    affiliation: "Netherlands eScience Center"
+    family-names: Tjong Kim Sang
+    given-names: Erik
+cff-version: "1.0.1"
+commit: 1414565dde547ae53e0ac96d9b773ba3519dd655
+date-released: 2018-03-12
+doi: 10.5281/zenodo.1045199
+keywords: 
+  - "Twitter"
+  - "machine learning"
+  - "automatic classification"
+license: Apache-2.0
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/online-behaviour/machine-learning"
+title: Hercules
+version: "1.0.1"

@@ -1,0 +1,54 @@
+# -*- yaml -*-
+# Citation metadata: https://citation-file-format.github.io/
+#
+# Update this file when new versions are released! TODO: figure out how to
+# make it so that the tarball for version X.Y includes the correct DOI for
+# version X.Y -- will need some kind of preregistration?
+
+cff-version: 1.0.3
+message: 'If you use this software for academic work, cite it as specified below.'
+
+title: 'rubbl-rxpackage, version 0.1.0'
+doi: 10.5281/zenodo.3403264
+version: 0.1.0
+date-released: 2019-09-09
+
+authors:
+- family-names: Williams
+  given-names: Peter K. G.
+  affiliation: Center for Astrophysics | Harvard & Smithsonian and the American Astronomical Society
+  orcid: https://orcid.org/0000-0003-3734-3587
+
+repository-code: https://github.com/pkgw/rubbl-rxpackage
+license: MIT
+
+references:
+- type: article
+  authors:
+  - family-names: Williams
+    given-names: P. K. G.
+    orcid: https://orcid.org/0000-0003-3734-3587
+  - family-names: Allers
+    given-names: K. N.
+    orcid: https://orcid.org/0000-0003-0580-7244
+  - family-names: Biller
+    given-names: B. A.
+    orcid: https://orcid.org/0000-0003-4614-7035
+  - family-names: Vos
+    given-names: J.
+    orcid: https://orcid.org/0000-0003-0489-1528
+  title: 'A Tool and Workflow for Radio Astronomical “Peeling” in CASA'
+  year: 2019
+  journal: Research Notes of the American Astronomical Society
+  volume: 3
+  doi: 10.3847/2515-5172/ab35d5
+  url: https://doi.org/10.3847/2515-5172/ab35d5
+- type: software
+  authors:
+  - family-names: Williams
+    given-names: Peter K. G.
+    affiliation: Center for Astrophysics | Harvard & Smithsonian and the American Astronomical Society
+    orcid: https://orcid.org/0000-0003-3734-3587
+  title: 'rubbl-rxpackage, latest version'
+  doi: 10.5281/zenodo.3403263
+  license: MIT

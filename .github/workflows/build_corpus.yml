@@ -49,6 +49,12 @@ jobs:
           git add data/repositories.json data/cffs/
           git commit -m "Update data from query 1"
 
+      - name: Pull before push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull
+
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
@@ -96,6 +102,12 @@ jobs:
           git add data/repositories.json data/cffs/
           git commit -m "Update data from query 2"
 
+      - name: Pull before push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull
+
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
@@ -142,6 +154,12 @@ jobs:
           git config --local user.name "GitHub Action"
           git add data/repositories.json data/cffs/
           git commit -m "Update data from query 3"
+
+      - name: Pull before push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0

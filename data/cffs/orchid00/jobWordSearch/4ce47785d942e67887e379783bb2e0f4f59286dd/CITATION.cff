@@ -1,0 +1,10 @@
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Martinez
+    given-names: Paula Andrea
+    orcid: https://orcid.org/0000-0002-8990-1985
+title: Indeed web scrapping for KSAs
+version: 0.3
+doi: https://zenodo.org/record/1998210
+date-released: 2018-12-29

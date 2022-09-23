@@ -1,0 +1,37 @@
+# Copyright (c) 2018-2019 The University of Manchester
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+authors:
+- affiliation: My Institution C
+  email: me_c@me.com
+  family-names: Last C
+  given-names: First C
+  orcid: https://orcid.org/1234567890c
+  website: http://www.homec.com/
+cff-version: 1.0.3
+contact:
+- address: University of Manchester, Oxford Road
+  city: Manchester
+  country: GB
+  name: SpiNNaker Software Team
+  post-code: M13 9PL
+date-released:
+email: spinnakerusers@googlegroups.com
+identifier:
+message: If you use this software, please cite it as below.
+repository: https://github.com/SpiNNakerManchester/SpiNNUtils
+title: My Title
+url: http://spinnakermanchester.github.io/
+version:

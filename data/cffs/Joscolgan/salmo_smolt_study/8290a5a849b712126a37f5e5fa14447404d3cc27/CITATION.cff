@@ -1,0 +1,12 @@
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Wynne; Archer; Hutton; Harman; Gargan; Moran; Dillane; Coughlan; Cross; McGinnity; Colgan; Reed 
+    given-names: Robert; Louise C.; Stephen A.; Luke; Patrick; Peter A.; Eileen; Jamie; Thomas F.; Philip; Thomas J.; Thomas E.
+    orcid: (Thomas Colgan) https://orcid.org/0000-0002-0547-8228; (Thomas Reed) https://orcid.org/0000-0002-2993-0477.  
+title: Alternative migratory tactics in brown trout (Salmo trutta) are underpinned by divergent regulation of metabolic but not neurological genes.
+journal: Ecology & Evolution
+doi: imb.12618
+date-released: 2021-06-02
+license: GPLv3
+repository: https://github.com/Joscolgan/salmo_smolt_study

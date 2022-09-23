@@ -1,0 +1,13 @@
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Sauze
+    given-names: Colin
+    orcid: https://orcid.org/0000-0001-5368-9217
+  - family-names: Rassner
+    given-names: Sara
+    orcid: https://orcid.org/0000-0003-1088-5140
+title: A script for generating Pareto–Lorenz (PL) curves
+version: 1.2
+doi: 10.5281/zenodo.2630659
+date-released: 2020-04-27

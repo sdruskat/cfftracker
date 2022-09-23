@@ -1,0 +1,23 @@
+# YAML 1.2
+---
+abstract: "A Jupyterlab extension for searching for Nanopublished computational steps."
+
+authors:
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Richardson
+    given-names: Robin
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Smits
+    given-names: Djura
+cff-version: "1.0.3"
+keywords:
+  - "nanopublications"
+  - "fair"
+  - "notebooks"
+  - "jupyter"
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+title: "FAIRWorkflowsExtension"
+version: "0.1"

@@ -1,0 +1,23 @@
+# YAML 1.2
+---
+abstract: "It's really awesome!"
+authors: 
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Spaaks
+    given-names: "Jurriaan H."
+    orcid: "https://orcid.org/0000-0002-7064-4069"
+  -
+    family-names: Doe
+    given-names: Jane
+cff-version: "1.1.0"
+date-released: 2021-05-27
+keywords: 
+  - awesome
+  - citation
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/jspaaks/nwolife"
+title: MyAwesomeSoftware
+version: "0.3.0"
+...

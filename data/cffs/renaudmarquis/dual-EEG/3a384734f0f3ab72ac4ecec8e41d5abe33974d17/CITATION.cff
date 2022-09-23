@@ -1,0 +1,9 @@
+cff-version: 1.0.3
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Marquis
+    given-names: Renaud
+    orcid: http://orcid.org/0000-0002-1145-242X
+title: dual-EEG
+version: 0.1
+date-released: 2019-11-30

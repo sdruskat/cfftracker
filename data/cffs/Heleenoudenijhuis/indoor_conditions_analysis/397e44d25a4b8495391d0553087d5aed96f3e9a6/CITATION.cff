@@ -1,0 +1,12 @@
+If your project contains original software, it's helpful to include this file to let others know how to cite it. You can publish your software in a repository like [Zenodo](https://zenodo.org/) to receive a DOI and make it even easier for others to reference your work. An example of this file could look like: 
+
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: LastName
+    given-names: FirstName
+    orcid: 
+title: "My Research Software"
+version: 1.0.0
+doi: zenodo.org/00000
+date-released: YYYY-MM-DD

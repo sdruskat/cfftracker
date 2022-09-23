@@ -1,0 +1,62 @@
+# YAML 1.2
+# Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)
+cff-version: "1.0.3"
+message: "If you use this software, please cite it as below."
+title: Xenon command line interface
+doi: 10.5281/zenodo.3246245
+authors:
+- given-names: Stefan
+  family-names: Verhoeven
+  affiliation: Nederlands eScience Center
+  orcid: https://orcid.org/0000-0002-5821-2060
+- given-names: Jurriaan
+  family-names: Spaaks
+  name-particle: H.
+  affiliation: Netherlands eScience Center
+  orcid: "https://orcid.org/0000-0002-7064-4069"
+version: "3.0.5"
+date-released: 2020-03-23
+repository-code: https://github.com/xenon-middleware/xenon-cli
+license: Apache-2.0
+references:
+- type: software
+  doi: 10.5281/zenodo.597993
+  title: Xenon
+  authors:
+  - given-names: Jason
+    family-names: Maassen
+    affiliation: Netherlands eScience Center
+  - given-names: Stefan
+    family-names: Verhoeven
+    affiliation: Nederlands eScience Center
+  - given-names: Joris
+    family-names: Borgdorff
+    affiliation: '@thehyve'
+  - given-names: Niels
+    family-names: Drost
+    affiliation: Netherlands eScience Center
+  - given-names: Jurriaan
+    family-names: Spaaks
+    name-particle: H.
+    affiliation: Netherlands eScience Center
+  - given-names: Christiaan
+    family-names: Meijer
+    affiliation: Netherlands eScience Center
+  - given-names: Rob
+    family-names: van Nieuwpoort
+    name-particle: V.
+    affiliation: Netherlands eScience center
+  - given-names: Atze
+    family-names: van der Ploeg
+    affiliation: Netherlands eScience center
+  - given-names: Piter
+    family-names: de Boer
+    name-particle: T.
+    affiliation: Netherlands eScience center
+  - given-names: Ben
+    family-names: van Werkhoven
+    affiliation: Netherlands eScience Center
+  - given-names: Arnold
+    family-names: Kuzniar
+    affiliation: Netherlands eScience Center
+    orcid: "https://orcid.org/0000-0003-1711-7961"

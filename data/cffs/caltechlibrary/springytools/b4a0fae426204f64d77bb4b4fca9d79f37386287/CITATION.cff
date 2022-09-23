@@ -1,0 +1,20 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Caltech Library"
+    family-names: Doiel
+    given-names: Robert
+    orcid: "https://orcid.org/0000-0003-0900-6903"
+cff-version: "0.0.0"
+date-released: 2021-07-13
+doi:
+keywords: 
+  - libguides
+  - xml
+  - json
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/caltechlibrary/springytools"
+title: "springytools"
+version: "0.0.3"
+...

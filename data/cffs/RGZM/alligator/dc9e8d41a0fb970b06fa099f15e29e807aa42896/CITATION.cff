@@ -1,0 +1,13 @@
+cff-version: 1.1.0
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Thiery
+    given-names: Florian
+    orcid: https://orcid.org/0000-0002-3246-3531
+  - family-names: Mees
+    given-names: Allard
+    orcid: https://orcid.org/0000-0002-7634-5342
+title: "alligator - Allen Transformer"
+version: 0.1
+doi: 10.5281/zenodo.2540709
+date-released: 2019-01-15

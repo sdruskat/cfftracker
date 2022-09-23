@@ -1,0 +1,31 @@
+# YAML 1.2
+---
+abstract: "Simulation of microtubule growth dynamics in the presence and absence of physical obstacles."
+authors:
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Huber
+    given-names: Florian
+    orcid: "https://orcid.org/0000-0002-3535-9406"
+  -
+    affiliation: "TU Delft"
+    family-names: Kok
+    given-names: Maurits
+    orcid: "https://orcid.org/0000-0002-0564-2614"
+  -
+    affiliation: "TU Delft, Department of Bionanoscience"
+    family-names: Dogterom
+    given-names: Marileen
+    orcid: "https://orcid.org/0000-0002-8803-5261"
+
+
+cff-version: "1.1.0"
+keywords:
+  - python
+  - "microtubule dynamics"
+  - "simulation"
+  - "microtubule catastrophes"
+license: "Apache-2.0"
+repository-code: "https://github.com/florian-huber/mtdynamics"
+title: mtdynamics
+...

@@ -1,0 +1,12 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: 
+    given-names: "P.P.E. Schrooyen"
+cff-version: "1.1.0"
+date-released: 2021-08-03
+message: "If you use this software, please cite it using these metadata."
+title: "DLab Tools for nnUNet"
+version: "1.0"
+...

@@ -1,0 +1,54 @@
+# YAML 1.2
+---
+abstract: "The Map Overlay and Statistical System (MOSS) is the earliest known Open Source Geographic Information System. The first version of MOSS was developed by Carl Reed in the late 1970's as part of a US Fish and Wildlife Service habitat mitigation project. The first version of MOSS was programmed in FORTRAN on a CDC mainframe and then ported to a Data General minicomputer in 1979 and 1980. The first US Bureau of Land Management (BLM) installation of MOSS occurred in 1980 at the BLM Oregon State Office. PC-MOSS is the Windows version of MOSS that was developed & released by Sol Katz, through the BLM. This repository contains the PC-MOSS files, including the FORTRAN language source code."
+authors: 
+  -
+    affiliation: "MARC Relator: Author"
+    family-names: Reed
+    given-names: Carl
+    name-particle: N
+    name-suffix: III
+  -
+    affiliation: "MARC Relator: Programmer"
+    family-names: Katz
+    given-names: Sol
+  -
+    affiliation: "MARC Relator: Programmer"
+    family-names: Frosh
+    given-names: Randy
+  -
+    affiliation: "MARC Relator: Programmer"
+    family-names: Davidson
+    given-names: John 
+  -
+    affiliation: "MARC Relator: Programmer"
+    family-names: Hunter
+    given-names: Anne
+  -
+    affiliation: "MARC Relator: Programmer"
+    family-names: Lee
+    given-names: John 
+  -
+    affiliation: "MARC Relator: Restorationist"
+    family-names: "Nartišs"
+    given-names: "Māris"
+    orcid: "https://orcid.org/0000-0002-3875-740X"
+  -
+    affiliation: "MARC Relator: Collection Registrar"
+    family-names: "Löwe"
+    given-names: Peter
+    orcid: "https://orcid.org/0000-0003-2257-0517"
+  -
+    affiliation: "MARC Relator; Consultant"
+    family-names: McKenna
+    given-names: Jeff
+    orcid: "https://orcid.org/0000-0003-3900-1863"
+cff-version: "1.1.0"
+date-released: 2021-04-27
+doi: "10.5281/zenodo.4719684"
+license: "CC0-1.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/ploewe/MOSS/releases/tag/1.0.0"
+title: "PC-MOSS Historical Archive"
+version: "1.0.0"
+...

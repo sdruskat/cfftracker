@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Using Personality Detection Tools for Software EngineeringResearch: How Far Can We Go?, under major revision at ACM TOSEM"
+doi: 10.5281/zenodo.4720988	
+authors:
+- given-names: "Calefato"
+  family-names: "Fabio"
+  affiliation: "University of Bari, Italy"
+  orcid: "https://orcid.org/0000-0003-2654-1588"
+- given-names: "Lanubile"
+  family-names: "Filippo"
+  affiliation: "University of Bari, Italy"
+  orcid: "https://orcid.org/0000-0003-3373-7589"
+version: 1.0.0
+date-released: 2021-04-26
+repository-code: https://github.com/collab-uniba/tosem2021-personality-rep-package
+license: MIT License

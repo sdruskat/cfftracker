@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Sochat
+    given-names: Vanessa
+    orcid: https://orcid.org/0000-0002-4387-3819
+title: "A Robust Classifier to Distinguish Noise from fMRI Independent Components"
+version: 1.0
+doi: 10.1371/journal.pone.0095493
+date-released: 2014-04-18

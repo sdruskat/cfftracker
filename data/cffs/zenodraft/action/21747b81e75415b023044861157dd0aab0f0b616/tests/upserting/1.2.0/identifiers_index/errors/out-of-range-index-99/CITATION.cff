@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+identifiers:
+  - description: This should not be overwritten.
+    value: 10.0000/somedoi.1234567
+    type: doi
+

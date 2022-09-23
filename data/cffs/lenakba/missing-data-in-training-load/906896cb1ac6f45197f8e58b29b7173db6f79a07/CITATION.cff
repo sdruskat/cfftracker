@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Bache-Mathiesen
+    given-names: Lena Kristin
+    orcid: https://orcid.org/0000-0002-9466-7003
+title: "Missing data in training load"
+version: 1.0.0
+url: https://github.com/lenakba/missing-data-in-training-load
+date-released: 2021-07-29

@@ -1,0 +1,15 @@
+# This file is a citation metadata file in the Citation File Format
+# (http://citation-file-format.github.io/).
+# 
+# It provides citation metadata for this version of cff-reader-java.
+
+cff-version: 1.0.3
+message: "If you use cff-reader-java in your work, please cite it using the following metadata"
+title: cff-reader-java
+authors:
+  - family-names: Druskat
+    given-names: Stephan
+    orcid: https://orcid.org/0000-0003-4925-7248
+version: 1.0.1
+doi: 10.5281/zenodo.1171250
+date-released: 2018-02-12

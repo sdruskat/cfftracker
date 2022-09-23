@@ -1,0 +1,23 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Digital Humanities Lab, Utrecht University"
+    family-names: Spoel
+    given-names: Sheean
+  -
+    affiliation: "Digital Humanities Lab, Utrecht University"
+    family-names: Loeber
+    given-names: Robert
+  -
+    affiliation: "Digital Humanities Lab, Utrecht University"
+    family-names: Hebing
+    given-names: Alex
+cff-version: "1.1.0"
+date-released: 2019-11-21
+license: ISC
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/UUDigitalHumanitieslab/panel-randomizer"
+title: "Panel Randomizer"
+version: "1.0"
+...

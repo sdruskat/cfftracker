@@ -1,0 +1,22 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Smeets
+    given-names: Stef
+    orcid: "https://orcid.org/0000-0002-5413-9038"
+cff-version: "1.1.0"
+date-released: 2021-04-23
+doi: "10.5281/zenodo.4715908"
+keywords: 
+	- "Plotting"
+	- "Powder diffraction"
+	- "Background subtraction"
+	- "Crystallography"
+	- "Profile refinement"
+license: "GPL-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/stefsmeets/lines"
+title: lines
+version: "1.4.0"
+...

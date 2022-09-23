@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Royle
+    given-names: Stephen
+    orcid: https://orcid.org/0000-0001-8927-6967
+title: "CellShape"
+version: 1.01
+doi: 10.5281/zenodo.3959278
+date-released: 2020-06-124

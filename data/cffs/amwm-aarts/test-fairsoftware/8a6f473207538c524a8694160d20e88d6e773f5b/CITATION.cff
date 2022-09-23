@@ -1,0 +1,10 @@
+
+cff-version: 1.1.0
+message: this is awesome so please cite me
+authors:
+  - family-names: Aarts
+    given-names: Anne
+title:test-fairsoftware
+version:0.5.0
+doi:
+date-released:08/09/2020

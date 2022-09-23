@@ -1,0 +1,11 @@
+cff-version: 1.1.0
+message: "If you use the materials from this repository, please cite it as below."
+authors:
+  - family-names: Martins
+    given-names: Ricardo
+    orcid: https://orcid.org/0000-0001-7184-185X
+title: "Towards Personalized Neural Networks for Epileptic Seizure Prediction - code and data"
+version: 1.0
+doi: 10.5281/zenodo.4570620
+date-released: 2018-04-15
+url: "https://github.com/rmartins-net/Towards-Personalized-Neural-Networks-for-Epileptic-Seizure-Prediction"

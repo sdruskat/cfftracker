@@ -1,0 +1,12 @@
+cff-version: "1.1.0"
+message: "If you use this software, please cite it using these metadata."
+title: "jucon-gold-rush"
+version: "v4.1.0"
+authors: 
+  - given-names: Stephan
+    family-names: Druskat
+  - given-names: Col
+    family-names: Laborator
+date-released: 2020-10-06
+doi: "12.3456/not-a-real-doi.4815162342"
+repository-code: "https://github.com/sdruskat/jucon-gold-rush"

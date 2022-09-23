@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Göring"
+  given-names: Steve
+  orcid: "https://orcid.org/0000-0001-6810-6969"
+- family-names: Raake
+  given-names: Alexander
+title: "Rule of Thirds and Simplicity for Image Aesthetics using Deep Neural Networks"
+version: 1.0.0
+date-released: 2021-07-29

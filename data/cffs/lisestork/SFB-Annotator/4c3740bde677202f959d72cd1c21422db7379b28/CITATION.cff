@@ -1,0 +1,34 @@
+# YAML 1.2
+# Metadata for citation of this software according to the CFF format
+# (https://citation-file-format.github.io/)
+---
+authors:
+  -
+    affiliation: Leiden University
+    family-names: Stork
+    given-names: Lise
+    orcid: http://orcid.org/0000-0002-2146-4803
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Kuzniar
+    given-names: Arnold
+    orcid: "https://orcid.org/0000-0003-1711-7961"
+
+cff-version: "1.0.3"
+title: "Semantic Field Book Annotator"
+doi: 10.5281/zenodo.4602264
+keywords:
+  - "semantic annotation"
+  - "natural history"
+  - "biodiversity"
+  - "field notes"
+  - "Linked data"
+  - "controlled vocabulary"
+  - "ontology"
+  - "RDF"
+  - "OWL"
+  - "IIIF"
+version: "0.1.0"
+date-released: 2021-03-12
+repository-code: https://github.com/LINNAE-project/SFB-Annotator
+license: Apache-2.0

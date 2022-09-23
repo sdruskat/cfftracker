@@ -1,0 +1,15 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Thayaparendran
+    given-names: Lavaanantha
+cff-version: "1.1.0"
+date-released: 2021-08-10
+doi: "https://github.com/lavanthaya/Masters-Project-COMP-6999"
+keywords: 
+  - "HTC VIVE, Localization"
+message: "If you use this software, please cite it using these metadata."
+title: "Indoor Localization for Robots using HTC VIVE Lighthouse Positioning System"
+version: "1.0"
+...

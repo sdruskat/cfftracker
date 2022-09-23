@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jones"
+  given-names: "Shawn"
+  orcid: "https://orcid.org/0000-0002-4372-870X"
+- family-names: "Jayanetti"
+  given-names: "Himarsha"
+  orcid: "https://orcid.org/0000-0003-4748-9176"
+- family-names: "Kelly"
+  given-names: "Mat"
+  orcid: "https://orcid.org/0000-0002-0236-7389"
+title: "AIU: A library for interacting with web archive collections at Archive-It, Trove, Pandora, and more."
+version: 0.2.3
+date-released: 2021-05-06
+url: "https://github.com/oduwsdl/aiu"
+license: "MIT"
+references:
+  - type: conference-paper
+    authors:
+      - family-names: "Jones"
+        given-names: "Shawn"
+      - family-names: "Nelson"
+        given-names: "Michael"
+      - family-names: "Nwala"
+        given-names: "Alexander"
+      - family-names: "Weigle"
+        given-names: "Michele"
+    title: "The Many Shapes of Archive-It"
+    doi: "10.17605/OSF.IO/EV42P"
+    conference: "the 15th International Conference on Digital Preservation (iPres 2018)"
+    date-published: 2018-09-24
+    abstract: "Web archives, a key area of digital preservation, meet the needs of journalists, social scientists, historians, and government orga- nizations. The use cases for these groups often require that they guide the archiving process themselves, selecting their own original resources, or seeds, and creating their own web archive collections. We focus on the collections within Archive-It, a subscription service started by the Internet Archive in 2005 for the purpose of allowing organizations to create their own collections of archived web pages, or mementos. Understanding these collections could be done via their user-supplied metadata or via text analysis, but the metadata is applied inconsistently between collections and some Archive-It collections consist of hundreds of thousands of seeds, making it costly in terms of time to download each memento. Our work pro- poses using structural metadata as an additional way to understand these collections. We explore structural features currently existing in these collections that can unveil curation and crawling behaviors. We adapt the concept of the collection growth curve for understand- ing Archive-It collection curation and crawling behavior. Using the growth curves, we can see if most of the mementos in the collection are skewed earlier or later. We also introduce several seed features to describe the diversity and types of seeds present in an Archive-It collection. With these seed features, we come to an understanding of the diversity of resources that make up a collection and the depth of those resources within their seed websites, indicating whether the curator chose to preserve the top-level page or something more specific within a site. Finally, we use the descriptions of each collec- tion to identify four semantic categories of Archive-It collections. Using the identified structural features, we reviewed the results of runs with 20 classifiers and are able to predict the semantic category of a collection using a Random Forest classifier with a weighted average F1 score of 0.720, thus bridging the structural to the de- scriptive. Our method is useful because it saves the researcher time and bandwidth. They do not need to download every resource in the collection in order to identify its semantic category. Identifying collections by their semantic category allows further downstream processing to be tailored to these categories."
+    url: "https://doi.org/10.17605/OSF.IO/EV42P"
+  

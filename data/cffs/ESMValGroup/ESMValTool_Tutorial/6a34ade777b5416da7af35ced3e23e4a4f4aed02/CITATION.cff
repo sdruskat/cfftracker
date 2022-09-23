@@ -1,0 +1,82 @@
+# YAML 1.2
+---
+abstract: "ESMValTool 2.0 Tutorial."
+
+authors:
+  -
+    affiliation: "NLeSC, Netherlands"
+    family-names: Alidoost
+    given-names: Fakhereh
+    orcid: "https://orcid.org/0000-0001-8407-6472"
+  -
+    affiliation: "NLeSC, Netherlands"
+    family-names: Andela
+    given-names: Bouwe
+    orcid: "https://orcid.org/0000-0001-9005-8940"
+  -
+    affiliation: "DLR, Germany"
+    family-names: Bock
+    given-names: Lisa
+    orcid: "https://orcid.org/0000-0001-7058-5938"
+  -
+    affiliation: "NLeSC, Netherlands"
+    family-names: Camphuijsen
+    given-names: Jaro
+    orcid: "https://orcid.org/0000-0002-8928-7831"
+  -
+    affiliation: "NLeSC, Netherlands"
+    family-names: Drost
+    given-names: Niels
+    orcid: "https://orcid.org/0000-0001-9795-7981"
+  -
+    affiliation: "DLR, Germany"
+    family-names: Hassler
+    given-names: Birgit
+    orcid: "https://orcid.org/0000-0003-2724-709X"
+  -
+    affiliation: "NLeSC, Netherlands"
+    family-names: Kalverla
+    given-names: Peter
+    orcid: "https://orcid.org/0000-0002-5025-7862"
+  -
+    affiliation: "NLeSC, Netherlands"
+    family-names: López-Tarifa
+    given-names: Pablo
+    orcid: "https://orcid.org/0000-0002-4136-1860"
+  -
+    affiliation: "PML, UK"
+    name-particle: de
+    family-names: Mora
+    given-names: Lee
+    orcid: "https://orcid.org/0000-0002-5080-3149"
+  -
+    affiliation: "LMU, Germany"
+    family-names: Mueller
+    given-names: Benjamin
+  -
+    affiliation: "URead, UK"
+    family-names: Predoi
+    given-names: Valeriu
+    orcid: "https://orcid.org/0000-0002-9729-6578"
+  -
+    affiliation: "URead, UK"
+    family-names: Swaminathan
+    given-names: Ranjini
+    orcid: "https://orcid.org/0000-0001-5853-2673"
+  -
+    affiliation: "NLeSC, Netherlands"
+    family-names: Verhoeven
+    given-names: Stefan
+    orcid: "https://orcid.org/0000-0002-5821-2060"
+cff-version: "1.0.3"
+date-released: 2020-08-06
+doi: "10.5281/zenodo.3974591"
+license: "CC-BY-4.0"
+message: "If you use this tutorial, please cite it using these metadata."
+repository-code: "https://github.com/ESMValGroup/ESMValTool_Tutorial/"
+title: "ESMValTool Tutorial"
+keywords:
+  - "Earth System Model Validation"
+  - "Climate Science"
+version: "v1.0.0"
+...

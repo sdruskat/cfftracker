@@ -1,0 +1,49 @@
+# YAML 1.2
+---
+authors: 
+  - family-names: Kadenko
+    given-names: Natalia
+    orcid: "https://orcid.org/0000-0001-8831-6744"
+    
+  - family-names: van der Boon
+    given-names: J.M.
+    orcid: "https://orcid.org/0000-0003-2467-9508"
+    
+  - family-names: van der Kaaij
+    given-names: J.
+    orcid: "https://orcid.org/0000-0001-6078-7421"
+    
+  - family-names: Kobes
+    given-names: W.J
+    orcid: "https://orcid.org/0000-0002-9861-4806"
+    
+  - family-names: Mulder
+    given-names: A.T.
+    orcid: "https://orcid.org/0000-0002-8776-7508"
+    
+  - family-names: Sonneveld
+    given-names: J.J.
+    orcid: "https://orcid.org/0000-0001-8509-3135"
+    
+  - family-names: Urra
+    given-names: J.C.
+    orcid: "https://orcid.org/0000-0002-9334-3998"
+
+cff-version: "1.1.0"
+date-released: 
+doi: 10.4121/14714031
+
+keywords: 
+  - NPL
+  - fake news
+  - scrapping
+
+  
+license: "Apache-2.0"
+message: ""
+
+repository-code: "https://github.com/NZR/PublicDiscourseMiner-COVID"
+
+title: "Public Discourse Miner -Covid 19"
+version: "0.0.1"
+...

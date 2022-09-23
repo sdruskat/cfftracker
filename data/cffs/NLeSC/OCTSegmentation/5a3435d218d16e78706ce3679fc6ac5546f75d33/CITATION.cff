@@ -1,0 +1,32 @@
+# YAML 1.2
+---
+abstract: "Analyze retinal optical coherence tomography images."
+authors: 
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Ranguelova
+    given-names: Elena
+cff-version: "1.0.3"
+date-released: 2018-10-16
+doi: "10.0000/FIXME"
+keywords: 
+  - retina
+  - "OCT scan"
+  - "automated segmentation"
+  - "Optical Coherence Tomography Imaging"
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata. The software draws heavily on the work by Markus Mayer (see references)."
+repository-code: "https://github.com/NLeSC/OCTSegmentation"
+title: OCTSEG
+version: "0.2"
+references:
+  - 
+    type: software
+    title: OCTSEG
+    authors:
+      -
+        affiliation: "Friedrich-Alexander-Universität Erlangen Nürnberg"
+        family-names: Mayer
+        given-names: Markus
+    url: http://www5.cs.fau.de/en/research/software/octseg/
+...

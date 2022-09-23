@@ -1,0 +1,23 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: "Samadi Bokharaie"
+    given-names: Vahid
+    name-suffix: "Dr. "
+    orcid: "https://orcid.org/0000-0001-6544-7960"
+cff-version: "0.1.1"
+date-released: 2019-08-01
+doi: "  https://zenodo.org/badge/latestdoi/203363866"
+keywords: 
+  - fMRI
+  - "functional MRI"
+  - python
+  - "fMRI analysis"
+  - "data science"
+license: "GNU (Version 3)"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/vahid-sb/mitfat"
+title: "MiTfAT, a Python-based fMRI Analysis Tool."
+version: "0.1.1"
+...
