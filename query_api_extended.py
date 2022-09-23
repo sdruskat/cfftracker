@@ -57,6 +57,9 @@ def get_query_response(query_url: str, headers: t.Dict[str, str]) -> requests.Re
             retry_after = response.headers['Retry-After']
         except KeyError:
             global backoff_power
+            if backoff_power > 10:
+                # Reset backoff power when waiting time is > 17 mins.
+                backoff_power = 1
             retry_after = 2 ** backoff_power  # Exponential backoff
             backoff_power += 1
         print(f'403 status. Retrying after {retry_after} secs.')
