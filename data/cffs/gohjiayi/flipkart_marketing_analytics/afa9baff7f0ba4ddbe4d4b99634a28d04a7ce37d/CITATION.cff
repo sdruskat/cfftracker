@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Flipkart Marketing Analytics"
+message: >-
+  If you use any project resources in your work, please cite
+  it as below.
+type: software
+authors:
+  - given-names: Jia Yi
+    family-names: Goh
+    orcid: 'https://orcid.org/0000-0002-3943-0740'
+  - given-names: Carine
+    family-names: Tan
+  - given-names: Gladys
+    family-names: Koh
+  - given-names: Min
+    family-names: Koh
+  - given-names: Zi Ying
+    family-names: Loh
+date-released: "2022-06-29"
+url: "https://github.com/gohjiayi/flipkart_marketing_analytics"

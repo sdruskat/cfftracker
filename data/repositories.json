@@ -3603,6 +3603,9 @@
             "EigenCuda",
             "cpp2wasm"
         ],
+        "NLP-Guild": [
+            "knowledge-based-QA-for-diagnosis"
+        ],
         "NLeSC": [
             "guide",
             "litstudy",
@@ -4078,6 +4081,9 @@
         "PatHealy": [
             "OpenGameAnalytics"
         ],
+        "PatrickBaus": [
+            "tinkerforge_async"
+        ],
         "PavelDvoriak": [
             "4it412-sms-extraction"
         ],
@@ -4313,6 +4319,9 @@
         ],
         "Qiza-lyhm": [
             "mmcv_on_mlu"
+        ],
+        "QuantumApplicationLab": [
+            "qradio"
         ],
         "QuantumBFS": [
             "Yao.jl"
@@ -5747,6 +5756,9 @@
         ],
         "ZJULearning": [
             "SRDet"
+        ],
+        "ZJUTSong": [
+            "Ifly-XRay-Detection"
         ],
         "ZJxyo": [
             "Topdown2DShooterGame"
@@ -10343,6 +10355,9 @@
         ],
         "goharShoukat": [
             "Site-Surveying-Data-handling-Visualiation"
+        ],
+        "gohjiayi": [
+            "flipkart_marketing_analytics"
         ],
         "gokcehan": [
             "pns"
