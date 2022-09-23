@@ -5,7 +5,7 @@ name: Build CFF corpus
     
 on:
   schedule:
-    - cron: "0 */09 * * *" # Runs at 0 minutes after every 9th hour
+    - cron: "10 */09 * * *" # Runs at 10 minutes after every 9th hour
   workflow_dispatch:
 
 jobs:
