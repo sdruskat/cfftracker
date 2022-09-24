@@ -1949,7 +1949,8 @@
             "manuscript-maize-mills"
         ],
         "GobyJIT": [
-            "GobyJIT"
+            "GobyJIT",
+            "GobyAnalyzer"
         ],
         "GooglingTheCancerGenome": [
             "sv-callers",
@@ -5116,6 +5117,9 @@
         ],
         "SupervisedStylometry": [
             "SuperStyl"
+        ],
+        "SupradhaBhat": [
+            "Voting-system-Blockchain"
         ],
         "SurachanLiao": [
             "music_generation"
@@ -17371,6 +17375,9 @@
         ],
         "stillwater-sc": [
             "universal"
+        ],
+        "stlmx": [
+            "mmdetection"
         ],
         "stnolting": [
             "neoTRNG",
