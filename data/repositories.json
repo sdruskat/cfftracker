@@ -1155,6 +1155,9 @@
             "ImageJ_macros",
             "dcl_stats_n_plots"
         ],
+        "DachunKai": [
+            "e2vsr"
+        ],
         "DahnJ": [
             "Awesome-DEM"
         ],
@@ -2163,6 +2166,9 @@
         ],
         "HikariBoy": [
             "Adri-Ardu-Scope"
+        ],
+        "Himalaya-Library": [
+            "Himalaya"
         ],
         "HimesGroup": [
             "pargasite"
@@ -5128,7 +5134,8 @@
             "SuperStyl"
         ],
         "SupradhaBhat": [
-            "Voting-system-Blockchain"
+            "Voting-system-Blockchain",
+            "VotingBlockchain"
         ],
         "SurachanLiao": [
             "music_generation"
@@ -9310,6 +9317,9 @@
         "emmdupui": [
             "LearningDynamicsGroup11"
         ],
+        "emmeliepaquette": [
+            "CISicechart_AOIpolygon"
+        ],
         "emptylkj": [
             "PyBaMM"
         ],
@@ -11611,6 +11621,9 @@
         "jhull40": [
             "PayingAttention"
         ],
+        "jiangbo9510": [
+            "Crypto"
+        ],
         "jiangfeizi": [
             "labelme-autoannotate"
         ],
@@ -12477,6 +12490,9 @@
         ],
         "kwrx": [
             "qasp"
+        ],
+        "kxbai": [
+            "MMDectionForDIOTR"
         ],
         "kxytechnologies": [
             "kxy-python"
@@ -14684,6 +14700,9 @@
         "oeyoews": [
             "neotw"
         ],
+        "ofajardo": [
+            "pyreadr"
+        ],
         "ofgulban": [
             "segmentator",
             "compoda"
@@ -14729,6 +14748,9 @@
         ],
         "omartinez182": [
             "DeepRL"
+        ],
+        "omdovhopolyi": [
+            "Final"
         ],
         "ome": [
             "napari-ome-zarr"
@@ -15516,7 +15538,8 @@
             "sum-openmp-adjust-schedule",
             "pagerank-ordered-openmp-adjust-tolerance",
             "pagerank-openmp-ordered-vs-unordered",
-            "louvain-adjust-tolerance"
+            "louvain-adjust-tolerance",
+            "louvain-ordered-vs-unordered"
         ],
         "pvlib": [
             "twoaxistracking"
@@ -16989,6 +17012,10 @@
         ],
         "sisbaner": [
             "AlexEval"
+        ],
+        "sitiny": [
+            "BRIC_TUS_Simulation_Tools",
+            "mr-to-pct"
         ],
         "siwill22": [
             "GPlatesReconstructionModel"

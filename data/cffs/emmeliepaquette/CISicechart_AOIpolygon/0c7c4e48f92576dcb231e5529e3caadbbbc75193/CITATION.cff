@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Paquette"
+  given-names: "Emmelie"
+  orcid: "https://orcid.org/0000-0002-2286-8092"
+- family-names: "Montpetit"
+  given-names: "Benoit"
+  orcid: "https://orcid.org/0000-0002-4491-2971"
+title: "CISicechart_AOIpolygon"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-09-24
+url: "https://github.com/emmeliepaquette/CISicechart_AOIpolygon"
