@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ewers"
+  given-names: "Jan-Hendrik"
+  orcid: "https://orcid.org/0000-0002-8498-1410"
+title: "OPP_4_SAR"
+version: 1.0.0
+doi: 10.5281/zenodo.5566942
+date-released: 2021-05-01
+url: "https://github.com/iwishiwasaneagle/OPP_4_SAR"
