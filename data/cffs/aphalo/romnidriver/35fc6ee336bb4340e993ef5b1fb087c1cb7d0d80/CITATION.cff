@@ -1,0 +1,125 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.3.0
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "rOmniDriver" in publications use:'
+type: software
+license: GPL-2.0-or-later
+title: 'rOmniDriver: Omni Driver R wrapper'
+version: 0.1.16
+abstract: This package is a wrapper of the OmniDriver java driver for Ocean Optics
+  spectrometers.
+authors:
+- family-names: Aphalo
+  given-names: Pedro J.
+  email: pedro.aphalo@helsinki.fi
+  orcid: https://orcid.org/0000-0003-3385-972X
+repository-code: https://github.com/aphalo/romnidriver
+url: http://www.r4photobiology.info
+date-released: '2022-09-23'
+contact:
+- family-names: Aphalo
+  given-names: Pedro J.
+  email: pedro.aphalo@helsinki.fi
+  orcid: https://orcid.org/0000-0003-3385-972X
+keywords:
+- data-acquisition
+- spectroscopy
+references:
+- type: software
+  title: 'R: A Language and Environment for Statistical Computing'
+  notes: Depends
+  authors:
+  - name: R Core Team
+  location:
+    name: Vienna, Austria
+  year: '2022'
+  url: https://www.R-project.org/
+  institution:
+    name: R Foundation for Statistical Computing
+  version: '>= 4.0.0'
+- type: software
+  title: rJava
+  abstract: 'rJava: Low-Level R to Java Interface'
+  notes: Depends
+  authors:
+  - family-names: Urbanek
+    given-names: Simon
+    email: simon.urbanek@r-project.org
+  year: '2022'
+  url: https://CRAN.R-project.org/package=rJava
+  version: '>= 1.0-4'
+- type: software
+  title: knitr
+  abstract: 'knitr: A General-Purpose Package for Dynamic Report Generation in R'
+  notes: Suggests
+  authors:
+  - family-names: Xie
+    given-names: Yihui
+    email: xie@yihui.name
+    orcid: https://orcid.org/0000-0003-0645-5666
+  year: '2022'
+  url: https://CRAN.R-project.org/package=knitr
+  version: '>= 1.33'
+- type: software
+  title: rmarkdown
+  abstract: 'rmarkdown: Dynamic Documents for R'
+  notes: Suggests
+  authors:
+  - family-names: Allaire
+    given-names: JJ
+    email: jj@rstudio.com
+  - family-names: Xie
+    given-names: Yihui
+    email: xie@yihui.name
+    orcid: https://orcid.org/0000-0003-0645-5666
+  - family-names: McPherson
+    given-names: Jonathan
+    email: jonathan@rstudio.com
+  - family-names: Luraschi
+    given-names: Javier
+    email: javier@rstudio.com
+  - family-names: Ushey
+    given-names: Kevin
+    email: kevin@rstudio.com
+  - family-names: Atkins
+    given-names: Aron
+    email: aron@rstudio.com
+  - family-names: Wickham
+    given-names: Hadley
+    email: hadley@rstudio.com
+  - family-names: Cheng
+    given-names: Joe
+    email: joe@rstudio.com
+  - family-names: Chang
+    given-names: Winston
+    email: winston@rstudio.com
+  - family-names: Iannone
+    given-names: Richard
+    email: rich@rstudio.com
+    orcid: https://orcid.org/0000-0003-3925-190X
+  year: '2022'
+  url: https://CRAN.R-project.org/package=rmarkdown
+  version: '>= 2.10'
+- type: software
+  title: roxygen2
+  abstract: 'roxygen2: In-Line Documentation for R'
+  notes: Suggests
+  authors:
+  - family-names: Wickham
+    given-names: Hadley
+    email: hadley@rstudio.com
+    orcid: https://orcid.org/0000-0003-4757-117X
+  - family-names: Danenberg
+    given-names: Peter
+    email: pcd@roxygen.org
+  - family-names: Csárdi
+    given-names: Gábor
+    email: csardi.gabor@gmail.com
+  - family-names: Eugster
+    given-names: Manuel
+  year: '2022'
+  url: https://CRAN.R-project.org/package=roxygen2
+  version: '>= 7.1.1'

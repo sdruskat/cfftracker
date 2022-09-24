@@ -655,6 +655,9 @@
         "BiGCAT-UM": [
             "IMD-PUPY"
         ],
+        "Bilallbayrakdar": [
+            "mmocr"
+        ],
         "Binaryhat": [
             "New_diagram.net"
         ],
@@ -1835,7 +1838,8 @@
             "image_retrieval"
         ],
         "GOMC-WSU": [
-            "py-MCMD"
+            "py-MCMD",
+            "MoSDeF-GOMC"
         ],
         "GQCG-res": [
             "spin-diagrams"
@@ -1887,6 +1891,9 @@
         ],
         "GaryQ-physics": [
             "swmfio"
+        ],
+        "Gchism94": [
+            "Data7_EDA_In_Shell"
         ],
         "GeSchr": [
             "Test2"
@@ -1940,6 +1947,9 @@
             "data-public-waste-skips-blantyre",
             "manuscript-template",
             "manuscript-maize-mills"
+        ],
+        "GobyJIT": [
+            "GobyJIT"
         ],
         "GooglingTheCancerGenome": [
             "sv-callers",
@@ -3888,6 +3898,9 @@
         "ObenaufLab": [
             "CaTCH"
         ],
+        "Ocean-Data-Lab": [
+            "ooipy"
+        ],
         "OceanParcels": [
             "parcels"
         ],
@@ -4118,6 +4131,9 @@
         ],
         "Pei-Jou": [
             "Cascade-Mask-R-CNN-ResNeXt101_64x4d_20e_coco-"
+        ],
+        "PennLINC": [
+            "xcp_d"
         ],
         "PeptoneLtd": [
             "ADOPT"
@@ -4520,7 +4536,8 @@
             "mmcv"
         ],
         "Robaina": [
-            "Netflowpy"
+            "Netflowpy",
+            "Pynteny"
         ],
         "RobinHankin": [
             "permutations",
@@ -5442,6 +5459,9 @@
             "drug-extraction",
             "geocoding",
             "mmi-parser-rs"
+        ],
+        "UMEssen": [
+            "FHIR-PYrate"
         ],
         "UNSW-codeRs": [
             "geospatial-data-in-R",
@@ -9826,6 +9846,9 @@
         "fireindark707": [
             "Python-Schema-Matching"
         ],
+        "fishtree-attempt": [
+            "simple-linear-regression-public-health"
+        ],
         "fiskhe": [
             "Interstate-Perception-Project"
         ],
@@ -12678,7 +12701,8 @@
             "benchmarks"
         ],
         "leoxiang66": [
-            "transformer-implementation-pytorch"
+            "transformer-implementation-pytorch",
+            "chatbots"
         ],
         "lesandrop": [
             "Introd-Pesq-Informatica",
@@ -16182,7 +16206,8 @@
             "Artemis",
             "MakeRecipes",
             "widgets",
-            "fountain"
+            "fountain",
+            "pdtk"
         ],
         "rseng": [
             "rseng",
@@ -17636,6 +17661,9 @@
         "tell": [
             "aes-ni"
         ],
+        "temach": [
+            "jplang"
+        ],
         "tenAlf": [
             "vaccines_germany"
         ],
@@ -18675,6 +18703,9 @@
             "colosseum-oran-commag-dataset",
             "colosseum-scope"
         ],
+        "wisrovi": [
+            "covert_letter_generator"
+        ],
         "wissamjur": [
             "LocalImpact"
         ],
@@ -19069,6 +19100,9 @@
         ],
         "zerothi": [
             "sisl"
+        ],
+        "zeyuliu1037": [
+            "mmdetection_hoyer"
         ],
         "zezeze97": [
             "kaggle_segmentation"
