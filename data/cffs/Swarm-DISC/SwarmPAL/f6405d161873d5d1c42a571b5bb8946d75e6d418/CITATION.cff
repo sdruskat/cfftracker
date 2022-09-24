@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: Swarm-DISC/SwarmX
+authors:
+  - family-names: Smith
+    given-names: Ashley R. A.
+    orcid: https://orcid.org/0000-0001-5198-9574
+repository-code: "https://github.com/Swarm-DISC/SwarmX"

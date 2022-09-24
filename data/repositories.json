@@ -210,6 +210,9 @@
         "Aakash12980": [
             "mmocr"
         ],
+        "Aarhus-Psychiatry-Research": [
+            "psycop-ml-utils"
+        ],
         "AaronLMG": [
             "PYG"
         ],
@@ -363,6 +366,9 @@
         ],
         "Amey-Chaudhari": [
             "donut"
+        ],
+        "AmiconeM": [
+            "2EvolutionModes"
         ],
         "Amik-TJ": [
             "cse_445_used_car_price_prediction_using_machine_learning"
@@ -2599,6 +2605,9 @@
         "JasonZHM": [
             "g-qpca",
             "full-cov-mdn"
+        ],
+        "Javiercbr": [
+            "Covid19_DL"
         ],
         "Jaybro": [
             "pico_tree"
@@ -5142,7 +5151,8 @@
         "Swarm-DISC": [
             "SwarmX",
             "fun-with-swarm",
-            "FAC_exploration"
+            "FAC_exploration",
+            "SwarmPAL"
         ],
         "Sydney-Informatics-Hub": [
             "Fastq-to-BAM",

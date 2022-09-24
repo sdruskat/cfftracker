@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Amicone"
+  given-names: "Massimo"
+  orcid: "https://orcid.org/0000-0002-2221-606X"
+title: "2EvolutionModes"
+version: 0.1.0
+doi: 10.5281/zenodo.7043896
+date-released: 2022-09-02
+url: "https://doi.org/10.5281/zenodo.7043896"
