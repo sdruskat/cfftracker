@@ -3800,6 +3800,9 @@
         "NienkeHoltzer": [
             "one-stop-shop_scheduling"
         ],
+        "NightFoxyClara": [
+            "pythonProject"
+        ],
         "Nightvg": [
             "template_matching_fundus"
         ],
@@ -15498,7 +15501,8 @@
             "louvain-adjust-iteration-processing",
             "sum-openmp-adjust-schedule",
             "pagerank-ordered-openmp-adjust-tolerance",
-            "pagerank-openmp-ordered-vs-unordered"
+            "pagerank-openmp-ordered-vs-unordered",
+            "louvain-adjust-tolerance"
         ],
         "pvlib": [
             "twoaxistracking"
@@ -18492,6 +18496,9 @@
             "vak",
             "hybrid-vocal-classifier",
             "crowsetta"
+        ],
+        "volcanolee4": [
+            "AO2_Rotattn_Deformable_DETR"
         ],
         "votca": [
             "votca",
