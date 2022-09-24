@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Turk
+    given-names: Joseph-André
+  - family-names: Gendreau
+    given-names: Philippe
+    orcid: https://orcid.org/0000-0002-2176-7126
+  - family-names: Drizard
+    given-names: Nicolas
+  - family-names: Gaston-Mathé
+    given-names: Yann
+title: "A Molecular Assays Simulator to Unravel Predictors Hacking in goal-directed molecular generations"
+version: 1.0.0
+doi: 10.26434/chemrxiv-2022-dl347
+license: MIT
+repository-code: "https://github.com/iktos/simulator-predictor-hacking.git"
+date-released: 2022-09-23

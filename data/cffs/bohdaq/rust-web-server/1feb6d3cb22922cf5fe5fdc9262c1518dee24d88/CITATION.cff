@@ -1,0 +1,12 @@
+cff-version: 0.0.1
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Tsap
+    given-names: Bohdan
+    orcid: https://orcid.org/0000-0002-5221-5607
+    email: bohdan.tsap@tutanota.com
+title: "Rust Web Server"
+version: 0.0.12
+doi: 10.5281/zenodo.7108862
+date-released: 2022-09-18
+url: "https://github.com/bohdaq/rust-web-server/"

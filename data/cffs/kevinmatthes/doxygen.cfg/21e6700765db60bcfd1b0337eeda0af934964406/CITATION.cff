@@ -1,0 +1,52 @@
+######################## GNU General Public License 2.0 ########################
+##                                                                            ##
+## Copyright (C) 2022 Kevin Matthes                                           ##
+##                                                                            ##
+## This program is free software; you can redistribute it and/or modify       ##
+## it under the terms of the GNU General Public License as published by       ##
+## the Free Software Foundation; either version 2 of the License, or          ##
+## (at your option) any later version.                                        ##
+##                                                                            ##
+## This program is distributed in the hope that it will be useful,            ##
+## but WITHOUT ANY WARRANTY; without even the implied warranty of             ##
+## MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the              ##
+## GNU General Public License for more details.                               ##
+##                                                                            ##
+## You should have received a copy of the GNU General Public License along    ##
+## with this program; if not, write to the Free Software Foundation, Inc.,    ##
+## 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.                ##
+##                                                                            ##
+################################################################################
+
+################################################################################
+##
+##  AUTHOR      Kevin Matthes
+##  BRIEF       Citation settings for the Git repository.
+##  COPYRIGHT   GPL-2.0
+##  DATE        2022
+##  FILE        CITATION.cff
+##  NOTE        See `LICENSE' for full license.
+##              See `README.md' for project details.
+##
+################################################################################
+
+# Parser settings.
+cff-version: 1.2.0
+message: Please cite this software using these meta data.
+
+# Version information.
+date-released: 2022-09-01
+version: 0.1.0
+
+# Project information.
+abstract: A set of Doxygen setting templates.
+authors:
+  - alias: kevinmatthes
+    family-names: Matthes
+    given-names: Kevin
+license: GPL-2.0
+repository-artifact: https://github.com/kevinmatthes/doxygen.cfg
+title: doxygen.cfg
+url: https://github.com/kevinmatthes/doxygen.cfg
+
+################################################################################

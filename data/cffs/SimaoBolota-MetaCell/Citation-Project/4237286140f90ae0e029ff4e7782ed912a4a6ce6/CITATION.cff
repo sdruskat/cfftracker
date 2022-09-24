@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: If you use this plugin, please cite it using these metadata
+title: CZI-Citation-Final-draft
+authors:
+- family-names: Simao
+  given-names: sa
+url: https://github.com/SimaoBolota-MetaCell/CZI-Citation-Final-draft
+date-released: '2022-01-01'
+preferred-citation:
+  type: journal
+  journal:
+  - bioRxiv
+  title: '{Instance segmentation of mitochondria in electron microscopy images with
+    a generalist deep learning model'
+  doi: 10.1101/2022.03.17.484806
+  url:
+  - https://www.biorxiv.org/content/early/2022/03/18/2022.03.17.484806
+  authors:
+  - family-names: Conrad
+    given-names: Ryan
+  - family-names: Narayan
+    given-names: Kedar
+references:
+  type: book
+  publisher: Cold Spring Harbor Laboratory
+  title: '{Instance segmentation of mitochondria in electron microscopy images with
+    a generalist deep learning model'
+  doi: 10.1101/2022.03.17.484806

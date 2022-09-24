@@ -655,6 +655,9 @@
         "BiGCAT-UM": [
             "IMD-PUPY"
         ],
+        "Bilallbayrakdar": [
+            "mmocr"
+        ],
         "Binaryhat": [
             "New_diagram.net"
         ],
@@ -1532,7 +1535,8 @@
             "SOFTX_2019_19",
             "SOFTX-D-20-00075-",
             "SOFTX-D-20-00100",
-            "SOFTX-D-21-00030"
+            "SOFTX-D-21-00030",
+            "SOFTX-D-20-00075"
         ],
         "EmilienDupont": [
             "neural-processes"
@@ -1834,7 +1838,8 @@
             "image_retrieval"
         ],
         "GOMC-WSU": [
-            "py-MCMD"
+            "py-MCMD",
+            "MoSDeF-GOMC"
         ],
         "GQCG-res": [
             "spin-diagrams"
@@ -1886,6 +1891,9 @@
         ],
         "GaryQ-physics": [
             "swmfio"
+        ],
+        "Gchism94": [
+            "Data7_EDA_In_Shell"
         ],
         "GeSchr": [
             "Test2"
@@ -1939,6 +1947,10 @@
             "data-public-waste-skips-blantyre",
             "manuscript-template",
             "manuscript-maize-mills"
+        ],
+        "GobyJIT": [
+            "GobyJIT",
+            "GobyAnalyzer"
         ],
         "GooglingTheCancerGenome": [
             "sv-callers",
@@ -2478,6 +2490,9 @@
         "JAnderson419": [
             "Ferro"
         ],
+        "JDLeongomez": [
+            "ScolarlyOutput"
+        ],
         "JGAntunes": [
             "pulsarcast",
             "js-pulsarcast"
@@ -2793,6 +2808,9 @@
         ],
         "JustinAsbee": [
             "Bayes-Analysis"
+        ],
+        "JustinPorter88": [
+            "microslip-rough-contact"
         ],
         "JustinZal": [
             "PendulumNN"
@@ -3603,6 +3621,9 @@
             "EigenCuda",
             "cpp2wasm"
         ],
+        "NLP-Guild": [
+            "knowledge-based-QA-for-diagnosis"
+        ],
         "NLeSC": [
             "guide",
             "litstudy",
@@ -3780,6 +3801,9 @@
         "NienkeHoltzer": [
             "one-stop-shop_scheduling"
         ],
+        "NightFoxyClara": [
+            "pythonProject"
+        ],
         "Nightvg": [
             "template_matching_fundus"
         ],
@@ -3877,6 +3901,9 @@
         ],
         "ObenaufLab": [
             "CaTCH"
+        ],
+        "Ocean-Data-Lab": [
+            "ooipy"
         ],
         "OceanParcels": [
             "parcels"
@@ -4078,6 +4105,9 @@
         "PatHealy": [
             "OpenGameAnalytics"
         ],
+        "PatrickBaus": [
+            "tinkerforge_async"
+        ],
         "PavelDvoriak": [
             "4it412-sms-extraction"
         ],
@@ -4105,6 +4135,9 @@
         ],
         "Pei-Jou": [
             "Cascade-Mask-R-CNN-ResNeXt101_64x4d_20e_coco-"
+        ],
+        "PennLINC": [
+            "xcp_d"
         ],
         "PeptoneLtd": [
             "ADOPT"
@@ -4314,6 +4347,9 @@
         "Qiza-lyhm": [
             "mmcv_on_mlu"
         ],
+        "QuantumApplicationLab": [
+            "qradio"
+        ],
         "QuantumBFS": [
             "Yao.jl"
         ],
@@ -4504,7 +4540,8 @@
             "mmcv"
         ],
         "Robaina": [
-            "Netflowpy"
+            "Netflowpy",
+            "Pynteny"
         ],
         "RobinHankin": [
             "permutations",
@@ -4900,6 +4937,9 @@
         "SilviaLazzardi": [
             "Emergent_Laws_in_scRNA-seq_Data"
         ],
+        "SimaoBolota-MetaCell": [
+            "Citation-Project"
+        ],
         "SimonWaldherr": [
             "golang-examples"
         ],
@@ -5077,6 +5117,9 @@
         ],
         "SupervisedStylometry": [
             "SuperStyl"
+        ],
+        "SupradhaBhat": [
+            "Voting-system-Blockchain"
         ],
         "SurachanLiao": [
             "music_generation"
@@ -5424,6 +5467,9 @@
             "geocoding",
             "mmi-parser-rs"
         ],
+        "UMEssen": [
+            "FHIR-PYrate"
+        ],
         "UNSW-codeRs": [
             "geospatial-data-in-R",
             "workshop-random-forests",
@@ -5747,6 +5793,9 @@
         ],
         "ZJULearning": [
             "SRDet"
+        ],
+        "ZJUTSong": [
+            "Ifly-XRay-Detection"
         ],
         "ZJxyo": [
             "Topdown2DShooterGame"
@@ -6169,6 +6218,9 @@
         ],
         "aland25": [
             "https-github.com-storopoli-Linguagem-R"
+        ],
+        "alandtse": [
+            "auth_capture_proxy"
         ],
         "alanfox": [
             "spg_fresh_blob_202104"
@@ -7395,6 +7447,9 @@
         "bptlab": [
             "rpa-dmn-operation"
         ],
+        "bqth29": [
+            "simulated-bifurcation-algorithm"
+        ],
         "brad-ley": [
             "angewandte2022"
         ],
@@ -7814,7 +7869,8 @@
             "eapam_cc_vs_qc"
         ],
         "cgosmeyer": [
-            "atl02v"
+            "atl02v",
+            "mkpypkg"
         ],
         "cgre-aachen": [
             "gemgis"
@@ -7858,6 +7914,9 @@
             "pygeoutils",
             "pygeoogc",
             "async_retriever"
+        ],
+        "chelauk": [
+            "ctj-beagleberg"
         ],
         "cheminfo": [
             "nmrium",
@@ -8264,7 +8323,8 @@
         ],
         "cran": [
             "RKorAPClient",
-            "handlr"
+            "handlr",
+            "cffr"
         ],
         "creanero": [
             "beamModelTester",
@@ -9793,6 +9853,9 @@
         "fireindark707": [
             "Python-Schema-Matching"
         ],
+        "fishtree-attempt": [
+            "simple-linear-regression-public-health"
+        ],
         "fiskhe": [
             "Interstate-Perception-Project"
         ],
@@ -10344,6 +10407,9 @@
         "goharShoukat": [
             "Site-Surveying-Data-handling-Visualiation"
         ],
+        "gohjiayi": [
+            "flipkart_marketing_analytics"
+        ],
         "gokcehan": [
             "pns"
         ],
@@ -10633,6 +10699,9 @@
         ],
         "hbnreddy": [
             "biojava"
+        ],
+        "hbrs-cse": [
+            "Modellbildung-und-Simulation"
         ],
         "hcigroupkonstanz": [
             "STREAM",
@@ -11049,6 +11118,9 @@
         ],
         "iksrwth": [
             "visualization-of-sh-domain-operations"
+        ],
+        "iktos": [
+            "simulator-predictor-hacking"
         ],
         "ilarijn": [
             "yle-summarizer"
@@ -12636,7 +12708,8 @@
             "benchmarks"
         ],
         "leoxiang66": [
-            "transformer-implementation-pytorch"
+            "transformer-implementation-pytorch",
+            "chatbots"
         ],
         "lesandrop": [
             "Introd-Pesq-Informatica",
@@ -12830,6 +12903,9 @@
         ],
         "louisngo": [
             "mmclassification"
+        ],
+        "lounesmechouek": [
+            "AutomaticLPDR"
         ],
         "lovelabUCL": [
             "dimensionality"
@@ -13300,7 +13376,8 @@
         "matriarx": [
             "matriarx",
             "theme-react",
-            "i18n-react"
+            "i18n-react",
+            "meta"
         ],
         "mattbilskie": [
             "2022EF_NGOM_Flood_Risk"
@@ -15428,7 +15505,8 @@
             "louvain-adjust-iteration-processing",
             "sum-openmp-adjust-schedule",
             "pagerank-ordered-openmp-adjust-tolerance",
-            "pagerank-openmp-ordered-vs-unordered"
+            "pagerank-openmp-ordered-vs-unordered",
+            "louvain-adjust-tolerance"
         ],
         "pvlib": [
             "twoaxistracking"
@@ -16136,7 +16214,8 @@
             "Artemis",
             "MakeRecipes",
             "widgets",
-            "fountain"
+            "fountain",
+            "pdtk"
         ],
         "rseng": [
             "rseng",
@@ -16478,7 +16557,8 @@
         ],
         "scikit-hep": [
             "awkward",
-            "pyhf"
+            "pyhf",
+            "uproot5"
         ],
         "scikit-mobility": [
             "scikit-mobility",
@@ -17296,6 +17376,9 @@
         "stillwater-sc": [
             "universal"
         ],
+        "stlmx": [
+            "mmdetection"
+        ],
         "stnolting": [
             "neoTRNG",
             "neorv32"
@@ -17588,6 +17671,9 @@
         ],
         "tell": [
             "aes-ni"
+        ],
+        "temach": [
+            "jplang"
         ],
         "tenAlf": [
             "vaccines_germany"
@@ -18418,6 +18504,9 @@
             "hybrid-vocal-classifier",
             "crowsetta"
         ],
+        "volcanolee4": [
+            "AO2_Rotattn_Deformable_DETR"
+        ],
         "votca": [
             "votca",
             "PyVOTCA"
@@ -18627,6 +18716,9 @@
         "wineslab": [
             "colosseum-oran-commag-dataset",
             "colosseum-scope"
+        ],
+        "wisrovi": [
+            "covert_letter_generator"
         ],
         "wissamjur": [
             "LocalImpact"
@@ -19022,6 +19114,9 @@
         ],
         "zerothi": [
             "sisl"
+        ],
+        "zeyuliu1037": [
+            "mmdetection_hoyer"
         ],
         "zezeze97": [
             "kaggle_segmentation"

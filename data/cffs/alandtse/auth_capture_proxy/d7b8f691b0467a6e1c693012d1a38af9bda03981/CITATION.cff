@@ -1,0 +1,11 @@
+cff-version: 1.1.0
+message: Software reference
+title: auth_capture_proxy
+version: 0.1.0
+abstract: A Python project
+authors:
+  -
+    family-names: $${author.last#1}
+    given-names: $${author.first#1}
+keywords: [""]
+date-released: $${today.zulu}
