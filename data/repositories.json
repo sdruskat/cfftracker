@@ -68,6 +68,9 @@
             "knime-pharmacophore",
             "kripo"
         ],
+        "3dfernando": [
+            "DynamicMasking"
+        ],
         "3mmaRand": [
             "pgr_reproducibility",
             "rsb_online"
@@ -636,6 +639,9 @@
         ],
         "Behrad777": [
             "Physics-IA-Files-2022"
+        ],
+        "BenBritons": [
+            "Geometrical_figures_lab_12"
         ],
         "BenScott758": [
             "arvizz"
@@ -6866,6 +6872,9 @@
         "aterenin": [
             "phdthesis"
         ],
+        "atfric": [
+            "eofR"
+        ],
         "atishdixit16": [
             "rl_robust_owc"
         ],
@@ -7707,7 +7716,8 @@
             "abg-ld"
         ],
         "canturan10": [
-            "satellighte"
+            "satellighte",
+            "light_side"
         ],
         "captn3m0": [
             "india-isin-data"

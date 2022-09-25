@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Script to demonstrate empirical orthogonal
+  functions in R
+message: 'if you use this software, please cite'
+type: software
+authors:
+  - given-names: Stephan
+    family-names: Frickenhaus
+    email: Stephan.Frickenhaus@awi.de
+    affiliation: >-
+      Alfred Wegener Institute Helmholtz Centre for
+      Polar and Marine Research
+    orcid: 'https://orcid.org/0000-0002-0356-9791'
