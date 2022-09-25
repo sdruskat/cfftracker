@@ -1,8 +1,0 @@
-cff-version: 1.0.0
-message: "If you use this software, please cite it as below."
-authors:
-  - family-names: Coopey
-    given-names: Ewan
-    orcid: https://orcid.org/0000-0001-8633-6418
-title: "Bromans_with_R"
-url: "https://github.com/EwanSC/Bromans_with_R"

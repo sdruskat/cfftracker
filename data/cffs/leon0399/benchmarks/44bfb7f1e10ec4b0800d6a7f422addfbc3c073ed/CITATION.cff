@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use results, please cite it as below."
-authors:
-- family-names: "Meleshin"
-  given-names: "Leonid"
-  orcid: "https://orcid.org/0000-0002-9132-6406"
-title: "Complete Benchmark"
-date-released: 2021-09-13
-url: "https://github.com/leon0399/benchmarks"

@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Hutchins"
-  given-names: "Benjamin William"
-title: "The importance of subsequent amendments to the Montreal Protocol for protecting the ozone layer and climate"
-version: 1.0
-date-released: 2022-5-23
-url: "https://github.com/benhutchins25/MP_Impact_Modelling"

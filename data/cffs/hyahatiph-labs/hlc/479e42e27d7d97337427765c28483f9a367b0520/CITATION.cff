@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Labs"
-  given-names: "Hyahatiph"
-title: "Hyahatiph Labs Cryptography Research"
-version: 0.1.0
-date-released: 2022-04-19
-url: "https://github.com/hyahatiph-labs/hlc"

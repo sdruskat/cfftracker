@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this code, please cite it as below."
-authors:
-- family-names: "Wu"
-  given-names: "Hecong"
-title: "A Simple Neural Network Model For Extracting Regions From An Image"
-version: 1.0.0
-date-released: 2021-10-28
-url: "https://github.com/HighCWu/SimpleRegion"

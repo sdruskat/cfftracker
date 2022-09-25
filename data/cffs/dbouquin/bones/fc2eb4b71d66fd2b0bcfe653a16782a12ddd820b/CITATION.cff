@@ -1,9 +1,0 @@
-cff-version: 1.0.3
-message: If any code that ends up in this repo it should be cited as below; non-code is licensed CC BY-NC-SA 4.0
-authors:
-  - family-names: Bouquin
-    given-names: Daina
-    orcid: https://orcid.org/0000-0003-2626-3688
-title: Idea Bones
-license: https://opensource.org/licenses/MIT
-repository-code: https://github.com/dbouquin/bones

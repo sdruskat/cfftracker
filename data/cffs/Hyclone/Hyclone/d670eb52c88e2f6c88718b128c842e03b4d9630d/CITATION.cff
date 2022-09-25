@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-title: Hyclone
-message: >-
-  If you use some code from this repository, please
-  credit it using these metadata.
-type: software
-authors:
-  - name: AFCM
-    email: afcm.contact@gmail.com

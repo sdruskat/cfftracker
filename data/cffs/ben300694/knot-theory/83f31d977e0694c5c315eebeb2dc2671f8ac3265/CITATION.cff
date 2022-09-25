@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-  - family-names: Ruppik
-    given-names: Benjamin Matthias
-    orcid: https://orcid.org/0000-0001-9035-9217
-title: "Knot groups, Casson-Whitney unknotting and Suciu's ribbon 2-knots in SageMath/GAP"
-version: 1.0.0
-date-released: 2021-10-01

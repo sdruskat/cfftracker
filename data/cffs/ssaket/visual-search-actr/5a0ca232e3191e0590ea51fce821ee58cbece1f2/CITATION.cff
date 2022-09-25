@@ -1,6 +1,0 @@
-authors:
-  - family-names: Saurabh
-    given-names: Saket
-cff-version: 0.0.1
-message: If you use this software, please cite it using these metadata.
-title: Generate synthetic eye-tracking data using deep learning and ACT-R cognitive model

@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Leongómez"
-  given-names: "Juan David"
-  orcid: "https://orcid.org/0000-0002-0092-6298"
-title: "ScolarlyOutput"
-date-released: 2022-09-13
-url: "https://github.com/JDLeongomez/ScolarlyOutput"

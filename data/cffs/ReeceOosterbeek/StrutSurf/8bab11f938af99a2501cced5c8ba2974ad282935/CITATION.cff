@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-  - family-names: Oosterbeek
-    given-names: Reece N.
-    orcid: https://orcid.org/0000-0002-2412-4505
-title: "StrutSurf"
-version: 1.0
-date-released: 2021-10-13

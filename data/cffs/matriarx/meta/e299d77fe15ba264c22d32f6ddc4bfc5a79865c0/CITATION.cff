@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "No citation is required to use this software."
-authors:
-  - family-names: "Matriarx"
-    given-names: "Mia"
-title: "Meta"
-verion: "0.0.1"
-date-released: 2022-08-06
-url: "https://github.com/matriarx/meta"

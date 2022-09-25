@@ -1,9 +1,0 @@
-cff-version: 1.0.0
-message: "If you use this software, please cite it as below."
-authors:
-  - family-names: Cavalcante
-    given-names: "João Vitor"
-    orcid: https://orcid.org/0000-0001-7513-7376
-title: "MetaMage"
-version: 3.0.0
-url: "https://github.com/jvfe/metamage_latch"

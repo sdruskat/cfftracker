@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: Romero
-  given-names: Eduardo
-title: "Bolt"
-version: 1.0.0
-date-released: 2022-04-14
-url: "https://github.com/EduardoRomero83/CADM"

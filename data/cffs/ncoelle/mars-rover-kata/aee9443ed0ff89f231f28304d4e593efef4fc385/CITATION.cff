@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-title: Mars Rover Kata
-message: If you really want to cite this repository, here's how you should cite it.
-type: software
-authors:
-  - given-names: Niels
-    family-names: Cölle
-repository-code: 'https://github.com/ncoelle/mars-rover-kata'
-license: Unlicense

@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "No citation is required to use this software."
-authors:
-  - family-names: "Matriarx"
-    given-names: "Mia"
-title: "Theme ~ React"
-verion: "0.0.1"
-date-released: 2022-08-22
-url: "https://github.com/matriarx/theme-react"

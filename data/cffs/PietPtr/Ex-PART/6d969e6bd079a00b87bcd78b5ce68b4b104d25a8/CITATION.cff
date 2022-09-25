@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Staal"
-  given-names: "P. J."
-- family-names: "Folmer"
-  given-names: "H. H."
-title: "Ex-PART"
-url: "https://github.com/PietPtr/Ex-PART"

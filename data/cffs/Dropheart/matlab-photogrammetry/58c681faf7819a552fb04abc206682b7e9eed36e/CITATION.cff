@@ -1,8 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-  - family-names: Abussaud
-    given-names: Ahmed
-title: "Photogrammetry Principles showcased with MATLAB"
-version: 1.0.0
-date-released: 2022-07-24

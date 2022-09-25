@@ -1,8 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-  - family-names: Echavarria
-    given-names: Pablo
-title: "Frontend for learning allen's interval algebra constraint networks"
-version: 1.0.0
-date-released: 2022-07-05

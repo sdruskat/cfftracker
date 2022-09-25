@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "LI"
-  given-names: "ZONGYUE"
-title: "Cluster-analysis-in-BioColour-project"
-version: 1.0.0
-date-released: 2021-08-15
-url: "https://github.com/4daJKong/Cluster-analysis-in-BioColour-project"

@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-  - family-names: Zigunov
-    given-names: Fernando
-    orcid: https://orcid.org/0000-0002-8036-989X
-title: "Dynamic Masking Application"
-version: 0.1
-date-released: 2022-09-06

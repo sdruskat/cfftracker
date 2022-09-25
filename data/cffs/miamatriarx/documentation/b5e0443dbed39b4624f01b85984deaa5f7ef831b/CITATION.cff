@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "No citation is required to use this software."
-authors:
-  - family-names: "Matriarx"
-    given-names: "Mia"
-title: "Documentation"
-verion: "0.0.1"
-date-released: 2022-07-28
-url: "https://github.com/miamatriarx/documentation"

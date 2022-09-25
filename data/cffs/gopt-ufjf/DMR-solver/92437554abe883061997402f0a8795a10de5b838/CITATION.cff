@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "{GOPT - Optimization Group}"
-  given-names: ""
-title: "DMR-SOLVER"
-version: 1.0.0
-date-released: 2021-12-10
-url: "https://github.com/gopt-ufjf/DMR-solver"

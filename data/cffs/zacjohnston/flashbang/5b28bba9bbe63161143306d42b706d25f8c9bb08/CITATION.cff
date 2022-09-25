@@ -1,9 +1,0 @@
-cff-version: 1.0.0
-message: "If you use this software, please cite it as below."
-authors:
-  - family-names: Johnston
-    given-names: Zac
-    orcid: https://orcid.org/0000-0003-4023-4488
-title: flashbang
-version: v1.0.0
-date-released: 2022-02-07

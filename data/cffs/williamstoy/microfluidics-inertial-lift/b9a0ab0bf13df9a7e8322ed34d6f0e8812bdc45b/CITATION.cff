@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-  - family-names: Stoy
-    given-names: William
-    orcid: https://orcid.org/0000-0001-9425-0809
-title: "Calculation of inertial lift in microfluidic channels for ANSYS Fluent"
-version: 0.1.0
-date-released: 2022-02-14

@@ -1,9 +1,0 @@
-# YAML 1.2
----
-authors: 
-cff-version: "1.1.0"
-message: |
-    "If you use this software, please cite preciseTAD: A transfer learning framework for 3D domain boundary prediction at base-pair resolution
-    Spiro C. Stilianoudakis, Maggie A. Marshall, Mikhail G. Dozmorov
-    bioRxiv 2020.09.03.282186; doi: https://doi.org/10.1101/2020.09.03.282186"
-...

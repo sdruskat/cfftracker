@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use content from this repository, please cite it as below."
-authors:
-  - family-names: Rice
-    given-names: Brandon
-    orcid: https://orcid.org/0000-0002-5775-2890
-title: "ROS from the Ground Up Tutorials"
-version: 0.1.0
-date-released: 2022-08-30

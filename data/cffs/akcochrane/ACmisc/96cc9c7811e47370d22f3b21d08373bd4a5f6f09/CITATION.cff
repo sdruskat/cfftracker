@@ -1,9 +1,0 @@
-cff-version: 00.00.10
-message: "If you use this software, please cite it as below."
-authors:
-  - family-names: Cochrane
-    given-names: Aaron
-    orcid: https://orcid.org/0000-0001-6691-9149
-title: akcochrane/ACmisc
-version: 00.00.10
-date-released: 2021-12-10

@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Seidman"
-  given-names: "Lance"
-  orcid: "https://orcid.org/0000-0001-7126-4108"
-title: "Ropsten Faucet Add-on"
-version: 1.0.0
-url: "https://github.com/lanceseidman/ropsten-faucet
