@@ -9795,6 +9795,9 @@
         "feng-lab": [
             "mmdetection"
         ],
+        "fengbingchun": [
+            "PyTorch_Test"
+        ],
         "fengguoFUAS": [
             "evoTurb"
         ],
@@ -11201,6 +11204,9 @@
             "n2khelper",
             "territoria",
             "inbodb"
+        ],
+        "indonesian-nlp": [
+            "multilingual-asr"
         ],
         "inducer": [
             "pyopencl",
@@ -14570,6 +14576,9 @@
             "snap-data.sh",
             "extra-markdown-text"
         ],
+        "nodev918": [
+            "qdraw"
+        ],
         "nogazs": [
             "ib-color-naming"
         ],
@@ -15204,6 +15213,9 @@
         ],
         "perlreview": [
             "returnvalue"
+        ],
+        "peter-jos": [
+            "The-Delectable-Dictionary"
         ],
         "peterbro1": [
             "RCCS_Impl",
@@ -18055,6 +18067,9 @@
         "trofimovep": [
             "blshdi-neural-network",
             "Check-the-Bryne-theorem"
+        ],
+        "trv-datasci": [
+            "nf-alphafold"
         ],
         "trytoolchest": [
             "toolchest-client-r"
