@@ -14,30 +14,18 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.8
+          python-version: '3.11'
+          cache: 'pip'
 
-      - name: Set up cache
-        uses: actions/cache@master
-        id: cache
-        with:
-          path: ${{ env.pythonLocation}}/lib/python3.8/site-packages/*
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
-            ${{ runner.os }}-
-            
       - name: Install Python requirements
-        if: steps.cache.outputs.cache-hit != 'true'
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-      - name: Update the file count
+        run: pip install -r requirements.txt
 
+      - name: Update the file count
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # if run.py requires passwords..etc, set it as secrets
         run: |
