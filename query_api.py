@@ -15,7 +15,7 @@ sleep_time = 10
 def query():
     # Retrieve the total count of CITATION.cff files on GitHub via the GitHub API
     token = os.environ.get('GITHUB_TOKEN')
-    query_url = 'https://api.github.com/search/code?q=filename:CITATION.cff'
+    query_url = 'https://api.github.com/search/code?q=path:CITATION.cff'
     response = requests.get(query_url, headers={'Authorization': 'token ' + token})
     response_json = response.json()
     # Catch if the total_count key doesn't exist and try again
