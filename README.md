@@ -3,6 +3,8 @@ SPDX-FileCopyrightText: 2021 Stephan Druskat <mail@sdruskat.net>
 SPDX-License-Identifier: CC-BY-4.0
 -->
 
+:warning: Due to changes in the GitHub Search API, these data currently aren't reliable.
+
 # cfftracker
 
 Tracks `CITATION.cff` files across public repositories on GitHub.
