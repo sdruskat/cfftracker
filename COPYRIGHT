@@ -1,0 +1,25 @@
+;; SPDX-FileCopyrightText: 2021 Stephan Druskat <mail@sdruskat.net>
+;; SPDX-License-Identifier: MIT
+
+This file provides information about which license is applied when.  For
+convenience and simplicity, all plain text files carry a header similar to the
+one of this file at their top.  This header informs about the respective license
+applied.
+
+
+
+MIT:
+  The source code provided in this repository as well as this information file
+  are licensed under the MIT license.
+
+
+
+CC-BY-4.0:
+  All documentation files and images are licensed under CC-BY-4.0.  Please use
+  the metadata provided in CITATION.cff to cite this work.
+
+
+
+CC0-1.0:
+  Any file which is neither source code nor an image nor used for documentation
+  is licensed under CC0-1.0.
